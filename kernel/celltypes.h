@@ -116,6 +116,7 @@ struct CellTypes
 	{
 		setup_type("$sr", {"\\SET", "\\CLR"}, {"\\Q"});
 		setup_type("$dff", {"\\CLK", "\\D"}, {"\\Q"});
+		setup_type("$dffe", {"\\CLK", "\\EN", "\\D"}, {"\\Q"});
 		setup_type("$dffsr", {"\\CLK", "\\SET", "\\CLR", "\\D"}, {"\\Q"});
 		setup_type("$adff", {"\\CLK", "\\ARST", "\\D"}, {"\\Q"});
 		setup_type("$dlatch", {"\\EN", "\\D"}, {"\\Q"});
@@ -155,6 +156,10 @@ struct CellTypes
 
 		for (auto c1 : list_np)
 			setup_type(stringf("$_DFF_%c_", c1), {"\\C", "\\D"}, {"\\Q"});
+
+		for (auto c1 : list_np)
+		for (auto c2 : list_np)
+			setup_type(stringf("$_DFFE_%c%c_", c1, c2), {"\\C", "\\D", "\\E"}, {"\\Q"});
 
 		for (auto c1 : list_np)
 		for (auto c2 : list_np)

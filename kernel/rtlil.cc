@@ -27,6 +27,7 @@
 
 YOSYS_NAMESPACE_BEGIN
 
+RTLIL::IdString::destruct_guard_t RTLIL::IdString::destruct_guard;
 std::vector<int> RTLIL::IdString::global_refcount_storage_;
 std::vector<char*> RTLIL::IdString::global_id_storage_;
 std::map<char*, int, RTLIL::IdString::char_ptr_cmp> RTLIL::IdString::global_id_index_;
@@ -752,6 +753,17 @@ namespace {
 				return;
 			}
 
+			if (cell->type == "$dffe") {
+				param_bool("\\CLK_POLARITY");
+				param_bool("\\EN_POLARITY");
+				port("\\CLK", 1);
+				port("\\EN", 1);
+				port("\\D", param("\\WIDTH"));
+				port("\\Q", param("\\WIDTH"));
+				check_expected();
+				return;
+			}
+
 			if (cell->type == "$dffsr") {
 				param_bool("\\CLK_POLARITY");
 				param_bool("\\SET_POLARITY");
@@ -891,6 +903,11 @@ namespace {
 
 			if (cell->type == "$_DFF_N_") { check_gate("DQC"); return; }
 			if (cell->type == "$_DFF_P_") { check_gate("DQC"); return; }
+
+			if (cell->type == "$_DFFE_NN_") { check_gate("DQCE"); return; }
+			if (cell->type == "$_DFFE_NP_") { check_gate("DQCE"); return; }
+			if (cell->type == "$_DFFE_PN_") { check_gate("DQCE"); return; }
+			if (cell->type == "$_DFFE_PP_") { check_gate("DQCE"); return; }
 
 			if (cell->type == "$_DFF_NN0_") { check_gate("DQCR"); return; }
 			if (cell->type == "$_DFF_NN1_") { check_gate("DQCR"); return; }
@@ -1579,12 +1596,25 @@ RTLIL::Cell* RTLIL::Module::addSr(RTLIL::IdString name, RTLIL::SigSpec sig_set, 
 	return cell;
 }
 
-RTLIL::Cell* RTLIL::Module::addDff(RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_d,   RTLIL::SigSpec sig_q, bool clk_polarity)
+RTLIL::Cell* RTLIL::Module::addDff(RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_d, RTLIL::SigSpec sig_q, bool clk_polarity)
 {
 	RTLIL::Cell *cell = addCell(name, "$dff");
 	cell->parameters["\\CLK_POLARITY"] = clk_polarity;
 	cell->parameters["\\WIDTH"] = sig_q.size();
 	cell->setPort("\\CLK", sig_clk);
+	cell->setPort("\\D", sig_d);
+	cell->setPort("\\Q", sig_q);
+	return cell;
+}
+
+RTLIL::Cell* RTLIL::Module::addDffe(RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_en, RTLIL::SigSpec sig_d, RTLIL::SigSpec sig_q, bool clk_polarity, bool en_polarity)
+{
+	RTLIL::Cell *cell = addCell(name, "$dffe");
+	cell->parameters["\\CLK_POLARITY"] = clk_polarity;
+	cell->parameters["\\EN_POLARITY"] = en_polarity;
+	cell->parameters["\\WIDTH"] = sig_q.size();
+	cell->setPort("\\CLK", sig_clk);
+	cell->setPort("\\EN", sig_en);
 	cell->setPort("\\D", sig_d);
 	cell->setPort("\\Q", sig_q);
 	return cell;
@@ -1652,6 +1682,16 @@ RTLIL::Cell* RTLIL::Module::addDffGate(RTLIL::IdString name, RTLIL::SigSpec sig_
 {
 	RTLIL::Cell *cell = addCell(name, stringf("$_DFF_%c_", clk_polarity ? 'P' : 'N'));
 	cell->setPort("\\C", sig_clk);
+	cell->setPort("\\D", sig_d);
+	cell->setPort("\\Q", sig_q);
+	return cell;
+}
+
+RTLIL::Cell* RTLIL::Module::addDffeGate(RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_en, RTLIL::SigSpec sig_d, RTLIL::SigSpec sig_q, bool clk_polarity, bool en_polarity)
+{
+	RTLIL::Cell *cell = addCell(name, stringf("$_DFFE_%c%c_", clk_polarity ? 'P' : 'N', en_polarity ? 'P' : 'N'));
+	cell->setPort("\\C", sig_clk);
+	cell->setPort("\\E", sig_en);
 	cell->setPort("\\D", sig_d);
 	cell->setPort("\\Q", sig_q);
 	return cell;
@@ -2146,6 +2186,16 @@ RTLIL::SigSpec::SigSpec(std::set<RTLIL::SigBit> bits)
 	hash_ = 0;
 	for (auto &bit : bits)
 		append_bit(bit);
+	check();
+}
+
+RTLIL::SigSpec::SigSpec(bool bit)
+{
+	cover("kernel.rtlil.sigspec.init.bool");
+
+	width_ = 0;
+	hash_ = 0;
+	append_bit(bit);
 	check();
 }
 

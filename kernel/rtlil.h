@@ -85,6 +85,12 @@ namespace RTLIL
 			}
 		};
 
+		static struct destruct_guard_t {
+			bool ok = false;
+			destruct_guard_t() { ok = true; }
+			~destruct_guard_t() { ok = false; }
+		} destruct_guard;
+
 		static std::vector<int> global_refcount_storage_;
 		static std::vector<char*> global_id_storage_;
 		static std::map<char*, int, char_ptr_cmp> global_id_index_;
@@ -98,6 +104,8 @@ namespace RTLIL
 
 		static inline int get_reference(const char *p)
 		{
+			log_assert(destruct_guard.ok);
+
 			if (p[0]) {
 				log_assert(p[1] != 0);
 				log_assert(p[0] == '$' || p[0] == '\\');
@@ -126,6 +134,11 @@ namespace RTLIL
 
 		static inline void put_reference(int idx)
 		{
+			// put_reference() may be called from destructors after the destructor of
+			// global_refcount_storage_ has been run. in this case we simply do nothing.
+			if (!destruct_guard.ok)
+				return;
+
 			log_assert(global_refcount_storage_.at(idx) > 0);
 
 			if (--global_refcount_storage_.at(idx) != 0)
@@ -701,6 +714,7 @@ public:
 
 	RTLIL::Cell* addSr    (RTLIL::IdString name, RTLIL::SigSpec sig_set, RTLIL::SigSpec sig_clr, RTLIL::SigSpec sig_q, bool set_polarity = true, bool clr_polarity = true);
 	RTLIL::Cell* addDff   (RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_d,   RTLIL::SigSpec sig_q, bool clk_polarity = true);
+	RTLIL::Cell* addDffe  (RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_en,  RTLIL::SigSpec sig_d, RTLIL::SigSpec sig_q, bool clk_polarity = true, bool en_polarity = true);
 	RTLIL::Cell* addDffsr (RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_set, RTLIL::SigSpec sig_clr,
 			RTLIL::SigSpec sig_d, RTLIL::SigSpec sig_q, bool clk_polarity = true, bool set_polarity = true, bool clr_polarity = true);
 	RTLIL::Cell* addAdff (RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_arst, RTLIL::SigSpec sig_d, RTLIL::SigSpec sig_q,
@@ -723,6 +737,7 @@ public:
 	RTLIL::Cell* addOai4Gate (RTLIL::IdString name, RTLIL::SigBit sig_a, RTLIL::SigBit sig_b, RTLIL::SigBit sig_c, RTLIL::SigBit sig_d, RTLIL::SigBit sig_y);
 
 	RTLIL::Cell* addDffGate    (RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_d, RTLIL::SigSpec sig_q, bool clk_polarity = true);
+	RTLIL::Cell* addDffeGate   (RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_en, RTLIL::SigSpec sig_d, RTLIL::SigSpec sig_q, bool clk_polarity = true, bool en_polarity = true);
 	RTLIL::Cell* addDffsrGate  (RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_set, RTLIL::SigSpec sig_clr,
 			RTLIL::SigSpec sig_d, RTLIL::SigSpec sig_q, bool clk_polarity = true, bool set_polarity = true, bool clr_polarity = true);
 	RTLIL::Cell* addAdffGate   (RTLIL::IdString name, RTLIL::SigSpec sig_clk, RTLIL::SigSpec sig_arst, RTLIL::SigSpec sig_d, RTLIL::SigSpec sig_q,
@@ -897,6 +912,7 @@ struct RTLIL::SigBit
 
 	SigBit() : wire(NULL), data(RTLIL::State::S0) { }
 	SigBit(RTLIL::State bit) : wire(NULL), data(bit) { }
+	SigBit(bool bit) : wire(NULL), data(bit ? RTLIL::S1 : RTLIL::S0) { }
 	SigBit(RTLIL::Wire *wire) : wire(wire), offset(0) { log_assert(wire && wire->width == 1); }
 	SigBit(RTLIL::Wire *wire, int offset) : wire(wire), offset(offset) { log_assert(wire != nullptr); }
 	SigBit(const RTLIL::SigChunk &chunk) : wire(chunk.wire) { log_assert(chunk.width == 1); if (wire) offset = chunk.offset; else data = chunk.data[0]; }
@@ -980,6 +996,7 @@ public:
 	SigSpec(std::vector<RTLIL::SigChunk> chunks);
 	SigSpec(std::vector<RTLIL::SigBit> bits);
 	SigSpec(std::set<RTLIL::SigBit> bits);
+	SigSpec(bool bit);
 
 	SigSpec(RTLIL::SigSpec &&other) {
 		width_ = other.width_;

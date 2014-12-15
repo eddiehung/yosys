@@ -59,7 +59,7 @@ module _90_simplemap_various;
 endmodule
 
 (* techmap_simplemap *)
-(* techmap_celltype = "$sr $dff $adff $dffsr $dlatch" *)
+(* techmap_celltype = "$sr $dff $dffe $adff $dffsr $dlatch" *)
 module _90_simplemap_registers;
 endmodule
 
@@ -207,7 +207,7 @@ module _90_lcu (P, G, CI, CO);
 		g[0] = g[0] | (p[0] & CI);
 
 		// [[CITE]] Brent Kung Adder
-		// R. P. Brent and H. T. Kung, “A Regular Layout for Parallel Adders”,
+		// R. P. Brent and H. T. Kung, "A Regular Layout for Parallel Adders",
 		// IEEE Transaction on Computers, Vol. C-31, No. 3, p. 260-264, March, 1982
 
 		// Main tree
