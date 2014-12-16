@@ -1,0 +1,7 @@
+<map id="RTLIL::const_sshl" name="RTLIL::const_sshl">
+<area shape="rect" id="node2" href="$d3/dc3/namespaceRTLIL.html#a8daaff7a52347f6c535a91badfb5240f" title="RTLIL::const_shl" alt="" coords="182,5,303,32"/>
+<area shape="rect" id="node4" href="$d0/d30/calc_8cc.html#acaae42a7fdbdbb0f731dd681f5133e02" title="const_shift_worker" alt="" coords="353,56,485,83"/>
+<area shape="rect" id="node3" href="$d0/d30/calc_8cc.html#a35cdba709078e9f7d6389386cb5d4dd2" title="extend_u0" alt="" coords="378,5,459,32"/>
+<area shape="rect" id="node5" href="$d0/d30/calc_8cc.html#af547062839d6e235d6ede4d49ac9b298" title="const2big" alt="" coords="551,31,630,57"/>
+<area shape="rect" id="node6" href="$d7/d68/classBigInteger.html#a3aca292e83fc7d9dc09ddd027d6533fe" title="BigInteger::toInt" alt="" coords="534,81,647,108"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="RTLIL::SigSpec::sort_and_unify" name="RTLIL::SigSpec::sort_and_unify">
+<area shape="rect" id="node2" href="$d7/de1/ast_8cc.html#a9a16ac38401c86ce78f91716430e13d6" title="process_module" alt="" coords="228,31,345,57"/>
+<area shape="rect" id="node6" href="$d6/d7b/structEvalPass.html#a4a4bdf892f4516e74c80316b7398c899" title="EvalPass::execute" alt="" coords="223,81,351,108"/>
+<area shape="rect" id="node7" href="$d5/d3f/structFsmExpand.html#a318d209702f0885841d29b2b664aebff" title="FsmExpand::is_cell\l_merge_candidate" alt="" coords="220,133,353,174"/>
+<area shape="rect" id="node11" href="$d5/d3f/structFsmExpand.html#aed190aa8264bb89766d8fa2a8e137326" title="FsmExpand::merge_cell\l_into_fsm" alt="" coords="447,183,606,225"/>
+<area shape="rect" id="node12" href="$d1/d38/fsm__extract_8cc.html#a0f894d9dedeb3f6537902f9d6326a4ca" title="extract_fsm" alt="" coords="241,249,332,276"/>
+<area shape="rect" id="node14" href="$d9/d92/memory__dff_8cc.html#a3620b3fb63afcdfcc86d43cd4798119f" title="disconnect_dff" alt="" coords="233,300,340,327"/>
+<area shape="rect" id="node18" href="$d7/d3f/proc__dff_8cc.html#a25cba04023f441fccd6012f67478f43e" title="find_any_lvalue" alt="" coords="231,351,342,377"/>
+<area shape="rect" id="node21" href="$dd/d09/structSatHelper.html#aec53ebe23a471f4c226a6e84e5d25317" title="SatHelper::generate\l_model" alt="" coords="219,402,355,443"/>
+<area shape="rect" id="node23" href="$d0/d91/structSccWorker.html#a77f4fcc5f3ed60bb62bf3bf39a7ee04f" title="SccWorker::SccWorker" alt="" coords="209,468,365,495"/>
+<area shape="rect" id="node24" href="$d0/d91/structSccWorker.html#addb59268e916c89e0526bbd19c8f13d2" title="SccWorker::select" alt="" coords="223,519,350,545"/>
+<area shape="rect" id="node26" href="$da/d05/structShareWorker.html#a609cde801a68cdf7ca57169e08a9d03a" title="ShareWorker::ShareWorker" alt="" coords="197,569,376,596"/>
+<area shape="rect" id="node27" href="$d3/d4b/structShowWorker.html#ae2f33f17305dd086cd0bac67a51ba962" title="ShowWorker::nextColor" alt="" coords="209,620,365,647"/>
+<area shape="rect" id="node3" href="$d4/dd1/namespaceAST.html#a00d03a3b449399745cee766910ff8fe4" title="AST::process" alt="" coords="477,5,577,32"/>
+<area shape="rect" id="node5" href="$db/d8e/structAST_1_1AstModule.html#a0c7a0b6f77ca9128e0a939a852ae34bd" title="AST::AstModule::derive" alt="" coords="448,56,605,83"/>
+<area shape="rect" id="node4" href="$d0/da7/structVerilogFrontend.html#a8100a46f13a4a29f658524f59a1c9fd0" title="VerilogFrontend::execute" alt="" coords="678,5,842,32"/>
+<area shape="rect" id="node8" href="$d5/d3f/structFsmExpand.html#ac341f53d8b25330cbe37ced7a8246db3" title="FsmExpand::create_current_set" alt="" coords="425,132,629,159"/>
+<area shape="rect" id="node9" href="$d5/d3f/structFsmExpand.html#a9a250621fe7efa0486d5f0fb0958bb75" title="FsmExpand::execute" alt="" coords="689,161,831,188"/>
+<area shape="rect" id="node10" href="$d0/da1/structFsmExpandPass.html#a223062d1576d3faada4be06c6915e102" title="FsmExpandPass::execute" alt="" coords="891,161,1061,188"/>
+<area shape="rect" id="node13" href="$d5/d0c/structFsmExtractPass.html#a38c14c9c9ff47606020a053800ba997b" title="FsmExtractPass::execute" alt="" coords="442,249,611,276"/>
+<area shape="rect" id="node15" href="$d9/d92/memory__dff_8cc.html#aef4b635ec3784b3677db3384c764bf85" title="handle_rd_cell" alt="" coords="474,300,579,327"/>
+<area shape="rect" id="node16" href="$d9/d92/memory__dff_8cc.html#a23dc741cd99335da6c6bb4ec482f7f17" title="handle_module" alt="" coords="705,300,815,327"/>
+<area shape="rect" id="node17" href="$d0/d77/structMemoryDffPass.html#abf5c063e29a96bdd3fb2464249ed7cc0" title="MemoryDffPass::execute" alt="" coords="893,300,1059,327"/>
+<area shape="rect" id="node19" href="$d7/d3f/proc__dff_8cc.html#adc9dd28a87bbda04ca83b557c7cbf34a" title="proc_dff" alt="" coords="493,351,561,377"/>
+<area shape="rect" id="node20" href="$d3/d28/structProcDffPass.html#a08d6802cd3be4abacea94953a04b9ce9" title="ProcDffPass::execute" alt="" coords="687,351,833,377"/>
+<area shape="rect" id="node22" href="$d1/d50/structSatPass.html#ad8ce95c20717d3b0bff448f36bf26d21" title="SatPass::execute" alt="" coords="465,409,588,436"/>
+<area shape="rect" id="node25" href="$d6/da8/structSccPass.html#a227bbf416edd067156fc2f6346f56d41" title="SccPass::execute" alt="" coords="463,519,590,545"/>
+</map>

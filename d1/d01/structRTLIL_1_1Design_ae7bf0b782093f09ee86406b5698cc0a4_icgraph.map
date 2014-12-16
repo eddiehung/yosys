@@ -1,0 +1,6 @@
+<map id="RTLIL::Design::full_selection" name="RTLIL::Design::full_selection">
+<area shape="rect" id="node2" href="$d4/d30/structStatPass.html#ab8dff0595b34e4c00846f7ae74f1e536" title="StatPass::execute" alt="" coords="202,5,329,32"/>
+<area shape="rect" id="node3" href="$dc/d1b/structSynthPass.html#ad31d2e478ee9c36bffff0d547adb56f9" title="SynthPass::execute" alt="" coords="197,56,333,83"/>
+<area shape="rect" id="node4" href="$d0/dd9/structSynthXilinxPass.html#a19fff045e8171cffbb1a503573a62d0c" title="SynthXilinxPass::execute" alt="" coords="182,107,349,133"/>
+<area shape="rect" id="node5" href="$d1/da5/structFlattenPass.html#a65b95abfb17e33e1ccee2af502194512" title="FlattenPass::execute" alt="" coords="194,157,337,184"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RTLIL::SigSpec::remove_const" name="RTLIL::SigSpec::remove_const">
+<area shape="rect" id="node2" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="217,5,285,32"/>
+<area shape="rect" id="node3" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="222,56,279,83"/>
+<area shape="rect" id="node4" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="338,5,521,32"/>
+<area shape="rect" id="node5" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="353,56,506,83"/>
+<area shape="rect" id="node6" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="333,107,525,133"/>
+</map>

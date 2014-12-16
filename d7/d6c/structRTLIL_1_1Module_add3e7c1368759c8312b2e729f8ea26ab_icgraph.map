@@ -1,0 +1,8 @@
+<map id="RTLIL::Module::check" name="RTLIL::Module::check">
+<area shape="rect" id="node2" href="$db/d8e/structAST_1_1AstModule.html#a0c7a0b6f77ca9128e0a939a852ae34bd" title="AST::AstModule::derive" alt="" coords="211,5,368,32"/>
+<area shape="rect" id="node3" href="$da/d54/structOptReduceWorker.html#a307629c4aa069ac20fd24607683c8823" title="OptReduceWorker::opt\l_mux_bits" alt="" coords="213,57,365,98"/>
+<area shape="rect" id="node5" href="$df/d86/structTechmapWorker.html#ac363b4a444a0980f069c314721b73db8" title="TechmapWorker::techmap\l_module" alt="" coords="203,174,376,215"/>
+<area shape="rect" id="node6" href="$d5/d38/structTechmapPass.html#ac0d454775281967874fcd4af5dc24786" title="TechmapPass::execute" alt="" coords="445,127,603,153"/>
+<area shape="rect" id="node4" href="$da/d54/structOptReduceWorker.html#a0fd2443f2a32f6c0b71fc5ac115d8afd" title="OptReduceWorker::OptReduce\lWorker" alt="" coords="425,57,623,98"/>
+<area shape="rect" id="node7" href="$d1/da5/structFlattenPass.html#a65b95abfb17e33e1ccee2af502194512" title="FlattenPass::execute" alt="" coords="453,181,595,208"/>
+</map>

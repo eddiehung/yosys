@@ -1,0 +1,29 @@
+<map id="yyparse" name="yyparse">
+<area shape="rect" id="node2" href="$d5/d7f/ilang__frontend_8cc.html#aee09926e3e20995b9aadd1c5d32e689c" title="rtlil_frontend_ilang\l_yyerror" alt="" coords="137,70,263,111"/>
+<area shape="rect" id="node8" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1198,183,1242,209"/>
+<area shape="rect" id="node11" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="953,157,1012,184"/>
+<area shape="rect" id="node14" href="$d1/d01/structRTLIL_1_1Design.html#a7d892e4c7f43965dcabec35f81f262b8" title="RTLIL::Design::has" alt="" coords="134,259,266,285"/>
+<area shape="rect" id="node15" href="$d1/d01/structRTLIL_1_1Design.html#a2656a576d57e1466675a860a6600a032" title="RTLIL::Design::add" alt="" coords="134,309,266,336"/>
+<area shape="rect" id="node16" href="$d7/d6c/structRTLIL_1_1Module.html#abd789aaa08fa4fabb04d7df14ba52b56" title="RTLIL::Module::fixup\l_ports" alt="" coords="131,361,269,402"/>
+<area shape="rect" id="node20" href="$d7/d6c/structRTLIL_1_1Module.html#a541a18ce30bd8847261b01e9c6cf884e" title="RTLIL::Module::addWire" alt="" coords="120,427,280,453"/>
+<area shape="rect" id="node21" href="$d7/d6c/structRTLIL_1_1Module.html#a496d8aa3a3bf1624b360de5b06083dec" title="RTLIL::Module::rename" alt="" coords="122,477,278,504"/>
+<area shape="rect" id="node22" href="$d7/d6c/structRTLIL_1_1Module.html#a1a7e895aac049d13e973eada539ee676" title="RTLIL::Module::addCell" alt="" coords="122,528,278,555"/>
+<area shape="rect" id="node23" href="$d6/db5/structRTLIL_1_1Cell.html#a8299134eefc9061770be24c29f3c7af0" title="RTLIL::Cell::hasPort" alt="" coords="131,579,269,605"/>
+<area shape="rect" id="node24" href="$d6/db5/structRTLIL_1_1Cell.html#a60083493b42191874643112a848ffe2e" title="RTLIL::Cell::setPort" alt="" coords="133,629,267,656"/>
+<area shape="rect" id="node25" href="$d6/d0b/namespaceMinisat.html#ad45d20f93b53d687dc370b0b06fbdab4" title="Minisat::append" alt="" coords="144,680,256,707"/>
+<area shape="rect" id="node27" href="$d7/d6c/structRTLIL_1_1Module.html#ab79bcacb14f3fe41c2350cfa6882956c" title="RTLIL::Module::connect" alt="" coords="121,731,279,757"/>
+<area shape="rect" id="node28" href="$dd/dd4/ilang__parser_8tab_8cc.html#a6e9efad8ad3dc078ec7c32b7f44be01d" title="yydestruct" alt="" coords="159,781,241,808"/>
+<area shape="rect" id="node3" href="$d4/dc1/log_8cc.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="363,77,435,104"/>
+<area shape="rect" id="node13" href="$d1/d65/ilang__frontend_8h.html#a0e803bf15245193332fc8a0ce587dc45" title="rtlil_frontend_ilang\l_yyget_lineno" alt="" coords="335,11,462,53"/>
+<area shape="rect" id="node4" href="$d4/dc1/log_8cc.html#a25b6c81d25f95461e4d756a6785c9798" title="logv_error" alt="" coords="551,67,630,93"/>
+<area shape="rect" id="node5" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="730,5,769,32"/>
+<area shape="rect" id="node6" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="835,56,882,83"/>
+<area shape="rect" id="node12" href="$d4/dc1/log_8cc.html#a4a5e317aa2251f3492aba63a872fc09b" title="log_flush" alt="" coords="713,56,786,83"/>
+<area shape="rect" id="node7" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="1083,157,1149,184"/>
+<area shape="rect" id="node9" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="949,5,1017,32"/>
+<area shape="rect" id="node10" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="931,56,1034,83"/>
+<area shape="rect" id="node17" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title="Minisat::sort" alt="" coords="353,393,445,420"/>
+<area shape="rect" id="node19" href="$d4/d08/rtlil_8cc.html#a7120a6868df66f3396515e2bff094f79" title="fixup_ports_compare" alt="" coords="328,343,469,369"/>
+<area shape="rect" id="node18" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title="Minisat::selectionSort" alt="" coords="517,393,664,420"/>
+<area shape="rect" id="node26" href="$d6/d0b/namespaceMinisat.html#ad8714c7d062a4cbf6f2e35a6c1f1d8b2" title="Minisat::copy" alt="" coords="350,680,447,707"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MemoryShareWorker" name="MemoryShareWorker">
+<area shape="rect" id="node2" href="$d1/d01/structRTLIL_1_1Design.html" title="RTLIL::Design" alt="" coords="96,112,201,139"/>
+<area shape="rect" id="node4" href="$d7/d1e/structModWalker.html" title="ModWalker" alt="" coords="143,295,229,321"/>
+<area shape="rect" id="node6" href="$d7/d6c/structRTLIL_1_1Module.html" title="RTLIL::Module" alt="" coords="305,203,411,229"/>
+<area shape="rect" id="node3" href="$d0/d4d/structCellTypes.html" title="CellTypes" alt="" coords="21,203,99,229"/>
+<area shape="rect" id="node5" href="$d0/dbf/structSigMap.html" title="SigMap" alt="" coords="214,203,281,229"/>
+<area shape="rect" id="node7" href="$d8/df7/structRTLIL_1_1IdString.html" title="RTLIL::IdString" alt="" coords="303,112,413,139"/>
+<area shape="rect" id="node8" href="$d0/d81/structRTLIL_1_1IdString_1_1destruct__guard__t.html" title="RTLIL::IdString::destruct\l_guard_t" alt="" coords="277,6,439,47"/>
+</map>

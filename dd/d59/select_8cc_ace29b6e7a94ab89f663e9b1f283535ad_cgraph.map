@@ -1,0 +1,7 @@
+<map id="select_op_alias" name="select_op_alias">
+<area shape="rect" id="node2" href="$d2/dd8/structRTLIL_1_1Selection.html#a2fe6720a7b0186170e6701be3469da8b" title="RTLIL::Selection::selected\l_whole_module" alt="" coords="166,5,341,46"/>
+<area shape="rect" id="node3" href="$d2/dd8/structRTLIL_1_1Selection.html#a35b3c0262d33804a8fafc18336f84339" title="RTLIL::Selection::selected\l_module" alt="" coords="166,70,341,111"/>
+<area shape="rect" id="node4" href="$d2/dd8/structRTLIL_1_1Selection.html#ac3016eef32dcb2ab081864618af2597b" title="RTLIL::Selection::selected\l_member" alt="" coords="166,135,341,177"/>
+<area shape="rect" id="node5" href="$df/d6f/structSigPool.html#a485789c5ee275d0f3d94fe0100be382b" title="SigPool::add" alt="" coords="206,201,301,228"/>
+<area shape="rect" id="node6" href="$df/d6f/structSigPool.html#ad4eeb477296dc598eddd5ba115d8d1c2" title="SigPool::check_any" alt="" coords="186,252,321,279"/>
+</map>

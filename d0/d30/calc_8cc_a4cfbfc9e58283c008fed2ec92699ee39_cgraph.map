@@ -1,0 +1,8 @@
+<map id="big2const" name="big2const">
+<area shape="rect" id="node2" href="$d7/d68/classBigInteger.html#a1b744c7157e9e2ac76748f8796b77f7c" title="BigInteger::getMagnitude" alt="" coords="133,5,299,32"/>
+<area shape="rect" id="node3" href="$d0/d5b/classBigUnsigned.html#a90704d2d4a5333f75b7300ad69b378fb" title="BigUnsigned::isZero" alt="" coords="147,56,285,83"/>
+<area shape="rect" id="node5" href="$d7/d68/classBigInteger.html#a865c91acaa0e07890b31f358e6735306" title="BigInteger::getSign" alt="" coords="151,107,281,133"/>
+<area shape="rect" id="node6" href="$d0/d5b/classBigUnsigned.html#a3baa66f996f9af5b1fcc62ce6a44b7a2" title="BigUnsigned::getBit" alt="" coords="148,157,284,184"/>
+<area shape="rect" id="node4" href="$d8/de3/classNumberlikeArray.html#ae963c6b412259cd29bf3a4e0b5ade183" title="NumberlikeArray::isEmpty" alt="" coords="347,56,517,83"/>
+<area shape="rect" id="node7" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="355,157,509,184"/>
+</map>

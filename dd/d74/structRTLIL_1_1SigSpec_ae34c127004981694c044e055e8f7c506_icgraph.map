@@ -1,0 +1,9 @@
+<map id="RTLIL::SigSpec::to_single_sigbit" name="RTLIL::SigSpec::to_single_sigbit">
+<area shape="rect" id="node2" href="$d8/d65/structFsmOpt.html#ae13127d2bda7c18defd12d5122652cb2" title="FsmOpt::signal_is_unused" alt="" coords="185,15,359,41"/>
+<area shape="rect" id="node5" href="$d2/d22/structSpliceWorker.html#affcf2e9f0960acf99298f62802c4c02b" title="SpliceWorker::get_sliced\l_signal" alt="" coords="190,67,354,109"/>
+<area shape="rect" id="node3" href="$d8/d65/structFsmOpt.html#acdcff4f0f4a309f39613d0759b0497d9" title="FsmOpt::opt_unused\l_outputs" alt="" coords="422,5,565,46"/>
+<area shape="rect" id="node4" href="$d8/d65/structFsmOpt.html#a9a542b63033bada48952dc1b2c7651e3" title="FsmOpt::FsmOpt" alt="" coords="627,12,749,39"/>
+<area shape="rect" id="node6" href="$d2/d22/structSpliceWorker.html#a93222ba9663b132a17aa6b0ed7b70237" title="SpliceWorker::get_spliced\l_signal" alt="" coords="408,70,579,111"/>
+<area shape="rect" id="node7" href="$d2/d22/structSpliceWorker.html#a9bde161880ba7170e7862f21c2c2e941" title="SpliceWorker::run" alt="" coords="627,77,749,104"/>
+<area shape="rect" id="node8" href="$d8/da2/structSplicePass.html#a54362f9b186baed6e58841c83dcd3b5d" title="SplicePass::execute" alt="" coords="797,77,936,104"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RTLIL::SigSpec::remove2" name="RTLIL::SigSpec::remove2">
+<area shape="rect" id="node2" href="$d3/de3/structAST__INTERNAL_1_1ProcessGenerator.html#adad469af47b28104a831a92aa9ccd78d" title="AST_INTERNAL::ProcessGenerator\l::addChunkActions" alt="" coords="224,5,456,46"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#a509e850a3c94a4ba8b795ad2435fc3ae" title="RTLIL::SigSpec::remove" alt="" coords="259,71,421,97"/>
+<area shape="rect" id="node4" href="$dd/d09/structSatHelper.html#a206258b086e2416336e4b5b51a37e3b5" title="SatHelper::setup_init" alt="" coords="269,121,411,148"/>
+<area shape="rect" id="node6" href="$dd/d09/structSatHelper.html#a242e51e5dd92b8c47d2fb2b13e18d2bc" title="SatHelper::setup" alt="" coords="281,172,399,199"/>
+<area shape="rect" id="node5" href="$d1/d50/structSatPass.html#ad8ce95c20717d3b0bff448f36bf26d21" title="SatPass::execute" alt="" coords="504,147,627,173"/>
+</map>

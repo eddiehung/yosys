@@ -1,0 +1,8 @@
+<map id="RTLIL::SigSpec::remove2" name="RTLIL::SigSpec::remove2">
+<area shape="rect" id="node2" href="$dd/d74/structRTLIL_1_1SigSpec.html#ab8a1ac0510ec6f5a7742b9f18f0238d9" title="RTLIL::SigSpec::unpack" alt="" coords="224,5,387,32"/>
+<area shape="rect" id="node3" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="271,56,339,83"/>
+<area shape="rect" id="node4" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="277,107,334,133"/>
+<area shape="rect" id="node5" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="439,56,622,83"/>
+<area shape="rect" id="node6" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="454,107,607,133"/>
+<area shape="rect" id="node7" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="435,157,627,184"/>
+</map>

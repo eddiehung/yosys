@@ -1,0 +1,21 @@
+<map id="Macc::optimize" name="Macc::optimize">
+<area shape="rect" id="node2" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="210,5,278,32"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#a4c904f5a77c28dc3340b4ecb4b275e9b" title="RTLIL::SigSpec::append" alt="" coords="163,56,325,83"/>
+<area shape="rect" id="node10" href="$d3/dc3/namespaceRTLIL.html#a5d4c9dc4f581d7096c4f9184c499f22d" title="RTLIL::const_mul" alt="" coords="181,107,307,133"/>
+<area shape="rect" id="node18" href="$d3/dc3/namespaceRTLIL.html#ac1c30b5090dc445905c880c1e428f246" title="RTLIL::const_sub" alt="" coords="181,157,307,184"/>
+<area shape="rect" id="node19" href="$d3/dc3/namespaceRTLIL.html#a351753f131fea2aac899abb14da74e88" title="RTLIL::const_add" alt="" coords="181,208,307,235"/>
+<area shape="rect" id="node20" href="$d8/db7/structRTLIL_1_1Const.html#a7c3712049c1089520623cc77242b0dfa" title="RTLIL::Const::as_bool" alt="" coords="169,259,319,285"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9d9fae8fc6b1b07caff1a9dc5a45a1ec" title="RTLIL::SigSpec::packed" alt="" coords="373,5,536,32"/>
+<area shape="rect" id="node5" href="$dd/d74/structRTLIL_1_1SigSpec.html#a23c5fe78b8654313b1a8ba6e0aea1b0b" title="RTLIL::SigSpec::pack" alt="" coords="381,56,529,83"/>
+<area shape="rect" id="node6" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="638,81,695,108"/>
+<area shape="rect" id="node7" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="802,44,985,71"/>
+<area shape="rect" id="node8" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="817,171,970,197"/>
+<area shape="rect" id="node9" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="797,95,989,121"/>
+<area shape="rect" id="node11" href="$d0/d30/calc_8cc.html#af547062839d6e235d6ede4d49ac9b298" title="const2big" alt="" coords="415,157,494,184"/>
+<area shape="rect" id="node12" href="$d0/d30/calc_8cc.html#a4cfbfc9e58283c008fed2ec92699ee39" title="big2const" alt="" coords="415,208,494,235"/>
+<area shape="rect" id="node13" href="$d7/d68/classBigInteger.html#a1b744c7157e9e2ac76748f8796b77f7c" title="BigInteger::getMagnitude" alt="" coords="584,132,749,159"/>
+<area shape="rect" id="node14" href="$d0/d5b/classBigUnsigned.html#a90704d2d4a5333f75b7300ad69b378fb" title="BigUnsigned::isZero" alt="" coords="597,284,736,311"/>
+<area shape="rect" id="node16" href="$d7/d68/classBigInteger.html#a865c91acaa0e07890b31f358e6735306" title="BigInteger::getSign" alt="" coords="601,233,732,260"/>
+<area shape="rect" id="node17" href="$d0/d5b/classBigUnsigned.html#a3baa66f996f9af5b1fcc62ce6a44b7a2" title="BigUnsigned::getBit" alt="" coords="599,183,735,209"/>
+<area shape="rect" id="node15" href="$d8/de3/classNumberlikeArray.html#ae963c6b412259cd29bf3a4e0b5ade183" title="NumberlikeArray::isEmpty" alt="" coords="808,284,979,311"/>
+</map>

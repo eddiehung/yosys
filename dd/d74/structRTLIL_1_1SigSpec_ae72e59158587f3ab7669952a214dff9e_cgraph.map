@@ -1,0 +1,5 @@
+<map id="RTLIL::SigSpec::replace" name="RTLIL::SigSpec::replace">
+<area shape="rect" id="node2" href="$dd/d74/structRTLIL_1_1SigSpec.html#ab8a1ac0510ec6f5a7742b9f18f0238d9" title="RTLIL::SigSpec::unpack" alt="" coords="216,5,379,32"/>
+<area shape="rect" id="node3" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="427,81,495,108"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#a6ac633d076d455844da0087e13e33c46" title="RTLIL::SigSpec::check" alt="" coords="220,107,375,133"/>
+</map>

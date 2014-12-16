@@ -1,0 +1,34 @@
+<map id="select_op_expand" name="select_op_expand">
+<area shape="rect" id="node2" href="$d0/d4d/structCellTypes.html#aef87be29b0d016f74bc6963e097b0547" title="CellTypes::setup" alt="" coords="192,132,309,159"/>
+<area shape="rect" id="node15" href="$d4/dc1/log_8cc.html#aa6cbc6e6d02870d3c7df51803f14f1c4" title="log_cmd_error" alt="" coords="199,411,303,437"/>
+<area shape="rect" id="node16" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="686,309,725,336"/>
+<area shape="rect" id="node22" href="$dd/d59/select_8cc.html#aaeab7b484741193f9017be9f140c1c90" title="parse_comma_list" alt="" coords="187,563,315,589"/>
+<area shape="rect" id="node23" href="$d3/dc3/namespaceRTLIL.html#a1a05b7e070f403880a1affd56d62b872" title="RTLIL::escape_id" alt="" coords="398,563,522,589"/>
+<area shape="rect" id="node24" href="$d3/dc3/namespaceRTLIL.html#a5caa40a54737cffe9b5856eb9deaef4b" title="RTLIL::unescape_id" alt="" coords="181,613,320,640"/>
+<area shape="rect" id="node25" href="$dd/d59/select_8cc.html#a7013999be2a9950a1ab14da63bacc823" title="select_op_expand" alt="" coords="187,752,314,779"/>
+<area shape="rect" id="node32" href="$d4/dc1/log_8cc.html#a49512c1118dccb2dc45783b5a0d69dec" title="log_warning" alt="" coords="205,461,296,488"/>
+<area shape="rect" id="node3" href="$d0/d4d/structCellTypes.html#a422e830994a6cbf71e52fde456d8a617" title="CellTypes::setup_design" alt="" coords="379,157,541,184"/>
+<area shape="rect" id="node8" href="$d0/d4d/structCellTypes.html#a383b144159db3ee617307dc97ee93ad0" title="CellTypes::setup_internals" alt="" coords="619,56,792,83"/>
+<area shape="rect" id="node9" href="$d0/d4d/structCellTypes.html#a0c54a5a8d4e589e94f602ecebbb06508" title="CellTypes::setup_internals_mem" alt="" coords="601,107,810,133"/>
+<area shape="rect" id="node10" href="$d0/d4d/structCellTypes.html#a00d3706a926b3af1e2d9195209832bda" title="CellTypes::setup_stdcells" alt="" coords="621,5,790,32"/>
+<area shape="rect" id="node11" href="$d0/d4d/structCellTypes.html#a77ae3c3d196edda3b3e2f17a4dfefde3" title="CellTypes::setup_stdcells_mem" alt="" coords="603,259,808,285"/>
+<area shape="rect" id="node4" href="$d1/d01/structRTLIL_1_1Design.html#a9a7901e7919cdb04adc46d16e071f792" title="RTLIL::Design::modules" alt="" coords="625,208,785,235"/>
+<area shape="rect" id="node5" href="$d0/d4d/structCellTypes.html#a61e067ffe03f7597db072fb4fa2e8dba" title="CellTypes::setup_module" alt="" coords="622,157,789,184"/>
+<area shape="rect" id="node6" href="$d7/d6c/structRTLIL_1_1Module.html#a0645dfddb688b47d2572df2531aed7ae" title="RTLIL::Module::wire" alt="" coords="865,157,1002,184"/>
+<area shape="rect" id="node7" href="$d0/d4d/structCellTypes.html#a40435b58f2d4468067a89fb2354473d7" title="CellTypes::setup_type" alt="" coords="859,107,1007,133"/>
+<area shape="rect" id="node12" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="1079,259,1137,285"/>
+<area shape="rect" id="node13" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="1209,284,1274,311"/>
+<area shape="rect" id="node14" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1323,284,1367,311"/>
+<area shape="rect" id="node17" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="910,360,957,387"/>
+<area shape="rect" id="node20" href="$d4/dc1/log_8cc.html#a4a5e317aa2251f3492aba63a872fc09b" title="log_flush" alt="" coords="669,411,742,437"/>
+<area shape="rect" id="node21" href="$d4/dc1/log_8cc.html#a25b6c81d25f95461e4d756a6785c9798" title="logv_error" alt="" coords="421,360,499,387"/>
+<area shape="rect" id="node18" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="1074,360,1142,387"/>
+<area shape="rect" id="node19" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="1057,411,1159,437"/>
+<area shape="rect" id="node26" href="$d2/dd8/structRTLIL_1_1Selection.html#a2fe6720a7b0186170e6701be3469da8b" title="RTLIL::Selection::selected\l_whole_module" alt="" coords="373,614,547,655"/>
+<area shape="rect" id="node27" href="$d2/dd8/structRTLIL_1_1Selection.html#a35b3c0262d33804a8fafc18336f84339" title="RTLIL::Selection::selected\l_module" alt="" coords="373,679,547,721"/>
+<area shape="rect" id="node28" href="$d2/dd8/structRTLIL_1_1Selection.html#ac3016eef32dcb2ab081864618af2597b" title="RTLIL::Selection::selected\l_member" alt="" coords="373,745,547,786"/>
+<area shape="rect" id="node29" href="$d7/d6c/structRTLIL_1_1Module.html#aa093cc84407f5e461655a356b1b0f6e9" title="RTLIL::Module::connections" alt="" coords="369,811,551,837"/>
+<area shape="rect" id="node30" href="$d0/d4d/structCellTypes.html#ac9f27bc21d222fe95271c25b5295b6c3" title="CellTypes::cell_input" alt="" coords="390,861,530,888"/>
+<area shape="rect" id="node31" href="$d0/d4d/structCellTypes.html#a9d3f029f5b32cfcfe9826f90d99dc7ef" title="CellTypes::cell_output" alt="" coords="386,912,534,939"/>
+<area shape="rect" id="node33" href="$d4/dc1/log_8cc.html#a8c4ac3fe8197c62792c0682fff3d0283" title="logv_warning" alt="" coords="411,461,509,488"/>
+</map>

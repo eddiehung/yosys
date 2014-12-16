@@ -1,0 +1,10 @@
+<map id="WreduceWorker" name="WreduceWorker">
+<area shape="rect" id="node2" href="$d9/d74/structModIndex.html" title="ModIndex" alt="" coords="157,293,235,320"/>
+<area shape="rect" id="node3" href="$d7/d93/structRTLIL_1_1Monitor.html" title="RTLIL::Monitor" alt="" coords="5,203,112,229"/>
+<area shape="rect" id="node4" href="$d0/dbf/structSigMap.html" title="SigMap" alt="" coords="137,203,204,229"/>
+<area shape="rect" id="node5" href="$d7/d6c/structRTLIL_1_1Module.html" title="RTLIL::Module" alt="" coords="243,203,349,229"/>
+<area shape="rect" id="node6" href="$d8/df7/structRTLIL_1_1IdString.html" title="RTLIL::IdString" alt="" coords="143,112,253,139"/>
+<area shape="rect" id="node7" href="$d0/d81/structRTLIL_1_1IdString_1_1destruct__guard__t.html" title="RTLIL::IdString::destruct\l_guard_t" alt="" coords="117,6,280,47"/>
+<area shape="rect" id="node8" href="$d1/d01/structRTLIL_1_1Design.html" title="RTLIL::Design" alt="" coords="278,112,383,139"/>
+<area shape="rect" id="node9" href="$d5/dab/structWreduceConfig.html" title="WreduceConfig" alt="" coords="381,293,491,320"/>
+</map>

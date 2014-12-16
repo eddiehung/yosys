@@ -1,0 +1,19 @@
+<map id="Minisat::SimpSolver::isEliminated" name="Minisat::SimpSolver::isEliminated">
+<area shape="rect" id="node2" href="$d2/d2e/classezMiniSAT.html#a42f7cafc0ae340a6b22d15528d5da084" title="ezMiniSAT::solver" alt="" coords="571,292,698,319"/>
+<area shape="rect" id="node3" href="$db/d9e/classMinisat_1_1SimpSolver.html#a5cb1459502b9152f84a2b0604d52d3d9" title="Minisat::SimpSolver\l::releaseVar" alt="" coords="193,730,330,771"/>
+<area shape="rect" id="node4" href="$db/d9e/classMinisat_1_1SimpSolver.html#a16a7cb46aaa5f4a8ec2da92755e9d748" title="Minisat::SimpSolver\l::solve_" alt="" coords="1371,43,1509,85"/>
+<area shape="rect" id="node5" href="$db/d9e/classMinisat_1_1SimpSolver.html#aa11ebc4d4bb46206417e6a1fb505672a" title="Minisat::SimpSolver\l::addClause_" alt="" coords="193,453,330,494"/>
+<area shape="rect" id="node6" href="$db/d9e/classMinisat_1_1SimpSolver.html#a67c3066b769ee04d7f98fae22f595262" title="Minisat::SimpSolver\l::eliminateVar" alt="" coords="998,230,1135,271"/>
+<area shape="rect" id="node7" href="$db/d9e/classMinisat_1_1SimpSolver.html#a5b617b7d5a6a621ccf9107fc41d4c4ee" title="Minisat::SimpSolver\l::eliminate" alt="" coords="1185,171,1322,213"/>
+<area shape="rect" id="node8" href="$db/d9e/classMinisat_1_1SimpSolver.html#a29ecbb0011cbe37bd3b1d1071fd8e1ae" title="Minisat::SimpSolver\l::substitute" alt="" coords="566,394,703,435"/>
+<area shape="rect" id="node11" href="$db/d9e/classMinisat_1_1SimpSolver.html#a6ee3b033b5fb4b3b88cc926d4e9cf7fb" title="Minisat::SimpSolver\l::updateElimHeap" alt="" coords="193,161,330,202"/>
+<area shape="rect" id="node9" href="$db/d9e/classMinisat_1_1SimpSolver.html#a08ff456234609547987edf9226be748b" title="Minisat::SimpSolver\l::addClause" alt="" coords="379,343,517,385"/>
+<area shape="rect" id="node10" href="$db/d9e/classMinisat_1_1SimpSolver.html#a78fa33d5027817d0e560bde616027258" title="Minisat::SimpSolver\l::addEmptyClause" alt="" coords="379,511,517,553"/>
+<area shape="rect" id="node12" href="$db/d9e/classMinisat_1_1SimpSolver.html#a2dc83777b39bc8f187063508aee5f6a3" title="Minisat::SimpSolver\l::removeClause" alt="" coords="379,161,517,202"/>
+<area shape="rect" id="node13" href="$db/d9e/classMinisat_1_1SimpSolver.html#a669dbfd6e390e5a3120dbcaef15b8b6b" title="Minisat::SimpSolver\l::strengthenClause" alt="" coords="566,109,703,150"/>
+<area shape="rect" id="node17" href="$db/d9e/classMinisat_1_1SimpSolver.html#af2bab8894986d0599a91591616d1377d" title="Minisat::SimpSolver\l::setFrozen" alt="" coords="379,43,517,85"/>
+<area shape="rect" id="node18" href="$db/d9e/classMinisat_1_1SimpSolver.html#af4326c2313f0923519ce9afb4b7a454e" title="Minisat::SimpSolver\l::thaw" alt="" coords="379,226,517,267"/>
+<area shape="rect" id="node14" href="$db/d9e/classMinisat_1_1SimpSolver.html#abc4977137689b3a19fa6b1358ffd03bf" title="Minisat::SimpSolver\l::backwardSubsumptionCheck" alt="" coords="752,171,949,213"/>
+<area shape="rect" id="node16" href="$db/d9e/classMinisat_1_1SimpSolver.html#a7dbf729733a538653bb31126ce0f2b27" title="Minisat::SimpSolver\l::asymm" alt="" coords="782,106,919,147"/>
+<area shape="rect" id="node15" href="$db/d9e/classMinisat_1_1SimpSolver.html#a72c0557c9e296a62a6d859197809b775" title="Minisat::SimpSolver\l::asymmVar" alt="" coords="998,113,1135,154"/>
+</map>

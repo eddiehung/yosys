@@ -1,0 +1,5 @@
+<map id="PerformReduction::analyze" name="PerformReduction::analyze">
+<area shape="rect" id="node2" href="$d5/ddd/structPerformReduction.html#a2297491be4537957c145acc6d01cdcc1" title="PerformReduction::analyze" alt="" coords="230,5,405,32"/>
+<area shape="rect" id="node3" href="$d9/d04/structFreduceWorker.html#a354887cf624d9a4421cd14f51e1fe8b5" title="FreduceWorker::run" alt="" coords="250,56,385,83"/>
+<area shape="rect" id="node4" href="$d6/dfa/structFreducePass.html#a69ba65be6a1fdbf4d4b236683994b418" title="FreducePass::execute" alt="" coords="454,56,605,83"/>
+</map>

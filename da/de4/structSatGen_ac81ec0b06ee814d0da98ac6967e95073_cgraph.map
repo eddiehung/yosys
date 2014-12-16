@@ -1,0 +1,15 @@
+<map id="SatGen::importUndefSigSpec" name="SatGen::importUndefSigSpec">
+<area shape="rect" id="node2" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="535,5,593,32"/>
+<area shape="rect" id="node5" href="$da/de4/structSatGen.html#a2f489f2080ca834b04ad2e4181ad1fbc" title="SatGen::importSigSpecWorker" alt="" coords="246,95,445,121"/>
+<area shape="rect" id="node3" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="710,5,775,32"/>
+<area shape="rect" id="node4" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="902,5,946,32"/>
+<area shape="rect" id="node6" href="$d0/dbf/structSigMap.html#a738d7b0e076b09f842f1bde2275aaba1" title="SigMap::apply" alt="" coords="513,56,615,83"/>
+<area shape="rect" id="node8" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="530,107,598,133"/>
+<area shape="rect" id="node9" href="$d0/d07/classezSAT.html#a2dca9180ed9954fa01ee187ddef51a3f" title="ezSAT::frozen_literal" alt="" coords="494,157,634,184"/>
+<area shape="rect" id="node14" href="$d4/dc1/log_8cc.html#ae3fbeca33c15c48f406bbd5680014c68" title="log_id" alt="" coords="536,233,592,260"/>
+<area shape="rect" id="node7" href="$d0/dbf/structSigMap.html#a17c1e00474e24e1b6befdfa9570a96bd" title="SigMap::map_bit" alt="" coords="683,56,802,83"/>
+<area shape="rect" id="node10" href="$d0/d07/classezSAT.html#ab11cb7f87070fb4e36fa1ecf76a5a29d" title="ezSAT::literal" alt="" coords="693,107,792,133"/>
+<area shape="rect" id="node11" href="$d0/d07/classezSAT.html#a90d6dc834a24a932b395e27bf6c8b8bc" title="ezSAT::freeze" alt="" coords="691,157,794,184"/>
+<area shape="rect" id="node12" href="$d7/d1b/verilog__backend_8cc.html#a64ab94bde941c75b44ab5302b79dd739" title="id" alt="" coords="723,208,762,235"/>
+<area shape="rect" id="node13" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="851,233,997,260"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RTLIL::Module::derive" name="RTLIL::Module::derive">
+<area shape="rect" id="node2" href="$d2/d2a/hierarchy_8cc.html#a1e1ec6f667e9307c37504211d6c44a66" title="expand_module" alt="" coords="233,5,345,32"/>
+<area shape="rect" id="node4" href="$df/d86/structTechmapWorker.html#ac363b4a444a0980f069c314721b73db8" title="TechmapWorker::techmap\l_module" alt="" coords="203,57,376,98"/>
+<area shape="rect" id="node3" href="$d7/d1b/structHierarchyPass.html#a8aec90959b007cbe981c3c79254f37df" title="HierarchyPass::execute" alt="" coords="425,5,583,32"/>
+<area shape="rect" id="node5" href="$d5/d38/structTechmapPass.html#ac0d454775281967874fcd4af5dc24786" title="TechmapPass::execute" alt="" coords="425,60,583,87"/>
+<area shape="rect" id="node6" href="$d1/da5/structFlattenPass.html#a65b95abfb17e33e1ccee2af502194512" title="FlattenPass::execute" alt="" coords="433,111,575,137"/>
+</map>

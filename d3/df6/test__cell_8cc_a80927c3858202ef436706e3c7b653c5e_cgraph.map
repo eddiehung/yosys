@@ -1,0 +1,36 @@
+<map id="create_gold_module" name="create_gold_module">
+<area shape="rect" id="node2" href="$d1/d01/structRTLIL_1_1Design.html#aed16bed80223c100059436102b62c74b" title="RTLIL::Design::addModule" alt="" coords="193,5,367,32"/>
+<area shape="rect" id="node3" href="$d7/d6c/structRTLIL_1_1Module.html#a1a7e895aac049d13e973eada539ee676" title="RTLIL::Module::addCell" alt="" coords="202,56,358,83"/>
+<area shape="rect" id="node4" href="$d3/df6/test__cell_8cc.html#a9cde88da330d7ac1489218ea6388fb58" title="xorshift32" alt="" coords="241,107,319,133"/>
+<area shape="rect" id="node5" href="$d7/d6c/structRTLIL_1_1Module.html#a541a18ce30bd8847261b01e9c6cf884e" title="RTLIL::Module::addWire" alt="" coords="200,157,360,184"/>
+<area shape="rect" id="node6" href="$d6/db5/structRTLIL_1_1Cell.html#a60083493b42191874643112a848ffe2e" title="RTLIL::Cell::setPort" alt="" coords="430,241,565,268"/>
+<area shape="rect" id="node7" href="$d0/d27/structMacc.html#a23136002c6eeb88b0aaf62dcd32283b6" title="Macc::to_cell" alt="" coords="231,376,329,403"/>
+<area shape="rect" id="node8" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="463,321,531,348"/>
+<area shape="rect" id="node9" href="$dd/d74/structRTLIL_1_1SigSpec.html#a4c904f5a77c28dc3340b4ecb4b275e9b" title="RTLIL::SigSpec::append" alt="" coords="416,372,579,399"/>
+<area shape="rect" id="node16" href="$d6/db5/structRTLIL_1_1Cell.html#a40326828bf8cf8bff0a826ad92ae428f" title="RTLIL::Cell::setParam" alt="" coords="423,423,572,449"/>
+<area shape="rect" id="node17" href="$dd/d74/structRTLIL_1_1SigSpec.html#adbd069b267f2c5e7480549661933d7e9" title="RTLIL::SigSpec::as\l_const" alt="" coords="213,310,347,351"/>
+<area shape="rect" id="node18" href="$d8/db3/ilang__lexer_8cc.html#ad4a65b873df5c05570846b5413b41dfd" title="if" alt="" coords="261,595,299,621"/>
+<area shape="rect" id="node28" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="213,645,347,672"/>
+<area shape="rect" id="node29" href="$d6/db5/structRTLIL_1_1Cell.html#a6eba6dfa5a38ad99056c945dcd794873" title="RTLIL::Cell::connections" alt="" coords="199,696,361,723"/>
+<area shape="rect" id="node30" href="$d7/d6c/structRTLIL_1_1Module.html#abd789aaa08fa4fabb04d7df14ba52b56" title="RTLIL::Module::fixup\l_ports" alt="" coords="211,754,349,795"/>
+<area shape="rect" id="node34" href="$d6/db5/structRTLIL_1_1Cell.html#a6d1ff17ed0b92b8f39cd76a828e3beb1" title="RTLIL::Cell::fixup\l_parameters" alt="" coords="221,529,339,570"/>
+<area shape="rect" id="node35" href="$d6/db5/structRTLIL_1_1Cell.html#a9c7ee9952de856a99506d72ee6438cb2" title="RTLIL::Cell::check" alt="" coords="216,820,344,847"/>
+<area shape="rect" id="node10" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9d9fae8fc6b1b07caff1a9dc5a45a1ec" title="RTLIL::SigSpec::packed" alt="" coords="627,423,789,449"/>
+<area shape="rect" id="node11" href="$dd/d74/structRTLIL_1_1SigSpec.html#a23c5fe78b8654313b1a8ba6e0aea1b0b" title="RTLIL::SigSpec::pack" alt="" coords="634,372,782,399"/>
+<area shape="rect" id="node12" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="873,372,930,399"/>
+<area shape="rect" id="node13" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="1018,321,1201,348"/>
+<area shape="rect" id="node14" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="1033,372,1186,399"/>
+<area shape="rect" id="node15" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="1013,423,1205,449"/>
+<area shape="rect" id="node19" href="$d8/db3/ilang__lexer_8cc.html#ab62c13d30e7f7577bddb01b4831dc1cd" title="rtlil_frontend_ilang\l_yyensure_buffer_stack" alt="" coords="418,587,577,629"/>
+<area shape="rect" id="node23" href="$d8/db3/ilang__lexer_8cc.html#addd2eb9f0011fc0303bed43fd725b0d3" title="rtlil_frontend_ilang\l_yy_create_buffer" alt="" coords="434,653,561,694"/>
+<area shape="rect" id="node26" href="$d8/db3/ilang__lexer_8cc.html#a22a9abfb1839f13f787fe78958cfd14b" title="rtlil_frontend_ilang\l_yy_load_buffer_state" alt="" coords="1036,659,1183,701"/>
+<area shape="rect" id="node20" href="$d8/db3/ilang__lexer_8cc.html#a5c353e788742181eaae6ff3bd3e7ce00" title="rtlil_frontend_ilang\l_yyalloc" alt="" coords="645,590,771,631"/>
+<area shape="rect" id="node22" href="$d8/db3/ilang__lexer_8cc.html#a74fa686146dc38feb3329b464874b8fb" title="rtlil_frontend_ilang\l_yyrealloc" alt="" coords="645,525,771,566"/>
+<area shape="rect" id="node21" href="$dd/dd4/ilang__parser_8tab_8cc.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="871,553,931,580"/>
+<area shape="rect" id="node24" href="$d8/db3/ilang__lexer_8cc.html#a6950ba99cb20ae23ca7c045c798619d1" title="rtlil_frontend_ilang\l_yy_init_buffer" alt="" coords="645,655,771,697"/>
+<area shape="rect" id="node25" href="$d8/db3/ilang__lexer_8cc.html#af69682b4e2489b755d2ac03f7fe696e3" title="rtlil_frontend_ilang\l_yy_flush_buffer" alt="" coords="838,605,965,646"/>
+<area shape="rect" id="node27" href="$d8/db3/ilang__lexer_8cc.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="875,671,928,697"/>
+<area shape="rect" id="node31" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title="Minisat::sort" alt="" coords="451,772,543,799"/>
+<area shape="rect" id="node33" href="$d4/d08/rtlil_8cc.html#a7120a6868df66f3396515e2bff094f79" title="fixup_ports_compare" alt="" coords="427,823,568,849"/>
+<area shape="rect" id="node32" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title="Minisat::selectionSort" alt="" coords="635,772,781,799"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="OptShareWorker::hash_cell_parameters_and_connections" name="OptShareWorker::hash_cell_parameters_and_connections">
+<area shape="rect" id="node2" href="$d8/df7/structRTLIL_1_1IdString.html#abe954d84d173aa85d6bf7820c1ee2040" title="RTLIL::IdString::str" alt="" coords="221,5,352,32"/>
+<area shape="rect" id="node3" href="$d6/db5/structRTLIL_1_1Cell.html#a6eba6dfa5a38ad99056c945dcd794873" title="RTLIL::Cell::connections" alt="" coords="205,56,368,83"/>
+<area shape="rect" id="node4" href="$d0/dbf/structSigMap.html#a738d7b0e076b09f842f1bde2275aaba1" title="SigMap::apply" alt="" coords="235,107,338,133"/>
+<area shape="rect" id="node6" href="$d0/d4d/structCellTypes.html#a9d3f029f5b32cfcfe9826f90d99dc7ef" title="CellTypes::cell_output" alt="" coords="213,157,361,184"/>
+<area shape="rect" id="node7" href="$dd/d74/structRTLIL_1_1SigSpec.html#a89320bf61e66da75ed172a1e0ecf2be0" title="RTLIL::SigSpec::chunks" alt="" coords="205,208,368,235"/>
+<area shape="rect" id="node13" href="$de/d01/structOptShareWorker.html#aa0911acf838f4cdf93c1baaa65f46dbc" title="OptShareWorker::int\l_to_hash_string" alt="" coords="217,259,356,301"/>
+<area shape="rect" id="node14" href="$d8/db7/structRTLIL_1_1Const.html#a56b30858504163672b38575bd7f8f939" title="RTLIL::Const::as_string" alt="" coords="207,325,366,352"/>
+<area shape="rect" id="node15" href="$d8/d7a/sha1_8cpp.html#afd6b87572914723bc6f531873250aeeb" title="sha1" alt="" coords="261,376,312,403"/>
+<area shape="rect" id="node5" href="$d0/dbf/structSigMap.html#a17c1e00474e24e1b6befdfa9570a96bd" title="SigMap::map_bit" alt="" coords="431,107,550,133"/>
+<area shape="rect" id="node8" href="$dd/d74/structRTLIL_1_1SigSpec.html#a23c5fe78b8654313b1a8ba6e0aea1b0b" title="RTLIL::SigSpec::pack" alt="" coords="417,208,565,235"/>
+<area shape="rect" id="node9" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="661,208,718,235"/>
+<area shape="rect" id="node10" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="818,157,1001,184"/>
+<area shape="rect" id="node11" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="833,208,986,235"/>
+<area shape="rect" id="node12" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="813,259,1005,285"/>
+<area shape="rect" id="node16" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="439,351,542,377"/>
+<area shape="rect" id="node17" href="$d9/d84/classSHA1.html#a89ba0f16575431b0942cbbcfb29107db" title="SHA1::final" alt="" coords="447,401,534,428"/>
+<area shape="rect" id="node18" href="$d9/d84/classSHA1.html#a1645addce3a226f0281deef041b26ec3" title="SHA1::buffer_to_block" alt="" coords="614,351,765,377"/>
+<area shape="rect" id="node19" href="$d9/d84/classSHA1.html#a6e96e00e6bee105a4a1f8e5baf8a3b9c" title="SHA1::transform" alt="" coords="630,401,749,428"/>
+<area shape="rect" id="node20" href="$d9/d84/classSHA1.html#ab71aaf39ed956320054861a2fbfa454f" title="SHA1::reset" alt="" coords="643,452,735,479"/>
+</map>

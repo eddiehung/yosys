@@ -1,0 +1,4 @@
+<map id="remap_name" name="remap_name">
+<area shape="rect" id="node2" href="$d8/df7/structRTLIL_1_1IdString.html#a027939234ae831a0135748917d1ca1d4" title="RTLIL::IdString::substr" alt="" coords="152,5,304,32"/>
+<area shape="rect" id="node3" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="353,5,498,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Minisat::ClauseAllocator::size" name="Minisat::ClauseAllocator::size">
+<area shape="rect" id="node2" href="$db/d9e/classMinisat_1_1SimpSolver.html#abc4977137689b3a19fa6b1358ffd03bf" title="Minisat::SimpSolver\l::backwardSubsumptionCheck" alt="" coords="216,79,413,121"/>
+<area shape="rect" id="node7" href="$db/d9e/classMinisat_1_1SimpSolver.html#ab65d808a2fc3f92db779e034d163df72" title="Minisat::SimpSolver\l::garbageCollect" alt="" coords="246,163,383,205"/>
+<area shape="rect" id="node8" href="$d5/daf/classMinisat_1_1Solver.html#a483457ef263aa53ba8ae8dcadc5d5602" title="Minisat::Solver::garbage\lCollect" alt="" coords="235,229,394,270"/>
+<area shape="rect" id="node9" href="$d5/daf/classMinisat_1_1Solver.html#ab3aea51bbdd0d9d126935608e669a35c" title="Minisat::Solver::checkGarbage" alt="" coords="461,259,659,285"/>
+<area shape="rect" id="node3" href="$db/d9e/classMinisat_1_1SimpSolver.html#a72c0557c9e296a62a6d859197809b775" title="Minisat::SimpSolver\l::asymmVar" alt="" coords="491,5,629,46"/>
+<area shape="rect" id="node4" href="$db/d9e/classMinisat_1_1SimpSolver.html#a5b617b7d5a6a621ccf9107fc41d4c4ee" title="Minisat::SimpSolver\l::eliminate" alt="" coords="707,93,845,134"/>
+<area shape="rect" id="node6" href="$db/d9e/classMinisat_1_1SimpSolver.html#a67c3066b769ee04d7f98fae22f595262" title="Minisat::SimpSolver\l::eliminateVar" alt="" coords="491,122,629,163"/>
+<area shape="rect" id="node5" href="$db/d9e/classMinisat_1_1SimpSolver.html#a16a7cb46aaa5f4a8ec2da92755e9d748" title="Minisat::SimpSolver\l::solve_" alt="" coords="894,93,1031,134"/>
+</map>

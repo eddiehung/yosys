@@ -1,0 +1,9 @@
+<map id="dff_map_bit_info_t" name="dff_map_bit_info_t">
+<area shape="rect" id="node2" href="$d9/dbb/structRTLIL_1_1SigBit.html" title="RTLIL::SigBit" alt="" coords="122,387,221,413"/>
+<area shape="rect" id="node3" href="$de/d93/structRTLIL_1_1Wire.html" title="RTLIL::Wire" alt="" coords="116,296,207,323"/>
+<area shape="rect" id="node4" href="$d8/df7/structRTLIL_1_1IdString.html" title="RTLIL::IdString" alt="" coords="177,112,287,139"/>
+<area shape="rect" id="node6" href="$d7/d6c/structRTLIL_1_1Module.html" title="RTLIL::Module" alt="" coords="179,204,285,231"/>
+<area shape="rect" id="node8" href="$d6/db5/structRTLIL_1_1Cell.html" title="RTLIL::Cell" alt="" coords="231,296,317,323"/>
+<area shape="rect" id="node5" href="$d0/d81/structRTLIL_1_1IdString_1_1destruct__guard__t.html" title="RTLIL::IdString::destruct\l_guard_t" alt="" coords="151,6,313,47"/>
+<area shape="rect" id="node7" href="$d1/d01/structRTLIL_1_1Design.html" title="RTLIL::Design" alt="" coords="5,112,109,139"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="check" name="check">
+<area shape="rect" id="node2" href="$d7/d68/classBigInteger.html#a865c91acaa0e07890b31f358e6735306" title="BigInteger::getSign" alt="" coords="129,5,260,32"/>
+<area shape="rect" id="node3" href="$d7/d68/classBigInteger.html#a1b744c7157e9e2ac76748f8796b77f7c" title="BigInteger::getMagnitude" alt="" coords="112,56,277,83"/>
+<area shape="rect" id="node4" href="$d0/d5b/classBigUnsigned.html#a90704d2d4a5333f75b7300ad69b378fb" title="BigUnsigned::isZero" alt="" coords="125,107,264,133"/>
+<area shape="rect" id="node6" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="166,183,223,209"/>
+<area shape="rect" id="node5" href="$d8/de3/classNumberlikeArray.html#ae963c6b412259cd29bf3a4e0b5ade183" title="NumberlikeArray::isEmpty" alt="" coords="336,93,507,120"/>
+<area shape="rect" id="node7" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="330,144,513,171"/>
+<area shape="rect" id="node8" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="345,195,498,221"/>
+<area shape="rect" id="node9" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="325,245,517,272"/>
+</map>

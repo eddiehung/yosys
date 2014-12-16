@@ -1,0 +1,13 @@
+<map id="SubCircuit::SolverWorker::matchNodePorts" name="SubCircuit::SolverWorker::matchNodePorts">
+<area shape="rect" id="node2" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#acd517d3a6cac3b3c21ae5fe2a3515a88" title="SubCircuit::SolverWorker\l::matchNodes" alt="" coords="223,38,390,79"/>
+<area shape="rect" id="node10" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#ad05e803ca6afa11728595ce28fd7d647" title="SubCircuit::SolverWorker\l::checkPortmapCandidate" alt="" coords="221,103,392,145"/>
+<area shape="rect" id="node3" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a93806247f4ffb84a52436e8fd3f82518" title="SubCircuit::SolverWorker\l::generateEnumerationMatrix" alt="" coords="681,38,866,79"/>
+<area shape="rect" id="node4" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a9cb12f43e79b2b1a752453cbd63365d1" title="SubCircuit::SolverWorker\l::solveForMining" alt="" coords="915,38,1082,79"/>
+<area shape="rect" id="node9" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a537ed2c948ebb6654c4a89fd8792659c" title="SubCircuit::SolverWorker\l::solve" alt="" coords="915,103,1082,145"/>
+<area shape="rect" id="node5" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#aacd5e1fca8621c0ba00ed9b6c0141db9" title="SubCircuit::SolverWorker\l::testForMining" alt="" coords="1131,38,1298,79"/>
+<area shape="rect" id="node6" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#abcf97b85f4ae96d8f8e33f7a9fe81603" title="SubCircuit::SolverWorker\l::findNodePairs" alt="" coords="1347,5,1514,46"/>
+<area shape="rect" id="node8" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#aeb36b23b98abe9655cfa3d2196544428" title="SubCircuit::SolverWorker\l::findNextPool" alt="" coords="1347,70,1514,111"/>
+<area shape="rect" id="node7" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a1b246a7d865b7a59cbdc6d55bf90d33b" title="SubCircuit::SolverWorker\l::mine" alt="" coords="1563,38,1730,79"/>
+<area shape="rect" id="node11" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#ab37510c6fc28a1803012f817e060e4fc" title="SubCircuit::SolverWorker\l::generatePortmapCandidates" alt="" coords="440,103,632,145"/>
+<area shape="rect" id="node12" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a16d81107a70c996d693168158d0f685a" title="SubCircuit::SolverWorker\l::ullmannRecursion" alt="" coords="690,103,857,145"/>
+</map>

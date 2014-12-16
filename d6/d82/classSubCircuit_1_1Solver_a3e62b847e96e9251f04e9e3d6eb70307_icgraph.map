@@ -1,0 +1,11 @@
+<map id="SubCircuit::Solver::userCompareEdge" name="SubCircuit::Solver::userCompareEdge">
+<area shape="rect" id="node2" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#acc31f21b21ee82e65c19c577c9dab661" title="SubCircuit::SolverWorker\l::checkEnumerationMatrix" alt="" coords="189,71,360,113"/>
+<area shape="rect" id="node3" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a25699e32cea7d14cc8be424a6d26e306" title="SubCircuit::SolverWorker\l::pruneEnumerationMatrix" alt="" coords="409,71,575,113"/>
+<area shape="rect" id="node4" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a16d81107a70c996d693168158d0f685a" title="SubCircuit::SolverWorker\l::ullmannRecursion" alt="" coords="625,71,791,113"/>
+<area shape="rect" id="node5" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a9cb12f43e79b2b1a752453cbd63365d1" title="SubCircuit::SolverWorker\l::solveForMining" alt="" coords="841,38,1007,79"/>
+<area shape="rect" id="node10" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a537ed2c948ebb6654c4a89fd8792659c" title="SubCircuit::SolverWorker\l::solve" alt="" coords="841,103,1007,145"/>
+<area shape="rect" id="node6" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#aacd5e1fca8621c0ba00ed9b6c0141db9" title="SubCircuit::SolverWorker\l::testForMining" alt="" coords="1057,38,1223,79"/>
+<area shape="rect" id="node7" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#abcf97b85f4ae96d8f8e33f7a9fe81603" title="SubCircuit::SolverWorker\l::findNodePairs" alt="" coords="1273,5,1439,46"/>
+<area shape="rect" id="node9" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#aeb36b23b98abe9655cfa3d2196544428" title="SubCircuit::SolverWorker\l::findNextPool" alt="" coords="1273,70,1439,111"/>
+<area shape="rect" id="node8" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a1b246a7d865b7a59cbdc6d55bf90d33b" title="SubCircuit::SolverWorker\l::mine" alt="" coords="1489,38,1655,79"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="RTLIL::Module::rewrite_sigspecs" name="RTLIL::Module::rewrite_sigspecs">
+<area shape="rect" id="node2" href="$d9/d04/structFreduceWorker.html#a354887cf624d9a4421cd14f51e1fe8b5" title="FreduceWorker::run" alt="" coords="222,5,357,32"/>
+<area shape="rect" id="node4" href="$d1/d00/structHilomapPass.html#ac7f0b43d9b9d931c99b29c6197ac0c38" title="HilomapPass::execute" alt="" coords="214,56,365,83"/>
+<area shape="rect" id="node5" href="$d7/d6c/structRTLIL_1_1Module.html#a436b5151a735bcdb34aa1ebc34f5a3b4" title="RTLIL::Module::cloneInto" alt="" coords="206,107,373,133"/>
+<area shape="rect" id="node9" href="$d4/d7e/structSetundefPass.html#a1b23a83c2d264af484f04b888109c2a2" title="SetundefPass::execute" alt="" coords="212,157,367,184"/>
+<area shape="rect" id="node10" href="$dc/d76/structSplitnetsPass.html#afd931f8dac62827f98a15eeeea01d861" title="SplitnetsPass::execute" alt="" coords="212,208,367,235"/>
+<area shape="rect" id="node3" href="$d6/dfa/structFreducePass.html#a69ba65be6a1fdbf4d4b236683994b418" title="FreducePass::execute" alt="" coords="433,5,583,32"/>
+<area shape="rect" id="node6" href="$df/d86/structTechmapWorker.html#ac363b4a444a0980f069c314721b73db8" title="TechmapWorker::techmap\l_module" alt="" coords="421,99,595,141"/>
+<area shape="rect" id="node7" href="$d5/d38/structTechmapPass.html#ac0d454775281967874fcd4af5dc24786" title="TechmapPass::execute" alt="" coords="643,81,800,108"/>
+<area shape="rect" id="node8" href="$d1/da5/structFlattenPass.html#a65b95abfb17e33e1ccee2af502194512" title="FlattenPass::execute" alt="" coords="650,132,793,159"/>
+</map>

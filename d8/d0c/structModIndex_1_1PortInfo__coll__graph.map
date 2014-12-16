@@ -1,0 +1,7 @@
+<map id="ModIndex::PortInfo" name="ModIndex::PortInfo">
+<area shape="rect" id="node2" href="$d8/df7/structRTLIL_1_1IdString.html" title="RTLIL::IdString" alt="" coords="35,112,145,139"/>
+<area shape="rect" id="node4" href="$d6/db5/structRTLIL_1_1Cell.html" title="RTLIL::Cell" alt="" coords="78,296,164,323"/>
+<area shape="rect" id="node5" href="$d7/d6c/structRTLIL_1_1Module.html" title="RTLIL::Module" alt="" coords="159,204,265,231"/>
+<area shape="rect" id="node3" href="$d0/d81/structRTLIL_1_1IdString_1_1destruct__guard__t.html" title="RTLIL::IdString::destruct\l_guard_t" alt="" coords="9,6,172,47"/>
+<area shape="rect" id="node6" href="$d1/d01/structRTLIL_1_1Design.html" title="RTLIL::Design" alt="" coords="170,112,275,139"/>
+</map>

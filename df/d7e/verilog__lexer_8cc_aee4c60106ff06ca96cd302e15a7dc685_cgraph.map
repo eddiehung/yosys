@@ -1,0 +1,8 @@
+<map id="frontend_verilog_yylex_destroy" name="frontend_verilog_yylex_destroy">
+<area shape="rect" id="node2" href="$df/d7e/verilog__lexer_8cc.html#a46c2cdb607c8e8f92635cc6888607daf" title="frontend_verilog_yy\l_delete_buffer" alt="" coords="405,27,539,69"/>
+<area shape="rect" id="node3" href="$df/d7e/verilog__lexer_8cc.html#a2922b0cbc609f0dca53508186f029e2d" title="frontend_verilog_yyfree" alt="" coords="587,5,741,32"/>
+<area shape="rect" id="node5" href="$df/d7e/verilog__lexer_8cc.html#a752f7a062bbc520a5f9c517f7323e940" title="frontend_verilog_yypop\l_buffer_state" alt="" coords="203,82,357,123"/>
+<area shape="rect" id="node7" href="$df/d7e/verilog__lexer_8cc.html#a599b60cd059cf60e89cc49953dc708d0" title="yy_init_globals" alt="" coords="227,148,333,175"/>
+<area shape="rect" id="node4" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="790,5,834,32"/>
+<area shape="rect" id="node6" href="$df/d7e/verilog__lexer_8cc.html#a055f7b94c4ee9675b109f129fe8a7c54" title="frontend_verilog_yy\l_load_buffer_state" alt="" coords="405,93,539,134"/>
+</map>

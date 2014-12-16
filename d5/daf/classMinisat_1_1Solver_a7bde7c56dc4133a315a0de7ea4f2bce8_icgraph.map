@@ -1,0 +1,9 @@
+<map id="Minisat::Solver::nClauses" name="Minisat::Solver::nClauses">
+<area shape="rect" id="node2" href="$d5/daf/classMinisat_1_1Solver.html#a16eaedf9b9c2d13d4ff5e93f759cfcf6" title="Minisat::Solver::search" alt="" coords="221,117,373,144"/>
+<area shape="rect" id="node3" href="$d5/daf/classMinisat_1_1Solver.html#ac3a707bbcbfcd0b3b4b2fc5dc399c1cd" title="Minisat::Solver::solve_" alt="" coords="422,143,573,169"/>
+<area shape="rect" id="node4" href="$db/d9e/classMinisat_1_1SimpSolver.html#a16a7cb46aaa5f4a8ec2da92755e9d748" title="Minisat::SimpSolver\l::solve_" alt="" coords="646,5,783,46"/>
+<area shape="rect" id="node5" href="$db/d9e/classMinisat_1_1SimpSolver.html#af74a9b2a6fc8d3add333ea95d8249fe1" title="Minisat::SimpSolver\l::solve" alt="" coords="646,70,783,111"/>
+<area shape="rect" id="node6" href="$db/d9e/classMinisat_1_1SimpSolver.html#a0f48e782376555ff66bb500f40d273f9" title="Minisat::SimpSolver\l::solveLimited" alt="" coords="646,135,783,177"/>
+<area shape="rect" id="node7" href="$d5/daf/classMinisat_1_1Solver.html#a936c49964d404d880d12cdd12b04cc22" title="Minisat::Solver::solve" alt="" coords="643,201,787,228"/>
+<area shape="rect" id="node8" href="$d5/daf/classMinisat_1_1Solver.html#a28721b091fcfe2e0a4a3468fdd8b14dd" title="Minisat::Solver::solveLimited" alt="" coords="621,252,808,279"/>
+</map>

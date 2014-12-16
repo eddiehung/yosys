@@ -1,0 +1,5 @@
+<map id="RTLIL::SigSpec::sort" name="RTLIL::SigSpec::sort">
+<area shape="rect" id="node2" href="$de/d01/structOptShareWorker.html#a18ef13aca78aa99402f92e9c002afdbb" title="OptShareWorker::compare\l_cell_parameters_and_connections" alt="" coords="197,5,424,46"/>
+<area shape="rect" id="node3" href="$de/d01/structOptShareWorker.html#af41b430f4805e58ee199c35b82d4c35d" title="OptShareWorker::compare\l_cells" alt="" coords="473,5,647,46"/>
+<area shape="rect" id="node4" href="$d0/d0a/structOptShareWorker_1_1CompareCells.html#ab947be43ee16fecdff360f2c213bf4e7" title="OptShareWorker::CompareCells\l::operator()" alt="" coords="696,5,901,46"/>
+</map>

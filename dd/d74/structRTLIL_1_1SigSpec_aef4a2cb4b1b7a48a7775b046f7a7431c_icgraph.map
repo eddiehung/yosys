@@ -1,0 +1,17 @@
+<map id="RTLIL::SigSpec::to_sigbit_vector" name="RTLIL::SigSpec::to_sigbit_vector">
+<area shape="rect" id="node2" href="$d5/d72/opt__const_8cc.html#a5b23a61a6440397718696410025d84e5" title="replace_const_cells" alt="" coords="213,5,350,32"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#a4eda7ae4ca999d7b34d836d603a1c954" title="RTLIL::SigSpec::extract" alt="" coords="202,56,361,83"/>
+<area shape="rect" id="node5" href="$dd/d09/structSatHelper.html#a81e9fc8a80451172567c7459fffc8c6f" title="SatHelper::check_undef\l_enabled" alt="" coords="201,107,361,149"/>
+<area shape="rect" id="node10" href="$da/d05/structShareWorker.html#a67bc406f9804dfc4376049c228adf42a" title="ShareWorker::make_supercell" alt="" coords="184,173,379,200"/>
+<area shape="rect" id="node11" href="$da/d05/structShareWorker.html#a609cde801a68cdf7ca57169e08a9d03a" title="ShareWorker::ShareWorker" alt="" coords="427,220,605,247"/>
+<area shape="rect" id="node12" href="$d2/d22/structSpliceWorker.html#a93222ba9663b132a17aa6b0ed7b70237" title="SpliceWorker::get_spliced\l_signal" alt="" coords="196,275,367,317"/>
+<area shape="rect" id="node13" href="$d2/d22/structSpliceWorker.html#a9bde161880ba7170e7862f21c2c2e941" title="SpliceWorker::run" alt="" coords="455,312,577,339"/>
+<area shape="rect" id="node15" href="$d4/db6/structSplitnetsWorker.html#ab39eb40229f915cd19ea979e870c773e" title="SplitnetsWorker::append_wire" alt="" coords="185,392,378,419"/>
+<area shape="rect" id="node3" href="$d2/ddd/structOptConstPass.html#ad756853edb1fa42ea5ffe59ad727cdf1" title="OptConstPass::execute" alt="" coords="437,5,595,32"/>
+<area shape="rect" id="node6" href="$dd/d09/structSatHelper.html#a206258b086e2416336e4b5b51a37e3b5" title="SatHelper::setup_init" alt="" coords="445,64,587,91"/>
+<area shape="rect" id="node8" href="$dd/d09/structSatHelper.html#a242e51e5dd92b8c47d2fb2b13e18d2bc" title="SatHelper::setup" alt="" coords="457,115,575,141"/>
+<area shape="rect" id="node9" href="$dd/d09/structSatHelper.html#a347c41bfc786a34498814a1b9d4b4e67" title="SatHelper::setup_proof" alt="" coords="439,165,593,192"/>
+<area shape="rect" id="node7" href="$d1/d50/structSatPass.html#ad8ce95c20717d3b0bff448f36bf26d21" title="SatPass::execute" alt="" coords="661,115,784,141"/>
+<area shape="rect" id="node14" href="$d8/da2/structSplicePass.html#a54362f9b186baed6e58841c83dcd3b5d" title="SplicePass::execute" alt="" coords="653,312,792,339"/>
+<area shape="rect" id="node16" href="$dc/d76/structSplitnetsPass.html#afd931f8dac62827f98a15eeeea01d861" title="SplitnetsPass::execute" alt="" coords="439,392,593,419"/>
+</map>

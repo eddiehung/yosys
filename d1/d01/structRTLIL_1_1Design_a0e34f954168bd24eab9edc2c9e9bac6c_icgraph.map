@@ -1,0 +1,11 @@
+<map id="RTLIL::Design::scratchpad_set_bool" name="RTLIL::Design::scratchpad_set_bool">
+<area shape="rect" id="node2" href="$d3/da8/opt__clean_8cc.html#afca4ef79acfac4a92e8d01c4f6c46911" title="rmunused_module_cells" alt="" coords="233,31,396,57"/>
+<area shape="rect" id="node6" href="$d2/ddd/structOptConstPass.html#ad756853edb1fa42ea5ffe59ad727cdf1" title="OptConstPass::execute" alt="" coords="235,81,394,108"/>
+<area shape="rect" id="node7" href="$d6/d82/structOptMuxtreePass.html#aa13db8e9243bff66641e575481ce32d8" title="OptMuxtreePass::execute" alt="" coords="229,132,400,159"/>
+<area shape="rect" id="node8" href="$d7/dff/structOptReducePass.html#ad271693b10cd6bc7a84eec399728083f" title="OptReducePass::execute" alt="" coords="231,183,399,209"/>
+<area shape="rect" id="node9" href="$d9/d1d/structOptRmdffPass.html#a01e1e54699bd141b12a289eadd565d43" title="OptRmdffPass::execute" alt="" coords="235,233,394,260"/>
+<area shape="rect" id="node10" href="$d7/d38/structOptSharePass.html#aae6eb7fc802f9e7f789fbc84c9e60c71" title="OptSharePass::execute" alt="" coords="235,284,394,311"/>
+<area shape="rect" id="node3" href="$d3/da8/opt__clean_8cc.html#a47a892a9e9b07ea7c9e3c367ad4b4d1b" title="rmunused_module" alt="" coords="448,31,576,57"/>
+<area shape="rect" id="node4" href="$d2/d99/structOptCleanPass.html#abd9883c261b9a2720ec003cb2979d55c" title="OptCleanPass::execute" alt="" coords="624,5,781,32"/>
+<area shape="rect" id="node5" href="$d2/dec/structCleanPass.html#a3b346dca2322d3b8e0078074dce02c9a" title="CleanPass::execute" alt="" coords="635,56,771,83"/>
+</map>

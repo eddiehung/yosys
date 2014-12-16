@@ -1,0 +1,5 @@
+<map id="RTLIL::SigSpec::vector&lt; RTLIL::SigBit &gt;" name="RTLIL::SigSpec::vector&lt; RTLIL::SigBit &gt;">
+<area shape="rect" id="node2" href="$dd/d74/structRTLIL_1_1SigSpec.html#a62238a4c0185bf5c0b0ee2dfb8247b7b" title="RTLIL::SigSpec::bits" alt="" coords="211,12,352,39"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#a376deb553415871473df2ac483441723" title="RTLIL::SigSpec::inline\l_unpack" alt="" coords="401,5,551,46"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#ab8a1ac0510ec6f5a7742b9f18f0238d9" title="RTLIL::SigSpec::unpack" alt="" coords="600,12,763,39"/>
+</map>

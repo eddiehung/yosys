@@ -1,0 +1,23 @@
+<map id="ShareWorker::is_part_of_scc" name="ShareWorker::is_part_of_scc">
+<area shape="rect" id="node2" href="$d0/d4d/structCellTypes.html#a383b144159db3ee617307dc97ee93ad0" title="CellTypes::setup_internals" alt="" coords="197,5,371,32"/>
+<area shape="rect" id="node4" href="$d0/d4d/structCellTypes.html#a00d3706a926b3af1e2d9195209832bda" title="CellTypes::setup_stdcells" alt="" coords="199,56,369,83"/>
+<area shape="rect" id="node5" href="$d0/d4d/structCellTypes.html#a7851d81f2149baab5a059d767693d461" title="CellTypes::cell_known" alt="" coords="209,107,359,133"/>
+<area shape="rect" id="node6" href="$d0/d4d/structCellTypes.html#ac9f27bc21d222fe95271c25b5295b6c3" title="CellTypes::cell_input" alt="" coords="214,157,354,184"/>
+<area shape="rect" id="node7" href="$d9/d74/structModIndex.html#a9cf481cd7edf4324f2dc79db8aa83606" title="ModIndex::query_ports" alt="" coords="209,208,359,235"/>
+<area shape="rect" id="node22" href="$d0/d4d/structCellTypes.html#a9d3f029f5b32cfcfe9826f90d99dc7ef" title="CellTypes::cell_output" alt="" coords="210,259,358,285"/>
+<area shape="rect" id="node3" href="$d0/d4d/structCellTypes.html#a40435b58f2d4468067a89fb2354473d7" title="CellTypes::setup_type" alt="" coords="419,31,567,57"/>
+<area shape="rect" id="node8" href="$d9/d74/structModIndex.html#ab6bae37d962a1ce2c6a63ff6f9d03206" title="ModIndex::info" alt="" coords="441,233,546,260"/>
+<area shape="rect" id="node9" href="$d9/d74/structModIndex.html#ae6e50de36f5ba9e1109b1a16b19169bc" title="ModIndex::query" alt="" coords="436,183,551,209"/>
+<area shape="rect" id="node10" href="$d9/d74/structModIndex.html#a76b6fcafcba24d6eddda41618166a70f" title="ModIndex::reload_module" alt="" coords="616,183,784,209"/>
+<area shape="rect" id="node11" href="$d0/dbf/structSigMap.html#abda94ddd85df7ed34870c155ca4097f7" title="SigMap::clear" alt="" coords="1066,5,1166,32"/>
+<area shape="rect" id="node12" href="$d0/dbf/structSigMap.html#a15d5d710a95c544c953d17e13d8918b8" title="SigMap::set" alt="" coords="859,93,949,120"/>
+<area shape="rect" id="node15" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="1290,157,1358,184"/>
+<area shape="rect" id="node19" href="$d7/d6c/structRTLIL_1_1Module.html#ad6ce9c31ae8826c5d72f0aeec6cee8af" title="RTLIL::Module::wires" alt="" coords="832,208,976,235"/>
+<area shape="rect" id="node20" href="$d7/d6c/structRTLIL_1_1Module.html#a57b60c312397a5fb92741b2dd63e9a5d" title="RTLIL::Module::cells" alt="" coords="834,259,974,285"/>
+<area shape="rect" id="node21" href="$d9/d74/structModIndex.html#a49412b8317c0a6ac6b1bf2a8efd68f4d" title="ModIndex::port_add" alt="" coords="1049,259,1183,285"/>
+<area shape="rect" id="node13" href="$d7/d6c/structRTLIL_1_1Module.html#aa093cc84407f5e461655a356b1b0f6e9" title="RTLIL::Module::connections" alt="" coords="1025,107,1207,133"/>
+<area shape="rect" id="node14" href="$d0/dbf/structSigMap.html#a6ed3611c9fddcbbd9013b7e012368118" title="SigMap::add" alt="" coords="1069,56,1163,83"/>
+<area shape="rect" id="node16" href="$d0/dbf/structSigMap.html#a9ece31598206f65aa071a1830a0ded54" title="SigMap::register_bit" alt="" coords="1256,56,1392,83"/>
+<area shape="rect" id="node17" href="$d0/dbf/structSigMap.html#a39e73745516fad540c4d6d125e012e72" title="SigMap::merge_bit" alt="" coords="1259,107,1389,133"/>
+<area shape="rect" id="node18" href="$d0/dbf/structSigMap.html#a17dd8c78694a26df35398565146e3bca" title="SigMap::set_bit" alt="" coords="1269,5,1379,32"/>
+</map>

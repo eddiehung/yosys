@@ -1,0 +1,26 @@
+<map id="RTLIL::SigSpec::remove" name="RTLIL::SigSpec::remove">
+<area shape="rect" id="node2" href="$dc/db8/structAlumaccWorker.html#a759b36b13526957a270a56e00833ff96" title="AlumaccWorker::macc\l_to_alu" alt="" coords="225,5,377,46"/>
+<area shape="rect" id="node5" href="$d5/d3f/structFsmExpand.html#a318d209702f0885841d29b2b664aebff" title="FsmExpand::is_cell\l_merge_candidate" alt="" coords="235,70,368,111"/>
+<area shape="rect" id="node9" href="$d1/d38/fsm__extract_8cc.html#a0f894d9dedeb3f6537902f9d6326a4ca" title="extract_fsm" alt="" coords="256,136,347,163"/>
+<area shape="rect" id="node11" href="$d8/d65/structFsmOpt.html#a14da1e819d09da6680b867c72bdd2158" title="FsmOpt::opt_const_and\l_unused_inputs" alt="" coords="221,187,381,229"/>
+<area shape="rect" id="node13" href="$d8/d65/structFsmOpt.html#acdcff4f0f4a309f39613d0759b0497d9" title="FsmOpt::opt_unused\l_outputs" alt="" coords="230,253,373,294"/>
+<area shape="rect" id="node14" href="$d8/d65/structFsmOpt.html#aa14f76d26c9901a72e11c19b376e8467" title="FsmOpt::opt_alias_inputs" alt="" coords="217,319,386,345"/>
+<area shape="rect" id="node15" href="$d8/d65/structFsmOpt.html#ac37549696718ccf7609d0b17b2708279" title="FsmOpt::opt_feedback\l_inputs" alt="" coords="225,370,378,411"/>
+<area shape="rect" id="node16" href="$d9/d7c/proc__mux_8cc.html#a966c925c2142aba1bc6492d9a5e3cdf3" title="gen_cmp" alt="" coords="264,436,339,463"/>
+<area shape="rect" id="node22" href="$dd/d09/structSatHelper.html#a206258b086e2416336e4b5b51a37e3b5" title="SatHelper::setup_init" alt="" coords="230,487,373,513"/>
+<area shape="rect" id="node24" href="$df/d0e/structWreduceWorker.html#a22479847d0f75d9fd294202a685316d9" title="WreduceWorker::run\l_reduce_inport" alt="" coords="232,538,371,579"/>
+<area shape="rect" id="node25" href="$df/d0e/structWreduceWorker.html#a29e390d5d3660e6dc7976f18e0caefd3" title="WreduceWorker::run_cell" alt="" coords="219,604,384,631"/>
+<area shape="rect" id="node3" href="$dc/db8/structAlumaccWorker.html#a5375d1f3072e76cebee7cf9ce19738e0" title="AlumaccWorker::run" alt="" coords="468,12,607,39"/>
+<area shape="rect" id="node4" href="$db/dd7/structAlumaccPass.html#a1e33892262106adf4d98f4e86f6715ad" title="AlumaccPass::execute" alt="" coords="688,12,843,39"/>
+<area shape="rect" id="node6" href="$d5/d3f/structFsmExpand.html#ac341f53d8b25330cbe37ced7a8246db3" title="FsmExpand::create_current_set" alt="" coords="435,77,639,104"/>
+<area shape="rect" id="node7" href="$d5/d3f/structFsmExpand.html#a9a250621fe7efa0486d5f0fb0958bb75" title="FsmExpand::execute" alt="" coords="695,77,836,104"/>
+<area shape="rect" id="node8" href="$d0/da1/structFsmExpandPass.html#a223062d1576d3faada4be06c6915e102" title="FsmExpandPass::execute" alt="" coords="891,77,1061,104"/>
+<area shape="rect" id="node10" href="$d5/d0c/structFsmExtractPass.html#a38c14c9c9ff47606020a053800ba997b" title="FsmExtractPass::execute" alt="" coords="453,136,622,163"/>
+<area shape="rect" id="node12" href="$d8/d65/structFsmOpt.html#a9a542b63033bada48952dc1b2c7651e3" title="FsmOpt::FsmOpt" alt="" coords="476,289,599,316"/>
+<area shape="rect" id="node17" href="$d9/d7c/proc__mux_8cc.html#ae856df0565565ec0c0894d7282e16e40" title="gen_mux" alt="" coords="500,385,575,412"/>
+<area shape="rect" id="node21" href="$d9/d7c/proc__mux_8cc.html#a28ae559415b1f9a4779d2e8150fde261" title="append_pmux" alt="" coords="486,436,589,463"/>
+<area shape="rect" id="node18" href="$d9/d7c/proc__mux_8cc.html#abea9041331def8ea15d0563b2c366fbf" title="signal_to_mux_tree" alt="" coords="698,411,833,437"/>
+<area shape="rect" id="node19" href="$d9/d7c/proc__mux_8cc.html#af041294116a325134e28dd17a8671f9c" title="proc_mux" alt="" coords="937,411,1015,437"/>
+<area shape="rect" id="node20" href="$d2/dc4/structProcMuxPass.html#a832093ae3222dc04e123893ea2f63232" title="ProcMuxPass::execute" alt="" coords="1109,411,1264,437"/>
+<area shape="rect" id="node23" href="$d1/d50/structSatPass.html#ad8ce95c20717d3b0bff448f36bf26d21" title="SatPass::execute" alt="" coords="476,487,599,513"/>
+</map>

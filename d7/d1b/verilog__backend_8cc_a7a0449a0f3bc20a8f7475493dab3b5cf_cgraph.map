@@ -1,0 +1,12 @@
+<map id="reset_auto_counter" name="reset_auto_counter">
+<area shape="rect" id="node2" href="$d7/d1b/verilog__backend_8cc.html#a176ca1f57781d43a5ee1039172874dfa" title="reset_auto_counter_id" alt="" coords="187,44,338,71"/>
+<area shape="rect" id="node5" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="243,107,282,133"/>
+<area shape="rect" id="node3" href="$d7/d1b/verilog__backend_8cc.html#a64ab94bde941c75b44ab5302b79dd739" title="id" alt="" coords="391,19,430,45"/>
+<area shape="rect" id="node4" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="483,5,629,32"/>
+<area shape="rect" id="node6" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="387,107,434,133"/>
+<area shape="rect" id="node7" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="678,132,743,159"/>
+<area shape="rect" id="node9" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="522,107,590,133"/>
+<area shape="rect" id="node10" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="505,157,607,184"/>
+<area shape="rect" id="node11" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="527,208,585,235"/>
+<area shape="rect" id="node8" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="793,132,837,159"/>
+</map>

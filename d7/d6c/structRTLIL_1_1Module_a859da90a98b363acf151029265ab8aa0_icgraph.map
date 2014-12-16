@@ -1,0 +1,6 @@
+<map id="RTLIL::Module::uniquify" name="RTLIL::Module::uniquify">
+<area shape="rect" id="node2" href="$da/d09/fsm__map_8cc.html#a656e406e9fab4b14c77e81761ed8f969" title="map_fsm" alt="" coords="270,5,346,32"/>
+<area shape="rect" id="node4" href="$d4/db6/structSplitnetsWorker.html#ab39eb40229f915cd19ea979e870c773e" title="SplitnetsWorker::append_wire" alt="" coords="211,56,405,83"/>
+<area shape="rect" id="node3" href="$d7/d9a/structFsmMapPass.html#aff26f93aa86825edf41f3d89b313fb50" title="FsmMapPass::execute" alt="" coords="453,5,608,32"/>
+<area shape="rect" id="node5" href="$dc/d76/structSplitnetsPass.html#afd931f8dac62827f98a15eeeea01d861" title="SplitnetsPass::execute" alt="" coords="453,56,608,83"/>
+</map>

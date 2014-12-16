@@ -1,0 +1,11 @@
+<map id="RTLIL::Module::rename" name="RTLIL::Module::rename">
+<area shape="rect" id="node2" href="$dd/dd4/ilang__parser_8tab_8cc.html#a847a2de5c1c28c9d7055a2b89ed7dad7" title="yyparse" alt="" coords="264,5,331,32"/>
+<area shape="rect" id="node3" href="$da/d50/rename_8cc.html#ae0f55b1008e73948969131aec1b2e31a" title="rename_in_module" alt="" coords="232,56,363,83"/>
+<area shape="rect" id="node5" href="$d2/d22/structSpliceWorker.html#a9bde161880ba7170e7862f21c2c2e941" title="SpliceWorker::run" alt="" coords="236,107,359,133"/>
+<area shape="rect" id="node7" href="$df/d86/structTechmapWorker.html#a16c426df603a5d603903463358fb916b" title="TechmapWorker::techmap\l_module_worker" alt="" coords="211,158,384,199"/>
+<area shape="rect" id="node4" href="$dc/d77/structRenamePass.html#ad95b9f9cc724011f987e9d8d7fb4341c" title="RenamePass::execute" alt="" coords="443,56,594,83"/>
+<area shape="rect" id="node6" href="$d8/da2/structSplicePass.html#a54362f9b186baed6e58841c83dcd3b5d" title="SplicePass::execute" alt="" coords="449,107,588,133"/>
+<area shape="rect" id="node8" href="$df/d86/structTechmapWorker.html#ac363b4a444a0980f069c314721b73db8" title="TechmapWorker::techmap\l_module" alt="" coords="432,158,605,199"/>
+<area shape="rect" id="node9" href="$d5/d38/structTechmapPass.html#ac0d454775281967874fcd4af5dc24786" title="TechmapPass::execute" alt="" coords="653,140,811,167"/>
+<area shape="rect" id="node10" href="$d1/da5/structFlattenPass.html#a65b95abfb17e33e1ccee2af502194512" title="FlattenPass::execute" alt="" coords="661,191,803,217"/>
+</map>

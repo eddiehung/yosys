@@ -1,0 +1,8 @@
+<map id="simplemap_dlatch" name="simplemap_dlatch">
+<area shape="rect" id="node2" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="193,5,327,32"/>
+<area shape="rect" id="node3" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="231,56,289,83"/>
+<area shape="rect" id="node6" href="$d7/d6c/structRTLIL_1_1Module.html#a1a7e895aac049d13e973eada539ee676" title="RTLIL::Module::addCell" alt="" coords="182,107,338,133"/>
+<area shape="rect" id="node7" href="$d6/db5/structRTLIL_1_1Cell.html#a60083493b42191874643112a848ffe2e" title="RTLIL::Cell::setPort" alt="" coords="193,157,327,184"/>
+<area shape="rect" id="node4" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="387,56,453,83"/>
+<area shape="rect" id="node5" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="502,56,546,83"/>
+</map>

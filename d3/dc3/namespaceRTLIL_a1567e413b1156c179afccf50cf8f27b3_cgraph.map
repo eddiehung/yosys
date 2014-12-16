@@ -1,0 +1,7 @@
+<map id="RTLIL::const_shr" name="RTLIL::const_shr">
+<area shape="rect" id="node2" href="$d0/d30/calc_8cc.html#a35cdba709078e9f7d6389386cb5d4dd2" title="extend_u0" alt="" coords="202,5,283,32"/>
+<area shape="rect" id="node3" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="209,56,277,83"/>
+<area shape="rect" id="node4" href="$d0/d30/calc_8cc.html#acaae42a7fdbdbb0f731dd681f5133e02" title="const_shift_worker" alt="" coords="177,107,309,133"/>
+<area shape="rect" id="node5" href="$d0/d30/calc_8cc.html#af547062839d6e235d6ede4d49ac9b298" title="const2big" alt="" coords="375,81,454,108"/>
+<area shape="rect" id="node6" href="$d7/d68/classBigInteger.html#a3aca292e83fc7d9dc09ddd027d6533fe" title="BigInteger::toInt" alt="" coords="358,132,471,159"/>
+</map>

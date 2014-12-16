@@ -1,0 +1,14 @@
+<map id="share.cc" name="share.cc">
+<area shape="rect" id="node2" href="$d6/d81/yosys_8h.html" title="kernel/yosys.h" alt="" coords="855,229,959,256"/>
+<area shape="rect" id="node26" href="$d5/dc0/satgen_8h.html" title="kernel/satgen.h" alt="" coords="1218,80,1328,107"/>
+<area shape="rect" id="node27" href="$d5/d98/sigtools_8h.html" title="kernel/sigtools.h" alt="" coords="935,155,1051,181"/>
+<area shape="rect" id="node29" href="$d4/dd4/macc_8h.html" title="kernel/macc.h" alt="" coords="1223,155,1325,181"/>
+<area shape="rect" id="node32" href="$da/d6c/modtools_8h.html" title="kernel/modtools.h" alt="" coords="1015,80,1139,107"/>
+<area shape="rect" id="node33" href="$d5/d60/utils_8h.html" title="kernel/utils.h" alt="" coords="841,80,935,107"/>
+<area shape="rect" id="node20" href="$d7/d7f/log_8h.html" title="kernel/log.h" alt="" coords="737,304,825,331"/>
+<area shape="rect" id="node24" href="$d4/d80/rtlil_8h.html" title="kernel/rtlil.h" alt="" coords="1311,304,1399,331"/>
+<area shape="rect" id="node25" href="$df/d80/register_8h.html" title="kernel/register.h" alt="" coords="849,304,964,331"/>
+<area shape="rect" id="node28" href="$d5/d51/celltypes_8h.html" title="kernel/celltypes.h" alt="" coords="1076,155,1199,181"/>
+<area shape="rect" id="node30" href="$d2/dc7/ezminisat_8h.html" title="libs/ezsat/ezminisat.h" alt="" coords="1561,155,1708,181"/>
+<area shape="rect" id="node31" href="$d2/dd6/ezsat_8h.html" title="ezsat.h" alt="" coords="1603,229,1665,256"/>
+</map>

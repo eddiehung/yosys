@@ -1,0 +1,7 @@
+<map id="logic_reduce" name="logic_reduce">
+<area shape="rect" id="node2" href="$dc/d0f/simplemap_8cc.html#adff9adca0d368e8a8aa3f2c72ce954f4" title="simplemap_lognot" alt="" coords="150,5,277,32"/>
+<area shape="rect" id="node6" href="$dc/d0f/simplemap_8cc.html#a0656082a683ef61834ed8e03a679334a" title="simplemap_logbin" alt="" coords="150,56,277,83"/>
+<area shape="rect" id="node3" href="$db/d3b/techmap_8cc.html#aa36df4c209db4da5a433abcb23819961" title="simplemap_get_mappers" alt="" coords="326,31,493,57"/>
+<area shape="rect" id="node4" href="$da/d0a/structSimplemapPass.html#a88b7eac99970630070213f9ef1d649eb" title="SimplemapPass::execute" alt="" coords="541,5,709,32"/>
+<area shape="rect" id="node5" href="$d5/d38/structTechmapPass.html#ac0d454775281967874fcd4af5dc24786" title="TechmapPass::execute" alt="" coords="547,56,704,83"/>
+</map>

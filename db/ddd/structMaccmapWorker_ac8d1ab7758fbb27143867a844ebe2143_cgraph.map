@@ -1,0 +1,9 @@
+<map id="MaccmapWorker::fulladd" name="MaccmapWorker::fulladd">
+<area shape="rect" id="node2" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="265,5,333,32"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#aab47d4484bbd3b94c31f38e38ddec91a" title="RTLIL::SigSpec::extract" alt="" coords="219,56,378,83"/>
+<area shape="rect" id="node5" href="$d7/d6c/structRTLIL_1_1Module.html#a541a18ce30bd8847261b01e9c6cf884e" title="RTLIL::Module::addWire" alt="" coords="219,107,379,133"/>
+<area shape="rect" id="node6" href="$d7/d6c/structRTLIL_1_1Module.html#a1a7e895aac049d13e973eada539ee676" title="RTLIL::Module::addCell" alt="" coords="221,157,377,184"/>
+<area shape="rect" id="node7" href="$d6/db5/structRTLIL_1_1Cell.html#a40326828bf8cf8bff0a826ad92ae428f" title="RTLIL::Cell::setParam" alt="" coords="224,208,373,235"/>
+<area shape="rect" id="node8" href="$d6/db5/structRTLIL_1_1Cell.html#a60083493b42191874643112a848ffe2e" title="RTLIL::Cell::setPort" alt="" coords="231,259,366,285"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#a5dc7b683a05092e03e524ec50395b737" title="RTLIL::SigSpec::to\l_sigbit_set" alt="" coords="427,49,557,90"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="extract_cell" name="extract_cell">
+<area shape="rect" id="node2" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="155,5,290,32"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#a89320bf61e66da75ed172a1e0ecf2be0" title="RTLIL::SigSpec::chunks" alt="" coords="141,56,304,83"/>
+<area shape="rect" id="node9" href="$d0/dbf/structSigMap.html#a738d7b0e076b09f842f1bde2275aaba1" title="SigMap::apply" alt="" coords="375,132,478,159"/>
+<area shape="rect" id="node11" href="$d0/dde/abc_8cc.html#a67f78ddd56fafe5d960eea898b729095" title="map_signal" alt="" coords="179,157,267,184"/>
+<area shape="rect" id="node12" href="$d7/d6c/structRTLIL_1_1Module.html#a6aa6e393124a0d917c4f1d1a432e4438" title="RTLIL::Module::remove" alt="" coords="145,208,301,235"/>
+<area shape="rect" id="node13" href="$d8/df7/structRTLIL_1_1IdString.html#a414596a8e4b5072e15bc41667f63ad1e" title="RTLIL::IdString::in" alt="" coords="159,259,286,285"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#a23c5fe78b8654313b1a8ba6e0aea1b0b" title="RTLIL::SigSpec::pack" alt="" coords="353,56,501,83"/>
+<area shape="rect" id="node5" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="581,56,638,83"/>
+<area shape="rect" id="node6" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="722,5,905,32"/>
+<area shape="rect" id="node7" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="737,56,890,83"/>
+<area shape="rect" id="node8" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="717,107,909,133"/>
+<area shape="rect" id="node10" href="$d0/dbf/structSigMap.html#a17c1e00474e24e1b6befdfa9570a96bd" title="SigMap::map_bit" alt="" coords="550,132,669,159"/>
+</map>

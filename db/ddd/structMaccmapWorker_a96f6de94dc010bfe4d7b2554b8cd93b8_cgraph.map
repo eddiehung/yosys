@@ -1,0 +1,23 @@
+<map id="MaccmapWorker::synth" name="MaccmapWorker::synth">
+<area shape="rect" id="node2" href="$db/ddd/structMaccmapWorker.html#a4e1b2d93653f7f6f66dfa9c0fa863606" title="MaccmapWorker::tree\l_bit_slots" alt="" coords="219,5,367,46"/>
+<area shape="rect" id="node3" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="694,172,762,199"/>
+<area shape="rect" id="node4" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="274,71,313,97"/>
+<area shape="rect" id="node10" href="$db/ddd/structMaccmapWorker.html#ac8d1ab7758fbb27143867a844ebe2143" title="MaccmapWorker::fulladd" alt="" coords="211,375,375,401"/>
+<area shape="rect" id="node11" href="$dd/d74/structRTLIL_1_1SigSpec.html#aab47d4484bbd3b94c31f38e38ddec91a" title="RTLIL::SigSpec::extract" alt="" coords="425,324,583,351"/>
+<area shape="rect" id="node13" href="$d7/d6c/structRTLIL_1_1Module.html#a541a18ce30bd8847261b01e9c6cf884e" title="RTLIL::Module::addWire" alt="" coords="424,425,584,452"/>
+<area shape="rect" id="node14" href="$d7/d6c/structRTLIL_1_1Module.html#a1a7e895aac049d13e973eada539ee676" title="RTLIL::Module::addCell" alt="" coords="426,476,582,503"/>
+<area shape="rect" id="node16" href="$d6/db5/structRTLIL_1_1Cell.html#a60083493b42191874643112a848ffe2e" title="RTLIL::Cell::setPort" alt="" coords="437,527,571,553"/>
+<area shape="rect" id="node17" href="$d6/db5/structRTLIL_1_1Cell.html#a6d1ff17ed0b92b8f39cd76a828e3beb1" title="RTLIL::Cell::fixup\l_parameters" alt="" coords="234,258,353,299"/>
+<area shape="rect" id="node22" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="226,577,361,604"/>
+<area shape="rect" id="node5" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="481,71,527,97"/>
+<area shape="rect" id="node6" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="873,45,938,72"/>
+<area shape="rect" id="node8" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="677,121,779,148"/>
+<area shape="rect" id="node9" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="699,71,757,97"/>
+<area shape="rect" id="node7" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="987,45,1031,72"/>
+<area shape="rect" id="node15" href="$d6/db5/structRTLIL_1_1Cell.html#a40326828bf8cf8bff0a826ad92ae428f" title="RTLIL::Cell::setParam" alt="" coords="429,375,579,401"/>
+<area shape="rect" id="node12" href="$dd/d74/structRTLIL_1_1SigSpec.html#a5dc7b683a05092e03e524ec50395b737" title="RTLIL::SigSpec::to\l_sigbit_set" alt="" coords="663,375,793,417"/>
+<area shape="rect" id="node18" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="475,273,533,300"/>
+<area shape="rect" id="node19" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="637,223,819,249"/>
+<area shape="rect" id="node20" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="651,273,805,300"/>
+<area shape="rect" id="node21" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="632,324,824,351"/>
+</map>

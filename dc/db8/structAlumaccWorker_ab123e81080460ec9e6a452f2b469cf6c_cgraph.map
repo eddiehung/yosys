@@ -1,0 +1,27 @@
+<map id="AlumaccWorker::replace_alu" name="AlumaccWorker::replace_alu">
+<area shape="rect" id="node2" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="687,23,755,50"/>
+<area shape="rect" id="node3" href="$d7/d6c/structRTLIL_1_1Module.html#a25b1f2150525d2e3db9aa6a61063a7b3" title="RTLIL::Module::addPos" alt="" coords="247,74,404,101"/>
+<area shape="rect" id="node4" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="306,125,345,151"/>
+<area shape="rect" id="node10" href="$d4/dc1/log_8cc.html#ae3fbeca33c15c48f406bbd5680014c68" title="log_id" alt="" coords="297,175,353,202"/>
+<area shape="rect" id="node12" href="$d7/d6c/structRTLIL_1_1Module.html#a1a7e895aac049d13e973eada539ee676" title="RTLIL::Module::addCell" alt="" coords="247,226,403,253"/>
+<area shape="rect" id="node13" href="$d7/d6c/structRTLIL_1_1Module.html#a541a18ce30bd8847261b01e9c6cf884e" title="RTLIL::Module::addWire" alt="" coords="245,277,405,303"/>
+<area shape="rect" id="node14" href="$dd/d74/structRTLIL_1_1SigSpec.html#a4c904f5a77c28dc3340b4ecb4b275e9b" title="RTLIL::SigSpec::append" alt="" coords="244,327,407,354"/>
+<area shape="rect" id="node21" href="$d7/d6c/structRTLIL_1_1Module.html#abd048ab2123039f2005d31fdd0bb3ac5" title="RTLIL::Module::ReduceOr" alt="" coords="240,378,411,405"/>
+<area shape="rect" id="node22" href="$dd/d74/structRTLIL_1_1SigSpec.html#a72a0f0def01be52891bdf5eedad46c33" title="RTLIL::SigSpec::extend" alt="" coords="246,429,405,455"/>
+<area shape="rect" id="node25" href="$d7/d6c/structRTLIL_1_1Module.html#ab79bcacb14f3fe41c2350cfa6882956c" title="RTLIL::Module::connect" alt="" coords="246,479,405,506"/>
+<area shape="rect" id="node26" href="$d7/d6c/structRTLIL_1_1Module.html#a6aa6e393124a0d917c4f1d1a432e4438" title="RTLIL::Module::remove" alt="" coords="247,530,403,557"/>
+<area shape="rect" id="node5" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="517,125,563,151"/>
+<area shape="rect" id="node6" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="885,125,950,151"/>
+<area shape="rect" id="node8" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="670,125,773,151"/>
+<area shape="rect" id="node9" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="692,175,751,202"/>
+<area shape="rect" id="node7" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1062,125,1106,151"/>
+<area shape="rect" id="node11" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="467,175,613,202"/>
+<area shape="rect" id="node15" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9d9fae8fc6b1b07caff1a9dc5a45a1ec" title="RTLIL::SigSpec::packed" alt="" coords="459,277,621,303"/>
+<area shape="rect" id="node16" href="$dd/d74/structRTLIL_1_1SigSpec.html#a23c5fe78b8654313b1a8ba6e0aea1b0b" title="RTLIL::SigSpec::pack" alt="" coords="466,327,614,354"/>
+<area shape="rect" id="node17" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="693,353,750,379"/>
+<area shape="rect" id="node18" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="826,302,1009,329"/>
+<area shape="rect" id="node19" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="841,353,994,379"/>
+<area shape="rect" id="node20" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="821,403,1013,430"/>
+<area shape="rect" id="node23" href="$d6/d0b/namespaceMinisat.html#ad45d20f93b53d687dc370b0b06fbdab4" title="Minisat::append" alt="" coords="484,429,596,455"/>
+<area shape="rect" id="node24" href="$d6/d0b/namespaceMinisat.html#ad8714c7d062a4cbf6f2e35a6c1f1d8b2" title="Minisat::copy" alt="" coords="673,429,770,455"/>
+</map>

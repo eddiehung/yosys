@@ -1,0 +1,6 @@
+<map id="create_xor_cell" name="create_xor_cell">
+<area shape="rect" id="node2" href="$d7/d6c/structRTLIL_1_1Module.html#a1a7e895aac049d13e973eada539ee676" title="RTLIL::Module::addCell" alt="" coords="165,5,321,32"/>
+<area shape="rect" id="node3" href="$d6/db5/structRTLIL_1_1Cell.html#a60083493b42191874643112a848ffe2e" title="RTLIL::Cell::setPort" alt="" coords="175,56,310,83"/>
+<area shape="rect" id="node4" href="$d7/d6c/structRTLIL_1_1Module.html#a541a18ce30bd8847261b01e9c6cf884e" title="RTLIL::Module::addWire" alt="" coords="163,107,323,133"/>
+<area shape="rect" id="node5" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="175,157,310,184"/>
+</map>

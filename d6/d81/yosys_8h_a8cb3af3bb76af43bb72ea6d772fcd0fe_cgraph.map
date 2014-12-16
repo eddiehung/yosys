@@ -1,0 +1,5 @@
+<map id="yosys_setup" name="yosys_setup">
+<area shape="rect" id="node2" href="$d9/d43/structPass.html#a3aa7fc39dd85bcc262344513feecab98" title="Pass::init_register" alt="" coords="149,5,275,32"/>
+<area shape="rect" id="node4" href="$d4/dc1/log_8cc.html#a52979f67ce9e09be0bb2e51beedcb694" title="log_push" alt="" coords="175,56,249,83"/>
+<area shape="rect" id="node3" href="$d9/d43/structPass.html#ae61d5d39f898aacec763dbd1a8f2d9eb" title="Pass::run_register" alt="" coords="323,5,450,32"/>
+</map>

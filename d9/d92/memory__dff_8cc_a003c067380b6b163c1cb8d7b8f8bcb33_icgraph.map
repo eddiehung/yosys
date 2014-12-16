@@ -1,0 +1,8 @@
+<map id="normalize_sig" name="normalize_sig">
+<area shape="rect" id="node2" href="$d9/d92/memory__dff_8cc.html#a920b1df63fa52e86fd36241e8de0434d" title="find_sig_before_dff" alt="" coords="155,5,285,32"/>
+<area shape="rect" id="node7" href="$d9/d92/memory__dff_8cc.html#a3620b3fb63afcdfcc86d43cd4798119f" title="disconnect_dff" alt="" coords="167,56,273,83"/>
+<area shape="rect" id="node3" href="$d9/d92/memory__dff_8cc.html#aa2e5200e96dad9d69b26b0a1f1802ffc" title="handle_wr_cell" alt="" coords="334,5,442,32"/>
+<area shape="rect" id="node6" href="$d9/d92/memory__dff_8cc.html#aef4b635ec3784b3677db3384c764bf85" title="handle_rd_cell" alt="" coords="335,56,441,83"/>
+<area shape="rect" id="node4" href="$d9/d92/memory__dff_8cc.html#a23dc741cd99335da6c6bb4ec482f7f17" title="handle_module" alt="" coords="491,31,600,57"/>
+<area shape="rect" id="node5" href="$d0/d77/structMemoryDffPass.html#abf5c063e29a96bdd3fb2464249ed7cc0" title="MemoryDffPass::execute" alt="" coords="648,31,813,57"/>
+</map>

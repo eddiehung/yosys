@@ -1,0 +1,14 @@
+<map id="RTLIL::Module::has_processes_warn" name="RTLIL::Module::has_processes_warn">
+<area shape="rect" id="node2" href="$d4/dc1/log_8cc.html#a49512c1118dccb2dc45783b5a0d69dec" title="log_warning" alt="" coords="189,104,280,130"/>
+<area shape="rect" id="node12" href="$d4/dc1/log_8cc.html#ae3fbeca33c15c48f406bbd5680014c68" title="log_id" alt="" coords="207,154,263,181"/>
+<area shape="rect" id="node3" href="$d4/dc1/log_8cc.html#a8c4ac3fe8197c62792c0682fff3d0283" title="logv_warning" alt="" coords="352,104,451,130"/>
+<area shape="rect" id="node4" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="541,53,579,80"/>
+<area shape="rect" id="node5" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="646,53,693,80"/>
+<area shape="rect" id="node11" href="$d4/dc1/log_8cc.html#a4a5e317aa2251f3492aba63a872fc09b" title="log_flush" alt="" coords="523,154,597,181"/>
+<area shape="rect" id="node6" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="894,53,959,80"/>
+<area shape="rect" id="node8" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="759,28,827,54"/>
+<area shape="rect" id="node9" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="742,78,845,105"/>
+<area shape="rect" id="node10" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="764,129,823,156"/>
+<area shape="rect" id="node7" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1009,53,1053,80"/>
+<area shape="rect" id="node13" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="329,154,474,181"/>
+</map>

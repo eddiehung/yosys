@@ -1,0 +1,8 @@
+<map id="PerformanceTimer::query" name="PerformanceTimer::query">
+<area shape="rect" id="node2" href="$d1/def/structPerformanceTimer.html#ae8af05b26172ed66e74b7bd1db1e1225" title="PerformanceTimer::begin" alt="" coords="222,5,389,32"/>
+<area shape="rect" id="node3" href="$d1/def/structPerformanceTimer.html#aa3fd03db4fd304186d702cb8813b5e70" title="PerformanceTimer::end" alt="" coords="227,56,383,83"/>
+<area shape="rect" id="node4" href="$d9/d43/structPass.html#a5a141f1ca2091fbb37e13d09e13dc99f" title="Pass::pre_execute" alt="" coords="241,107,369,133"/>
+<area shape="rect" id="node7" href="$d9/d43/structPass.html#ae990892a9144602d38ec1280c7961344" title="Pass::post_execute" alt="" coords="238,157,373,184"/>
+<area shape="rect" id="node5" href="$d4/df0/structFrontend.html#abb84243494f5f688aa9d17e7652560da" title="Frontend::execute" alt="" coords="438,107,562,133"/>
+<area shape="rect" id="node6" href="$d9/ddd/structBackend.html#a500ba8c5f92814c2c16ce1f1c8b2b0c7" title="Backend::execute" alt="" coords="438,157,562,184"/>
+</map>

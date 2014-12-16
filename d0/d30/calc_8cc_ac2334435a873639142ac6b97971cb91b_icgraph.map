@@ -1,0 +1,16 @@
+<map id="logic_reduce_wrapper" name="logic_reduce_wrapper">
+<area shape="rect" id="node2" href="$d3/dc3/namespaceRTLIL.html#a7d8c3165591c008dc87830fa479b903e" title="RTLIL::const_reduce_and" alt="" coords="205,26,376,53"/>
+<area shape="rect" id="node12" href="$d3/dc3/namespaceRTLIL.html#abac1add67048509c2c6ac662b33993ba" title="RTLIL::const_reduce_or" alt="" coords="210,77,371,104"/>
+<area shape="rect" id="node13" href="$d3/dc3/namespaceRTLIL.html#a8352359095406e77aa240cb6a6d33745" title="RTLIL::const_reduce_xor" alt="" coords="207,128,374,154"/>
+<area shape="rect" id="node14" href="$d3/dc3/namespaceRTLIL.html#aee37ff34c669de0dab08f24ff4e622df" title="RTLIL::const_reduce_xnor" alt="" coords="203,178,378,205"/>
+<area shape="rect" id="node15" href="$d3/dc3/namespaceRTLIL.html#a5f0b49b8ebb63dc4636fe179ddcfee11" title="RTLIL::const_reduce_bool" alt="" coords="203,229,378,256"/>
+<area shape="rect" id="node3" href="$db/d68/structAST_1_1AstNode.html#a5cf2515d40e89d40c4f3d4853454f86b" title="AST::AstNode::simplify" alt="" coords="427,128,581,154"/>
+<area shape="rect" id="node4" href="$d7/de1/ast_8cc.html#a9a16ac38401c86ce78f91716430e13d6" title="process_module" alt="" coords="851,40,968,66"/>
+<area shape="rect" id="node8" href="$db/d68/structAST_1_1AstNode.html#aa0b3eeaa27bfb5c9cff5750504748f9a" title="AST::AstNode::detectSign\lWidthWorker" alt="" coords="629,32,803,74"/>
+<area shape="rect" id="node9" href="$db/d68/structAST_1_1AstNode.html#ae85721dbe9edcee0920aa7268522b6f0" title="AST::AstNode::genRTLIL" alt="" coords="631,98,801,125"/>
+<area shape="rect" id="node10" href="$db/d68/structAST_1_1AstNode.html#afab847942e36fce2c23efa1918998bdc" title="AST::AstNode::mem2reg\l_as_needed_pass2" alt="" coords="633,150,799,191"/>
+<area shape="rect" id="node11" href="$db/d68/structAST_1_1AstNode.html#aa8b70b9b0c6af52e20bfb2c10b06138b" title="AST::AstNode::eval\l_const_function" alt="" coords="649,215,783,256"/>
+<area shape="rect" id="node5" href="$d4/dd1/namespaceAST.html#a00d03a3b449399745cee766910ff8fe4" title="AST::process" alt="" coords="1045,14,1145,41"/>
+<area shape="rect" id="node7" href="$db/d8e/structAST_1_1AstModule.html#a0c7a0b6f77ca9128e0a939a852ae34bd" title="AST::AstModule::derive" alt="" coords="1016,65,1173,92"/>
+<area shape="rect" id="node6" href="$d0/da7/structVerilogFrontend.html#a8100a46f13a4a29f658524f59a1c9fd0" title="VerilogFrontend::execute" alt="" coords="1222,14,1386,41"/>
+</map>

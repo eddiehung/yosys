@@ -1,0 +1,11 @@
+<map id="simplemap_concat" name="simplemap_concat">
+<area shape="rect" id="node2" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="198,5,333,32"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#a4c904f5a77c28dc3340b4ecb4b275e9b" title="RTLIL::SigSpec::append" alt="" coords="184,56,347,83"/>
+<area shape="rect" id="node10" href="$d7/d6c/structRTLIL_1_1Module.html#ab79bcacb14f3fe41c2350cfa6882956c" title="RTLIL::Module::connect" alt="" coords="186,107,345,133"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9d9fae8fc6b1b07caff1a9dc5a45a1ec" title="RTLIL::SigSpec::packed" alt="" coords="395,5,557,32"/>
+<area shape="rect" id="node5" href="$dd/d74/structRTLIL_1_1SigSpec.html#a23c5fe78b8654313b1a8ba6e0aea1b0b" title="RTLIL::SigSpec::pack" alt="" coords="402,56,550,83"/>
+<area shape="rect" id="node6" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="606,81,663,108"/>
+<area shape="rect" id="node7" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="717,31,899,57"/>
+<area shape="rect" id="node8" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="731,81,885,108"/>
+<area shape="rect" id="node9" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="712,132,904,159"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SubCircuit::SolverWorker::checkPortmapCandidate" name="SubCircuit::SolverWorker::checkPortmapCandidate">
+<area shape="rect" id="node2" href="$d9/daf/test__autotb_8cc.html#a9d24ea8c7d45703213d440f5c7bc71c3" title="idx" alt="" coords="289,5,327,32"/>
+<area shape="rect" id="node3" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#afbff69f8434a9f153396b8d628be67c6" title="SubCircuit::SolverWorker\l::matchNodePorts" alt="" coords="225,57,391,98"/>
+<area shape="rect" id="node4" href="$d6/d82/classSubCircuit_1_1Solver.html#a89abd64dc3f0934c94ff2051ce051d8d" title="SubCircuit::Solver\l::userCompareNodes" alt="" coords="237,122,379,163"/>
+<area shape="rect" id="node5" href="$dc/db4/structSubCircuit_1_1SolverWorker_1_1DiCache.html#a6aa1597b7360821690688b746a80d039" title="SubCircuit::SolverWorker\l::DiCache::compare" alt="" coords="225,187,391,229"/>
+</map>

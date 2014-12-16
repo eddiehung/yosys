@@ -1,0 +1,6 @@
+<map id="compare_signals" name="compare_signals">
+<area shape="rect" id="node2" href="$d3/da8/opt__clean_8cc.html#a28e72d2423abd0781566a7f8540f0841" title="rmunused_module_signals" alt="" coords="173,31,349,57"/>
+<area shape="rect" id="node3" href="$d3/da8/opt__clean_8cc.html#a47a892a9e9b07ea7c9e3c367ad4b4d1b" title="rmunused_module" alt="" coords="397,31,525,57"/>
+<area shape="rect" id="node4" href="$d2/d99/structOptCleanPass.html#abd9883c261b9a2720ec003cb2979d55c" title="OptCleanPass::execute" alt="" coords="573,5,731,32"/>
+<area shape="rect" id="node5" href="$d2/dec/structCleanPass.html#a3b346dca2322d3b8e0078074dce02c9a" title="CleanPass::execute" alt="" coords="584,56,720,83"/>
+</map>

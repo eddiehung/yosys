@@ -1,0 +1,6 @@
+<map id="kiss_convert_signal" name="kiss_convert_signal">
+<area shape="rect" id="node2" href="$dd/d74/structRTLIL_1_1SigSpec.html#affb6be514bcd0dd530279d57a2fe0207" title="RTLIL::SigSpec::is\l_fully_const" alt="" coords="207,5,337,46"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#adbd069b267f2c5e7480549661933d7e9" title="RTLIL::SigSpec::as\l_const" alt="" coords="205,70,339,111"/>
+<area shape="rect" id="node5" href="$d8/db7/structRTLIL_1_1Const.html#a56b30858504163672b38575bd7f8f939" title="RTLIL::Const::as_string" alt="" coords="193,136,351,163"/>
+<area shape="rect" id="node4" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="401,77,469,104"/>
+</map>

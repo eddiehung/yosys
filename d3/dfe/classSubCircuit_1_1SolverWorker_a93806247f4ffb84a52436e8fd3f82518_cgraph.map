@@ -1,0 +1,10 @@
+<map id="SubCircuit::SolverWorker::generateEnumerationMatrix" name="SubCircuit::SolverWorker::generateEnumerationMatrix">
+<area shape="rect" id="node2" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#acd517d3a6cac3b3c21ae5fe2a3515a88" title="SubCircuit::SolverWorker\l::matchNodes" alt="" coords="241,135,407,177"/>
+<area shape="rect" id="node3" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#afbff69f8434a9f153396b8d628be67c6" title="SubCircuit::SolverWorker\l::matchNodePorts" alt="" coords="470,5,637,46"/>
+<area shape="rect" id="node4" href="$d6/d82/classSubCircuit_1_1Solver.html#a89abd64dc3f0934c94ff2051ce051d8d" title="SubCircuit::Solver\l::userCompareNodes" alt="" coords="482,70,625,111"/>
+<area shape="rect" id="node5" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a0d8cb4fde1e45cd29b67c64e16e03446" title="SubCircuit::SolverWorker\l::applyPermutation" alt="" coords="470,135,637,177"/>
+<area shape="rect" id="node6" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#ae3aa38d826628faa201d875530537870" title="SubCircuit::SolverWorker\l::numberOfPermutationsArray" alt="" coords="457,201,649,242"/>
+<area shape="rect" id="node8" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#ac1b79dbcb7b2039ab50019214cf52181" title="SubCircuit::SolverWorker\l::permutateVectorToMapArray" alt="" coords="456,266,651,307"/>
+<area shape="rect" id="node7" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#aa6f0235a870547c83bbe5578821089a3" title="SubCircuit::SolverWorker\l::numberOfPermutations" alt="" coords="699,201,866,242"/>
+<area shape="rect" id="node9" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a96c0181e494ef901bec10b32a2ded40d" title="SubCircuit::SolverWorker\l::permutateVectorToMap" alt="" coords="699,266,866,307"/>
+</map>

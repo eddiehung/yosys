@@ -1,0 +1,29 @@
+<map id="while" name="while">
+<area shape="rect" id="node2" href="$df/d7e/verilog__lexer_8cc.html#a06f010946c88dbbc56b6b195e4325140" title="frontend_verilog_yyget\l_lineno" alt="" coords="111,5,262,46"/>
+<area shape="rect" id="node3" href="$df/d7e/verilog__lexer_8cc.html#a8957d5ce55705f5da3d1f71c769840eb" title="frontend_verilog_yyset\l_lineno" alt="" coords="111,70,262,111"/>
+<area shape="rect" id="node4" href="$d4/dc1/log_8cc.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="364,187,436,213"/>
+<area shape="rect" id="node6" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="821,136,859,163"/>
+<area shape="rect" id="node9" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1451,249,1495,276"/>
+<area shape="rect" id="node14" href="$dd/de0/verilog__frontend_8cc.html#abb4d4fa3f98e2a32432e4e9eacf1e2c0" title="frontend_verilog_yyerror" alt="" coords="107,241,266,268"/>
+<area shape="rect" id="node16" href="$df/d7e/verilog__lexer_8cc.html#ad7a179bfb29968916da20ca16f6ab370" title="yy_get_previous_state" alt="" coords="111,348,262,375"/>
+<area shape="rect" id="node17" href="$df/d7e/verilog__lexer_8cc.html#a45a1e65d8dcd5cb30c5d315c91800a5f" title="yy_try_NUL_trans" alt="" coords="123,399,250,425"/>
+<area shape="rect" id="node18" href="$df/d7e/verilog__lexer_8cc.html#a3b3b5f60f720da3f621223997266498c" title="yy_get_next_buffer" alt="" coords="122,449,251,476"/>
+<area shape="rect" id="node5" href="$d4/dc1/log_8cc.html#a25b6c81d25f95461e4d756a6785c9798" title="logv_error" alt="" coords="581,187,659,213"/>
+<area shape="rect" id="node7" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="1017,144,1063,171"/>
+<area shape="rect" id="node13" href="$d4/dc1/log_8cc.html#a4a5e317aa2251f3492aba63a872fc09b" title="log_flush" alt="" coords="803,237,877,264"/>
+<area shape="rect" id="node8" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="1337,195,1402,221"/>
+<area shape="rect" id="node10" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="1187,245,1255,272"/>
+<area shape="rect" id="node11" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="1170,93,1273,120"/>
+<area shape="rect" id="node12" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="1192,144,1251,171"/>
+<area shape="rect" id="node15" href="$d9/d81/verilog__frontend_8h.html#a06f010946c88dbbc56b6b195e4325140" title="frontend_verilog_yyget\l_lineno" alt="" coords="325,238,475,279"/>
+<area shape="rect" id="node19" href="$df/d7e/verilog__lexer_8cc.html#a113c2d11633b4f97147a0f40ff1e867f" title="frontend_verilog_yyrealloc" alt="" coords="755,407,925,433"/>
+<area shape="rect" id="node20" href="$df/d7e/verilog__lexer_8cc.html#a70b7f670e073d23641b9d338f787a8fe" title="frontend_verilog_yyrestart" alt="" coords="315,525,485,552"/>
+<area shape="rect" id="node21" href="$df/d7e/verilog__lexer_8cc.html#a3f5ec1b402d85446e1d73be41533befb" title="frontend_verilog_yyensure\l_buffer_stack" alt="" coords="534,453,706,494"/>
+<area shape="rect" id="node24" href="$df/d7e/verilog__lexer_8cc.html#a98341e3fd7e00a5cf45f1be766c63d1e" title="frontend_verilog_yy\l_create_buffer" alt="" coords="553,518,687,559"/>
+<area shape="rect" id="node25" href="$df/d7e/verilog__lexer_8cc.html#afa0f530b1c6f6fb3cf2c2bbd0cc368b6" title="frontend_verilog_yy\l_init_buffer" alt="" coords="773,543,907,585"/>
+<area shape="rect" id="node27" href="$df/d7e/verilog__lexer_8cc.html#a055f7b94c4ee9675b109f129fe8a7c54" title="frontend_verilog_yy\l_load_buffer_state" alt="" coords="1155,573,1288,614"/>
+<area shape="rect" id="node22" href="$df/d7e/verilog__lexer_8cc.html#a019d080e3ae6d5c2d1f643f1e579e4e7" title="frontend_verilog_yyalloc" alt="" coords="760,464,920,491"/>
+<area shape="rect" id="node23" href="$dd/dd4/ilang__parser_8tab_8cc.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1010,464,1070,491"/>
+<area shape="rect" id="node26" href="$df/d7e/verilog__lexer_8cc.html#a7e117a2fa68741dacafd0dee0fc792ed" title="frontend_verilog_yy\l_flush_buffer" alt="" coords="973,518,1107,559"/>
+<area shape="rect" id="node28" href="$df/d7e/verilog__lexer_8cc.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="1013,584,1067,611"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="rtlil_frontend_ilang_yy_scan_buffer" name="rtlil_frontend_ilang_yy_scan_buffer">
+<area shape="rect" id="node2" href="$d8/db3/ilang__lexer_8cc.html#a5c353e788742181eaae6ff3bd3e7ce00" title="rtlil_frontend_ilang\l_yyalloc" alt="" coords="582,5,709,46"/>
+<area shape="rect" id="node4" href="$d8/db3/ilang__lexer_8cc.html#a7753ee307c8b5401dc3d971fd2af6d0f" title="rtlil_frontend_ilang\l_yy_switch_to_buffer" alt="" coords="182,63,325,105"/>
+<area shape="rect" id="node3" href="$dd/dd4/ilang__parser_8tab_8cc.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="758,12,818,39"/>
+<area shape="rect" id="node5" href="$d8/db3/ilang__lexer_8cc.html#ab62c13d30e7f7577bddb01b4831dc1cd" title="rtlil_frontend_ilang\l_yyensure_buffer_stack" alt="" coords="374,63,533,105"/>
+<area shape="rect" id="node7" href="$d8/db3/ilang__lexer_8cc.html#a22a9abfb1839f13f787fe78958cfd14b" title="rtlil_frontend_ilang\l_yy_load_buffer_state" alt="" coords="380,129,527,170"/>
+<area shape="rect" id="node6" href="$d8/db3/ilang__lexer_8cc.html#a74fa686146dc38feb3329b464874b8fb" title="rtlil_frontend_ilang\l_yyrealloc" alt="" coords="582,70,709,111"/>
+</map>

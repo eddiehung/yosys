@@ -1,0 +1,8 @@
+<map id="simplemap_pos" name="simplemap_pos">
+<area shape="rect" id="node2" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="190,5,325,32"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#aa190ef13999edb4d38e01607bf6324a4" title="RTLIL::SigSpec::extend_u0" alt="" coords="168,56,347,83"/>
+<area shape="rect" id="node6" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="223,107,291,133"/>
+<area shape="rect" id="node7" href="$d7/d6c/structRTLIL_1_1Module.html#ab79bcacb14f3fe41c2350cfa6882956c" title="RTLIL::Module::connect" alt="" coords="178,157,337,184"/>
+<area shape="rect" id="node4" href="$d6/d0b/namespaceMinisat.html#ad45d20f93b53d687dc370b0b06fbdab4" title="Minisat::append" alt="" coords="395,56,507,83"/>
+<area shape="rect" id="node5" href="$d6/d0b/namespaceMinisat.html#ad8714c7d062a4cbf6f2e35a6c1f1d8b2" title="Minisat::copy" alt="" coords="555,56,653,83"/>
+</map>

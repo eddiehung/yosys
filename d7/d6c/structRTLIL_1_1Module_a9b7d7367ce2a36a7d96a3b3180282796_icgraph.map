@@ -1,0 +1,5 @@
+<map id="RTLIL::Module::swap_names" name="RTLIL::Module::swap_names">
+<area shape="rect" id="node2" href="$d4/d40/structIopadmapPass.html#a547fc39cb9024e508fc6e215cbfca97c" title="IopadmapPass::execute" alt="" coords="197,5,357,32"/>
+<area shape="rect" id="node3" href="$df/d0e/structWreduceWorker.html#ae39422d483c0e6b57a4c8e39dc87263c" title="WreduceWorker::run" alt="" coords="208,56,347,83"/>
+<area shape="rect" id="node4" href="$d7/d09/structWreducePass.html#a7bf0b412c44a14aa7fb6b21c4c376545" title="WreducePass::execute" alt="" coords="405,56,560,83"/>
+</map>

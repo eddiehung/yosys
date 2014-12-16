@@ -1,0 +1,7 @@
+<map id="ModWalker::add_cell" name="ModWalker::add_cell">
+<area shape="rect" id="node2" href="$d0/d4d/structCellTypes.html#a7851d81f2149baab5a059d767693d461" title="CellTypes::cell_known" alt="" coords="205,5,355,32"/>
+<area shape="rect" id="node3" href="$d6/db5/structRTLIL_1_1Cell.html#a6eba6dfa5a38ad99056c945dcd794873" title="RTLIL::Cell::connections" alt="" coords="199,56,361,83"/>
+<area shape="rect" id="node4" href="$d7/d1e/structModWalker.html#afddc2d59e79271a38221d279ef1c9316" title="ModWalker::add_cell_port" alt="" coords="195,107,365,133"/>
+<area shape="rect" id="node5" href="$d0/d4d/structCellTypes.html#a9d3f029f5b32cfcfe9826f90d99dc7ef" title="CellTypes::cell_output" alt="" coords="206,157,354,184"/>
+<area shape="rect" id="node6" href="$d0/d4d/structCellTypes.html#ac9f27bc21d222fe95271c25b5295b6c3" title="CellTypes::cell_input" alt="" coords="210,208,350,235"/>
+</map>

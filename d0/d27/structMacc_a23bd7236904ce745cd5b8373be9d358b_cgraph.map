@@ -1,0 +1,9 @@
+<map id="Macc::Macc" name="Macc::Macc">
+<area shape="rect" id="node2" href="$d0/d27/structMacc.html#a08b0a1d0376dcf9cee37142b7c6001f5" title="Macc::from_cell" alt="" coords="147,107,261,133"/>
+<area shape="rect" id="node3" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="322,5,457,32"/>
+<area shape="rect" id="node4" href="$d6/db5/structRTLIL_1_1Cell.html#ad4d3fb560757799b81db0180dc05c471" title="RTLIL::Cell::getParam" alt="" coords="315,56,464,83"/>
+<area shape="rect" id="node5" href="$d8/db7/structRTLIL_1_1Const.html#a8e25680d9c437594db63bc84906aa102" title="RTLIL::Const::as_int" alt="" coords="319,107,459,133"/>
+<area shape="rect" id="node6" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="355,157,423,184"/>
+<area shape="rect" id="node7" href="$dd/d74/structRTLIL_1_1SigSpec.html#aab47d4484bbd3b94c31f38e38ddec91a" title="RTLIL::SigSpec::extract" alt="" coords="310,208,469,235"/>
+<area shape="rect" id="node8" href="$dd/d74/structRTLIL_1_1SigSpec.html#a5dc7b683a05092e03e524ec50395b737" title="RTLIL::SigSpec::to\l_sigbit_set" alt="" coords="517,201,648,242"/>
+</map>

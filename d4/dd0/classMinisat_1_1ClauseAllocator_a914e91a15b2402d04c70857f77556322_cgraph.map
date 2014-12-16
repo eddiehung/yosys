@@ -1,0 +1,5 @@
+<map id="Minisat::ClauseAllocator::free" name="Minisat::ClauseAllocator::free">
+<area shape="rect" id="node2" href="$d4/dd0/classMinisat_1_1ClauseAllocator.html#a3886346dcdaaeab59d1fb411a84c6d81" title="Minisat::ClauseAllocator\l::operator[]" alt="" coords="217,5,378,46"/>
+<area shape="rect" id="node3" href="$da/d2d/classMinisat_1_1RegionAllocator.html#aec12fd9151357bbf29b9a6c81ab5a165" title="Minisat::RegionAllocator\l::free" alt="" coords="217,70,378,111"/>
+<area shape="rect" id="node4" href="$d4/dd0/classMinisat_1_1ClauseAllocator.html#a4d36af5fd5cca1a8a4b32a126d924f1b" title="Minisat::ClauseAllocator\l::clauseWord32Size" alt="" coords="217,135,378,177"/>
+</map>

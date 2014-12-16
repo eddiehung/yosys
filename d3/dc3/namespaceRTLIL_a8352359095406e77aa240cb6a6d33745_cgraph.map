@@ -1,0 +1,4 @@
+<map id="RTLIL::const_reduce_xor" name="RTLIL::const_reduce_xor">
+<area shape="rect" id="node2" href="$d0/d30/calc_8cc.html#ac2334435a873639142ac6b97971cb91b" title="logic_reduce_wrapper" alt="" coords="222,5,370,32"/>
+<area shape="rect" id="node3" href="$d0/d30/calc_8cc.html#a66e00f74122eca45fa536edf98c6b5e6" title="logic_xor" alt="" coords="259,56,333,83"/>
+</map>

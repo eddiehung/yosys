@@ -1,0 +1,9 @@
+<map id="SubCircuit::SolverWorker::prunePortmapCandidates" name="SubCircuit::SolverWorker::prunePortmapCandidates">
+<area shape="rect" id="node2" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a16d81107a70c996d693168158d0f685a" title="SubCircuit::SolverWorker\l::ullmannRecursion" alt="" coords="230,71,397,113"/>
+<area shape="rect" id="node3" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a9cb12f43e79b2b1a752453cbd63365d1" title="SubCircuit::SolverWorker\l::solveForMining" alt="" coords="446,38,613,79"/>
+<area shape="rect" id="node8" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a537ed2c948ebb6654c4a89fd8792659c" title="SubCircuit::SolverWorker\l::solve" alt="" coords="446,103,613,145"/>
+<area shape="rect" id="node4" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#aacd5e1fca8621c0ba00ed9b6c0141db9" title="SubCircuit::SolverWorker\l::testForMining" alt="" coords="662,38,829,79"/>
+<area shape="rect" id="node5" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#abcf97b85f4ae96d8f8e33f7a9fe81603" title="SubCircuit::SolverWorker\l::findNodePairs" alt="" coords="878,5,1045,46"/>
+<area shape="rect" id="node7" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#aeb36b23b98abe9655cfa3d2196544428" title="SubCircuit::SolverWorker\l::findNextPool" alt="" coords="878,70,1045,111"/>
+<area shape="rect" id="node6" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a1b246a7d865b7a59cbdc6d55bf90d33b" title="SubCircuit::SolverWorker\l::mine" alt="" coords="1094,38,1261,79"/>
+</map>

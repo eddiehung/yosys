@@ -1,0 +1,12 @@
+<map id="AlumaccWorker::extract_macc" name="AlumaccWorker::extract_macc">
+<area shape="rect" id="node2" href="$d7/d6c/structRTLIL_1_1Module.html#a7d20a1ce90d981def4395359a06e420c" title="RTLIL::Module::selected\l_cells" alt="" coords="253,5,416,46"/>
+<area shape="rect" id="node3" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="315,71,354,97"/>
+<area shape="rect" id="node10" href="$d4/dc1/log_8cc.html#ae3fbeca33c15c48f406bbd5680014c68" title="log_id" alt="" coords="307,121,363,148"/>
+<area shape="rect" id="node4" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="514,71,561,97"/>
+<area shape="rect" id="node5" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="811,71,877,97"/>
+<area shape="rect" id="node7" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="677,45,745,72"/>
+<area shape="rect" id="node8" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="659,96,762,123"/>
+<area shape="rect" id="node9" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="681,147,740,173"/>
+<area shape="rect" id="node6" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="926,71,970,97"/>
+<area shape="rect" id="node11" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="465,121,610,148"/>
+</map>

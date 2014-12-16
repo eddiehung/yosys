@@ -1,0 +1,6 @@
+<map id="ShareWorker::find_shareable_cells" name="ShareWorker::find_shareable_cells">
+<area shape="rect" id="node2" href="$d7/d6c/structRTLIL_1_1Module.html#a57b60c312397a5fb92741b2dd63e9a5d" title="RTLIL::Module::cells" alt="" coords="250,5,390,32"/>
+<area shape="rect" id="node3" href="$d1/d01/structRTLIL_1_1Design.html#a31aff0bb01f4c8af6a8eba0b94c3786b" title="RTLIL::Design::selected" alt="" coords="240,56,400,83"/>
+<area shape="rect" id="node5" href="$d0/d4d/structCellTypes.html#a7851d81f2149baab5a059d767693d461" title="CellTypes::cell_known" alt="" coords="245,107,395,133"/>
+<area shape="rect" id="node4" href="$d1/d01/structRTLIL_1_1Design.html#ac0d72a83fb1f702641e342fda3097552" title="RTLIL::Design::selected\l_module" alt="" coords="448,49,608,90"/>
+</map>

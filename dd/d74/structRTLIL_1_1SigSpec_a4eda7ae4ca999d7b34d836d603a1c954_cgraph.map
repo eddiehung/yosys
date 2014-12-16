@@ -1,0 +1,10 @@
+<map id="RTLIL::SigSpec::extract" name="RTLIL::SigSpec::extract">
+<area shape="rect" id="node2" href="$dd/d74/structRTLIL_1_1SigSpec.html#aef4a2cb4b1b7a48a7775b046f7a7431c" title="RTLIL::SigSpec::to\l_sigbit_vector" alt="" coords="240,5,371,46"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#a70903ea1ee19c3f59a26497c106e8ec6" title="RTLIL::SigSpec::append_bit" alt="" coords="214,71,397,97"/>
+<area shape="rect" id="node8" href="$dd/d74/structRTLIL_1_1SigSpec.html#a6ac633d076d455844da0087e13e33c46" title="RTLIL::SigSpec::check" alt="" coords="228,121,383,148"/>
+<area shape="rect" id="node4" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="451,71,509,97"/>
+<area shape="rect" id="node5" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="567,20,750,47"/>
+<area shape="rect" id="node6" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="582,71,735,97"/>
+<area shape="rect" id="node7" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="563,121,755,148"/>
+<area shape="rect" id="node9" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="446,121,514,148"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Minisat::Solver::isRemoved" name="Minisat::Solver::isRemoved">
+<area shape="rect" id="node2" href="$d5/daf/classMinisat_1_1Solver.html#a49bc8d088936bbde8715a530d61251f2" title="Minisat::Solver::relocAll" alt="" coords="233,45,389,72"/>
+<area shape="rect" id="node3" href="$db/d9e/classMinisat_1_1SimpSolver.html#ab65d808a2fc3f92db779e034d163df72" title="Minisat::SimpSolver\l::garbageCollect" alt="" coords="449,5,586,46"/>
+<area shape="rect" id="node6" href="$d5/daf/classMinisat_1_1Solver.html#a483457ef263aa53ba8ae8dcadc5d5602" title="Minisat::Solver::garbage\lCollect" alt="" coords="438,70,597,111"/>
+<area shape="rect" id="node4" href="$db/d9e/classMinisat_1_1SimpSolver.html#a5b617b7d5a6a621ccf9107fc41d4c4ee" title="Minisat::SimpSolver\l::eliminate" alt="" coords="675,5,813,46"/>
+<area shape="rect" id="node5" href="$db/d9e/classMinisat_1_1SimpSolver.html#a16a7cb46aaa5f4a8ec2da92755e9d748" title="Minisat::SimpSolver\l::solve_" alt="" coords="891,5,1029,46"/>
+<area shape="rect" id="node7" href="$d5/daf/classMinisat_1_1Solver.html#ab3aea51bbdd0d9d126935608e669a35c" title="Minisat::Solver::checkGarbage" alt="" coords="645,77,843,104"/>
+</map>

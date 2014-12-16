@@ -1,0 +1,19 @@
+<map id="RTLIL::Design::selected_whole_module" name="RTLIL::Design::selected_whole_module">
+<area shape="rect" id="node2" href="$d3/df1/add_8cc.html#ab5991fdc8ade41892385f792dcebc4cd" title="add_wire" alt="" coords="280,5,355,32"/>
+<area shape="rect" id="node3" href="$d8/dfb/structAddPass.html#a1a0fac9fc1e5a0f2c2e257cccb01b8b7" title="AddPass::execute" alt="" coords="491,31,618,57"/>
+<area shape="rect" id="node4" href="$de/d47/structDeletePass.html#a2e5a8970ad0629192d0adf3064db8f49" title="DeletePass::execute" alt="" coords="247,107,387,133"/>
+<area shape="rect" id="node5" href="$d5/d25/namespaceILANG__BACKEND.html#ad401ce6f755a6ff0a8fecaba5bb585e0" title="ILANG_BACKEND::dump\l_module" alt="" coords="232,158,403,199"/>
+<area shape="rect" id="node6" href="$d5/d25/namespaceILANG__BACKEND.html#a30b07518859b127b2f6323b91e43988c" title="ILANG_BACKEND::dump\l_design" alt="" coords="469,187,640,229"/>
+<area shape="rect" id="node9" href="$d9/d5a/structIntersynthBackend.html#a8c092789715560f575207ccfd5d20641" title="IntersynthBackend::\lexecute" alt="" coords="249,275,385,317"/>
+<area shape="rect" id="node10" href="$d2/d99/structOptCleanPass.html#abd9883c261b9a2720ec003cb2979d55c" title="OptCleanPass::execute" alt="" coords="239,341,396,368"/>
+<area shape="rect" id="node11" href="$d2/dec/structCleanPass.html#a3b346dca2322d3b8e0078074dce02c9a" title="CleanPass::execute" alt="" coords="249,392,385,419"/>
+<area shape="rect" id="node12" href="$d6/d82/structOptMuxtreePass.html#aa13db8e9243bff66641e575481ce32d8" title="OptMuxtreePass::execute" alt="" coords="232,443,403,469"/>
+<area shape="rect" id="node13" href="$da/d83/structSetattrPass.html#a6111282c848c0c0121be96703e1c06f6" title="SetattrPass::execute" alt="" coords="246,493,389,520"/>
+<area shape="rect" id="node14" href="$d3/d4b/structShowWorker.html#aa06247afd511eda7d7676b77fb5900a7" title="ShowWorker::ShowWorker" alt="" coords="229,544,405,571"/>
+<area shape="rect" id="node15" href="$d4/d30/structStatPass.html#ab8dff0595b34e4c00846f7ae74f1e536" title="StatPass::execute" alt="" coords="254,595,381,621"/>
+<area shape="rect" id="node16" href="$d0/d75/structSubmodWorker.html#ad1f5ab30d45d391a314ea46caff4d57e" title="SubmodWorker::SubmodWorker" alt="" coords="214,645,421,672"/>
+<area shape="rect" id="node17" href="$db/d75/structSubmodPass.html#a55a8bae898294cef186d7442996ac222" title="SubmodPass::execute" alt="" coords="242,696,393,723"/>
+<area shape="rect" id="node18" href="$d0/dff/structVerilogBackend.html#a78bdd93e64b8adce95c19eec4b0205d2" title="VerilogBackend::execute" alt="" coords="235,747,399,773"/>
+<area shape="rect" id="node7" href="$d6/d2f/structIlangBackend.html#a5e6d124d46df56cd0f407d35484cebeb" title="IlangBackend::execute" alt="" coords="688,169,840,196"/>
+<area shape="rect" id="node8" href="$d9/d75/structDumpPass.html#a690d2aa30ca587997af7c834b634a37d" title="DumpPass::execute" alt="" coords="695,220,833,247"/>
+</map>

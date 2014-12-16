@@ -1,0 +1,25 @@
+<map id="BigInteger::divideWithRemainder" name="BigInteger::divideWithRemainder">
+<area shape="rect" id="node2" href="$d0/d5b/classBigUnsigned.html#a39e6a0e2d960dee0e89acf4d2398d5f1" title="BigUnsigned::divideWithRemainder" alt="" coords="264,177,488,204"/>
+<area shape="rect" id="node20" href="$d0/d5b/classBigUnsigned.html#aeb9c7c804c94a6c6b5245835e90f3d46" title="BigUnsigned::subtract" alt="" coords="301,228,451,255"/>
+<area shape="rect" id="node23" href="$d0/d5b/classBigUnsigned.html#a90704d2d4a5333f75b7300ad69b378fb" title="BigUnsigned::isZero" alt="" coords="307,304,445,331"/>
+<area shape="rect" id="node3" href="$d8/de3/classNumberlikeArray.html#af33c23327f2abe6850264180b3147055" title="NumberlikeArray\&lt; unsigned\l long \&gt;::allocateAndCopy" alt="" coords="547,61,728,102"/>
+<area shape="rect" id="node4" href="$d8/de3/classNumberlikeArray.html#af679905e09b95d7b0ae4174d473b25f8" title="NumberlikeArray::allocate" alt="" coords="553,177,722,204"/>
+<area shape="rect" id="node5" href="$d8/db3/ilang__lexer_8cc.html#a8fdafe3be7e00ce3d4f0cb50a9a5eb39" title="while" alt="" coords="611,127,663,153"/>
+<area shape="rect" id="node19" href="$d0/d5b/classBigUnsigned.html#a4bc40738d0b403db5799bd71438435ae" title="BigUnsigned::zapLeadingZeros" alt="" coords="537,228,738,255"/>
+<area shape="rect" id="node6" href="$d8/db3/ilang__lexer_8cc.html#ad7a179bfb29968916da20ca16f6ab370" title="yy_get_previous_state" alt="" coords="801,127,951,153"/>
+<area shape="rect" id="node7" href="$d8/db3/ilang__lexer_8cc.html#a45a1e65d8dcd5cb30c5d315c91800a5f" title="yy_try_NUL_trans" alt="" coords="813,177,939,204"/>
+<area shape="rect" id="node8" href="$d8/db3/ilang__lexer_8cc.html#a3b3b5f60f720da3f621223997266498c" title="yy_get_next_buffer" alt="" coords="811,76,941,103"/>
+<area shape="rect" id="node9" href="$d8/db3/ilang__lexer_8cc.html#a74fa686146dc38feb3329b464874b8fb" title="rtlil_frontend_ilang\l_yyrealloc" alt="" coords="1398,6,1525,47"/>
+<area shape="rect" id="node10" href="$d8/db3/ilang__lexer_8cc.html#a32380e2917d77e4d429508c657669777" title="rtlil_frontend_ilang\l_yyrestart" alt="" coords="1014,130,1141,171"/>
+<area shape="rect" id="node11" href="$d8/db3/ilang__lexer_8cc.html#ab62c13d30e7f7577bddb01b4831dc1cd" title="rtlil_frontend_ilang\l_yyensure_buffer_stack" alt="" coords="1190,65,1349,106"/>
+<area shape="rect" id="node14" href="$d8/db3/ilang__lexer_8cc.html#addd2eb9f0011fc0303bed43fd725b0d3" title="rtlil_frontend_ilang\l_yy_create_buffer" alt="" coords="1206,130,1333,171"/>
+<area shape="rect" id="node15" href="$d8/db3/ilang__lexer_8cc.html#a6950ba99cb20ae23ca7c045c798619d1" title="rtlil_frontend_ilang\l_yy_init_buffer" alt="" coords="1398,158,1525,199"/>
+<area shape="rect" id="node17" href="$d8/db3/ilang__lexer_8cc.html#a22a9abfb1839f13f787fe78958cfd14b" title="rtlil_frontend_ilang\l_yy_load_buffer_state" alt="" coords="1749,185,1896,226"/>
+<area shape="rect" id="node12" href="$d8/db3/ilang__lexer_8cc.html#a5c353e788742181eaae6ff3bd3e7ce00" title="rtlil_frontend_ilang\l_yyalloc" alt="" coords="1398,71,1525,113"/>
+<area shape="rect" id="node13" href="$dd/dd4/ilang__parser_8tab_8cc.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1607,79,1667,105"/>
+<area shape="rect" id="node16" href="$d8/db3/ilang__lexer_8cc.html#af69682b4e2489b755d2ac03f7fe696e3" title="rtlil_frontend_ilang\l_yy_flush_buffer" alt="" coords="1574,130,1701,171"/>
+<area shape="rect" id="node18" href="$d8/db3/ilang__lexer_8cc.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="1611,196,1664,223"/>
+<area shape="rect" id="node21" href="$d0/d5b/classBigUnsigned.html#ad15dcde2b172d86167647e5c8daefe7b" title="BigUnsigned::operator=" alt="" coords="559,279,716,305"/>
+<area shape="rect" id="node22" href="$d8/de3/classNumberlikeArray.html#a0c68894dfe11e7786b4768c7258bf4c6" title="NumberlikeArray::operator=" alt="" coords="787,279,965,305"/>
+<area shape="rect" id="node24" href="$d8/de3/classNumberlikeArray.html#ae963c6b412259cd29bf3a4e0b5ade183" title="NumberlikeArray::isEmpty" alt="" coords="552,329,723,356"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ModIndex::port_add" name="ModIndex::port_add">
+<area shape="rect" id="node2" href="$d9/d74/structModIndex.html#a76b6fcafcba24d6eddda41618166a70f" title="ModIndex::reload_module" alt="" coords="189,77,357,104"/>
+<area shape="rect" id="node3" href="$d9/d74/structModIndex.html#a74374f6f5d55fc5ca588b11c91855543" title="ModIndex::notify_connect" alt="" coords="405,27,573,53"/>
+<area shape="rect" id="node4" href="$d9/d74/structModIndex.html#ae6e50de36f5ba9e1109b1a16b19169bc" title="ModIndex::query" alt="" coords="432,77,547,104"/>
+<area shape="rect" id="node5" href="$d9/d74/structModIndex.html#af66a481c56855f78065abb2a4262596d" title="ModIndex::query_is\l_input" alt="" coords="631,5,763,46"/>
+<area shape="rect" id="node6" href="$d9/d74/structModIndex.html#afd42d90d9f5183fa5c553ec337bf05b0" title="ModIndex::query_is\l_output" alt="" coords="631,70,763,111"/>
+<area shape="rect" id="node7" href="$d9/d74/structModIndex.html#a9cf481cd7edf4324f2dc79db8aa83606" title="ModIndex::query_ports" alt="" coords="622,136,773,163"/>
+<area shape="rect" id="node8" href="$da/d05/structShareWorker.html#a0ce548521b78c3f724cffdf0a0e898ff" title="ShareWorker::is_part\l_of_scc" alt="" coords="822,129,965,170"/>
+<area shape="rect" id="node9" href="$da/d05/structShareWorker.html#a609cde801a68cdf7ca57169e08a9d03a" title="ShareWorker::ShareWorker" alt="" coords="1013,136,1192,163"/>
+</map>

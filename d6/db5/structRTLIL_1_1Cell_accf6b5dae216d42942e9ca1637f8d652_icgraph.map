@@ -1,0 +1,8 @@
+<map id="RTLIL::Cell::has_keep_attr" name="RTLIL::Cell::has_keep_attr">
+<area shape="rect" id="node2" href="$d3/da8/opt__clean_8cc.html#afca4ef79acfac4a92e8d01c4f6c46911" title="rmunused_module_cells" alt="" coords="236,31,399,57"/>
+<area shape="rect" id="node6" href="$de/d01/structOptShareWorker.html#af41b430f4805e58ee199c35b82d4c35d" title="OptShareWorker::compare\l_cells" alt="" coords="230,82,405,123"/>
+<area shape="rect" id="node3" href="$d3/da8/opt__clean_8cc.html#a47a892a9e9b07ea7c9e3c367ad4b4d1b" title="rmunused_module" alt="" coords="492,31,620,57"/>
+<area shape="rect" id="node4" href="$d2/d99/structOptCleanPass.html#abd9883c261b9a2720ec003cb2979d55c" title="OptCleanPass::execute" alt="" coords="707,5,864,32"/>
+<area shape="rect" id="node5" href="$d2/dec/structCleanPass.html#a3b346dca2322d3b8e0078074dce02c9a" title="CleanPass::execute" alt="" coords="717,56,853,83"/>
+<area shape="rect" id="node7" href="$d0/d0a/structOptShareWorker_1_1CompareCells.html#ab947be43ee16fecdff360f2c213bf4e7" title="OptShareWorker::CompareCells\l::operator()" alt="" coords="453,82,659,123"/>
+</map>

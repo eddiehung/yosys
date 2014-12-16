@@ -1,0 +1,8 @@
+<map id="frontend_verilog_yy_create_buffer" name="frontend_verilog_yy_create_buffer">
+<area shape="rect" id="node2" href="$df/d7e/verilog__lexer_8cc.html#ad4a65b873df5c05570846b5413b41dfd" title="if" alt="" coords="253,5,291,32"/>
+<area shape="rect" id="node3" href="$df/d7e/verilog__lexer_8cc.html#a70b7f670e073d23641b9d338f787a8fe" title="frontend_verilog_yyrestart" alt="" coords="187,56,357,83"/>
+<area shape="rect" id="node4" href="$d0/da7/structVerilogFrontend.html#a8100a46f13a4a29f658524f59a1c9fd0" title="VerilogFrontend::execute" alt="" coords="406,5,570,32"/>
+<area shape="rect" id="node5" href="$df/d7e/verilog__lexer_8cc.html#a3b3b5f60f720da3f621223997266498c" title="yy_get_next_buffer" alt="" coords="423,56,553,83"/>
+<area shape="rect" id="node7" href="$df/d7e/verilog__lexer_8cc.html#a171692544b8e065853e387755849a433" title="input" alt="" coords="620,107,671,133"/>
+<area shape="rect" id="node6" href="$df/d7e/verilog__lexer_8cc.html#a8fdafe3be7e00ce3d4f0cb50a9a5eb39" title="while" alt="" coords="619,56,671,83"/>
+</map>

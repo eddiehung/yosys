@@ -1,0 +1,10 @@
+<map id="statdata_t::statdata_t" name="statdata_t::statdata_t">
+<area shape="rect" id="node2" href="$d1/d01/structRTLIL_1_1Design.html#a31aff0bb01f4c8af6a8eba0b94c3786b" title="RTLIL::Design::selected" alt="" coords="197,12,357,39"/>
+<area shape="rect" id="node4" href="$d8/df7/structRTLIL_1_1IdString.html#a414596a8e4b5072e15bc41667f63ad1e" title="RTLIL::IdString::in" alt="" coords="214,63,341,89"/>
+<area shape="rect" id="node5" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="243,113,311,140"/>
+<area shape="rect" id="node6" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="248,164,307,191"/>
+<area shape="rect" id="node9" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="205,215,350,241"/>
+<area shape="rect" id="node3" href="$d1/d01/structRTLIL_1_1Design.html#ac0d72a83fb1f702641e342fda3097552" title="RTLIL::Design::selected\l_module" alt="" coords="405,5,565,46"/>
+<area shape="rect" id="node7" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="453,164,518,191"/>
+<area shape="rect" id="node8" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="614,164,658,191"/>
+</map>

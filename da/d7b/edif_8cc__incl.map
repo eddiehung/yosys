@@ -1,0 +1,8 @@
+<map id="edif.cc" name="edif.cc">
+<area shape="rect" id="node2" href="$d4/d80/rtlil_8h.html" title="kernel/rtlil.h" alt="" coords="880,80,968,107"/>
+<area shape="rect" id="node21" href="$d7/d7f/log_8h.html" title="kernel/log.h" alt="" coords="1529,229,1617,256"/>
+<area shape="rect" id="node25" href="$df/d80/register_8h.html" title="kernel/register.h" alt="" coords="1641,229,1756,256"/>
+<area shape="rect" id="node26" href="$d5/d98/sigtools_8h.html" title="kernel/sigtools.h" alt="" coords="993,80,1108,107"/>
+<area shape="rect" id="node27" href="$d5/d51/celltypes_8h.html" title="kernel/celltypes.h" alt="" coords="1133,80,1256,107"/>
+<area shape="rect" id="node3" href="$d6/d81/yosys_8h.html" title="kernel/yosys.h" alt="" coords="872,155,976,181"/>
+</map>

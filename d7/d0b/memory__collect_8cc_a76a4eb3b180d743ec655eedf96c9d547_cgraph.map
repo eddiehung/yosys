@@ -1,0 +1,30 @@
+<map id="handle_memory" name="handle_memory">
+<area shape="rect" id="node2" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="230,21,269,47"/>
+<area shape="rect" id="node9" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="177,71,322,98"/>
+<area shape="rect" id="node10" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title="Minisat::sort" alt="" coords="203,122,295,149"/>
+<area shape="rect" id="node12" href="$d7/d0b/memory__collect_8cc.html#a98b57b84c8802309d423b93d3a41459c" title="memcells_cmp" alt="" coords="194,173,305,199"/>
+<area shape="rect" id="node13" href="$dd/d74/structRTLIL_1_1SigSpec.html#a72a0f0def01be52891bdf5eedad46c33" title="RTLIL::SigSpec::extend" alt="" coords="170,274,329,301"/>
+<area shape="rect" id="node16" href="$dd/d74/structRTLIL_1_1SigSpec.html#a4c904f5a77c28dc3340b4ecb4b275e9b" title="RTLIL::SigSpec::append" alt="" coords="168,543,331,570"/>
+<area shape="rect" id="node23" href="$d8/df7/structRTLIL_1_1IdString.html#abe954d84d173aa85d6bf7820c1ee2040" title="RTLIL::IdString::str" alt="" coords="184,325,315,351"/>
+<area shape="rect" id="node24" href="$d7/d6c/structRTLIL_1_1Module.html#a1a7e895aac049d13e973eada539ee676" title="RTLIL::Module::addCell" alt="" coords="171,375,327,402"/>
+<area shape="rect" id="node25" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9a085a75d9ede59180209a69cbff8abc" title="RTLIL::SigSpec::size" alt="" coords="178,426,321,453"/>
+<area shape="rect" id="node26" href="$dd/d74/structRTLIL_1_1SigSpec.html#affb6be514bcd0dd530279d57a2fe0207" title="RTLIL::SigSpec::is\l_fully_const" alt="" coords="184,477,315,519"/>
+<area shape="rect" id="node27" href="$dd/d74/structRTLIL_1_1SigSpec.html#adbd069b267f2c5e7480549661933d7e9" title="RTLIL::SigSpec::as\l_const" alt="" coords="393,191,527,232"/>
+<area shape="rect" id="node28" href="$d6/db5/structRTLIL_1_1Cell.html#a60083493b42191874643112a848ffe2e" title="RTLIL::Cell::setPort" alt="" coords="182,594,317,621"/>
+<area shape="rect" id="node29" href="$d7/d6c/structRTLIL_1_1Module.html#a6aa6e393124a0d917c4f1d1a432e4438" title="RTLIL::Module::remove" alt="" coords="171,645,327,671"/>
+<area shape="rect" id="node3" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="437,21,483,47"/>
+<area shape="rect" id="node4" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="805,21,870,47"/>
+<area shape="rect" id="node6" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="607,151,675,178"/>
+<area shape="rect" id="node7" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="590,21,693,47"/>
+<area shape="rect" id="node8" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="612,71,671,98"/>
+<area shape="rect" id="node5" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="982,21,1026,47"/>
+<area shape="rect" id="node11" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title="Minisat::selectionSort" alt="" coords="387,122,533,149"/>
+<area shape="rect" id="node14" href="$d6/d0b/namespaceMinisat.html#ad45d20f93b53d687dc370b0b06fbdab4" title="Minisat::append" alt="" coords="404,274,516,301"/>
+<area shape="rect" id="node15" href="$d6/d0b/namespaceMinisat.html#ad8714c7d062a4cbf6f2e35a6c1f1d8b2" title="Minisat::copy" alt="" coords="593,274,690,301"/>
+<area shape="rect" id="node17" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9d9fae8fc6b1b07caff1a9dc5a45a1ec" title="RTLIL::SigSpec::packed" alt="" coords="379,493,541,519"/>
+<area shape="rect" id="node18" href="$dd/d74/structRTLIL_1_1SigSpec.html#a23c5fe78b8654313b1a8ba6e0aea1b0b" title="RTLIL::SigSpec::pack" alt="" coords="386,594,534,621"/>
+<area shape="rect" id="node19" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="613,569,670,595"/>
+<area shape="rect" id="node20" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="746,569,929,595"/>
+<area shape="rect" id="node21" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="761,619,914,646"/>
+<area shape="rect" id="node22" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="741,518,933,545"/>
+</map>

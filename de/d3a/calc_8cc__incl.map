@@ -1,0 +1,13 @@
+<map id="calc.cc" name="calc.cc">
+<area shape="rect" id="node2" href="$d6/d81/yosys_8h.html" title="kernel/yosys.h" alt="" coords="813,155,917,181"/>
+<area shape="rect" id="node26" href="$d3/def/BigIntegerLibrary_8hh.html" title="libs/bigint/BigIntegerLibrary.hh" alt="" coords="2001,80,2196,107"/>
+<area shape="rect" id="node20" href="$d7/d7f/log_8h.html" title="kernel/log.h" alt="" coords="89,229,177,256"/>
+<area shape="rect" id="node24" href="$d4/d80/rtlil_8h.html" title="kernel/rtlil.h" alt="" coords="201,229,289,256"/>
+<area shape="rect" id="node25" href="$df/d80/register_8h.html" title="kernel/register.h" alt="" coords="313,229,428,256"/>
+<area shape="rect" id="node27" href="$d3/d9d/NumberlikeArray_8hh.html" title="NumberlikeArray.hh" alt="" coords="2031,379,2165,405"/>
+<area shape="rect" id="node28" href="$dc/de3/BigUnsigned_8hh.html" title="BigUnsigned.hh" alt="" coords="2042,304,2155,331"/>
+<area shape="rect" id="node29" href="$d2/d87/BigInteger_8hh.html" title="BigInteger.hh" alt="" coords="2049,229,2148,256"/>
+<area shape="rect" id="node30" href="$d6/d4a/BigIntegerAlgorithms_8hh.html" title="BigIntegerAlgorithms.hh" alt="" coords="2019,155,2177,181"/>
+<area shape="rect" id="node31" href="$d3/da5/BigUnsignedInABase_8hh.html" title="BigUnsignedInABase.hh" alt="" coords="1832,155,1995,181"/>
+<area shape="rect" id="node32" href="$d3/de7/BigIntegerUtils_8hh.html" title="BigIntegerUtils.hh" alt="" coords="1683,155,1808,181"/>
+</map>

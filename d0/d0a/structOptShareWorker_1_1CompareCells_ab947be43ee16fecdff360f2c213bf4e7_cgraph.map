@@ -1,0 +1,33 @@
+<map id="OptShareWorker::CompareCells::operator()" name="OptShareWorker::CompareCells::operator()">
+<area shape="rect" id="node2" href="$de/d01/structOptShareWorker.html#af41b430f4805e58ee199c35b82d4c35d" title="OptShareWorker::compare\l_cells" alt="" coords="259,49,434,90"/>
+<area shape="rect" id="node3" href="$d0/d4d/structCellTypes.html#a7851d81f2149baab5a059d767693d461" title="CellTypes::cell_known" alt="" coords="521,5,671,32"/>
+<area shape="rect" id="node4" href="$d6/db5/structRTLIL_1_1Cell.html#accf6b5dae216d42942e9ca1637f8d652" title="RTLIL::Cell::has_keep_attr" alt="" coords="509,56,683,83"/>
+<area shape="rect" id="node6" href="$de/d01/structOptShareWorker.html#a18ef13aca78aa99402f92e9c002afdbb" title="OptShareWorker::compare\l_cell_parameters_and_connections" alt="" coords="483,179,709,221"/>
+<area shape="rect" id="node5" href="$d1/d01/structRTLIL_1_1Design.html#ac23ab5cd74bb47a74a086b65af5fcb5b" title="RTLIL::Design::module" alt="" coords="758,9,911,36"/>
+<area shape="rect" id="node7" href="$de/d01/structOptShareWorker.html#abd555bd25859d130120a27a87127602a" title="OptShareWorker::hash\l_cell_parameters_and\l_connections" alt="" coords="759,340,911,396"/>
+<area shape="rect" id="node9" href="$d6/db5/structRTLIL_1_1Cell.html#a6eba6dfa5a38ad99056c945dcd794873" title="RTLIL::Cell::connections" alt="" coords="960,187,1123,213"/>
+<area shape="rect" id="node10" href="$d0/dbf/structSigMap.html#a738d7b0e076b09f842f1bde2275aaba1" title="SigMap::apply" alt="" coords="990,237,1093,264"/>
+<area shape="rect" id="node12" href="$d0/d4d/structCellTypes.html#a9d3f029f5b32cfcfe9826f90d99dc7ef" title="CellTypes::cell_output" alt="" coords="967,557,1115,584"/>
+<area shape="rect" id="node27" href="$dd/d74/structRTLIL_1_1SigSpec.html#aa6541e0f694eab6b424023378ad92423" title="RTLIL::SigSpec::sort" alt="" coords="763,60,906,87"/>
+<area shape="rect" id="node30" href="$d8/df7/structRTLIL_1_1IdString.html#a027939234ae831a0135748917d1ca1d4" title="RTLIL::IdString::substr" alt="" coords="759,111,911,137"/>
+<area shape="rect" id="node32" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="767,161,902,188"/>
+<area shape="rect" id="node8" href="$d8/df7/structRTLIL_1_1IdString.html#abe954d84d173aa85d6bf7820c1ee2040" title="RTLIL::IdString::str" alt="" coords="976,456,1107,483"/>
+<area shape="rect" id="node13" href="$dd/d74/structRTLIL_1_1SigSpec.html#a89320bf61e66da75ed172a1e0ecf2be0" title="RTLIL::SigSpec::chunks" alt="" coords="960,507,1123,533"/>
+<area shape="rect" id="node19" href="$de/d01/structOptShareWorker.html#aa0911acf838f4cdf93c1baaa65f46dbc" title="OptShareWorker::int\l_to_hash_string" alt="" coords="972,289,1111,330"/>
+<area shape="rect" id="node20" href="$d8/db7/structRTLIL_1_1Const.html#a56b30858504163672b38575bd7f8f939" title="RTLIL::Const::as_string" alt="" coords="962,355,1121,381"/>
+<area shape="rect" id="node21" href="$d8/d7a/sha1_8cpp.html#afd6b87572914723bc6f531873250aeeb" title="sha1" alt="" coords="1016,405,1067,432"/>
+<area shape="rect" id="node11" href="$d0/dbf/structSigMap.html#a17c1e00474e24e1b6befdfa9570a96bd" title="SigMap::map_bit" alt="" coords="1186,237,1305,264"/>
+<area shape="rect" id="node14" href="$dd/d74/structRTLIL_1_1SigSpec.html#a23c5fe78b8654313b1a8ba6e0aea1b0b" title="RTLIL::SigSpec::pack" alt="" coords="1171,507,1319,533"/>
+<area shape="rect" id="node15" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="1415,507,1473,533"/>
+<area shape="rect" id="node16" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="1573,456,1755,483"/>
+<area shape="rect" id="node17" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="1587,507,1741,533"/>
+<area shape="rect" id="node18" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="1568,557,1760,584"/>
+<area shape="rect" id="node22" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="1194,355,1297,381"/>
+<area shape="rect" id="node23" href="$d9/d84/classSHA1.html#a89ba0f16575431b0942cbbcfb29107db" title="SHA1::final" alt="" coords="1202,405,1289,432"/>
+<area shape="rect" id="node24" href="$d9/d84/classSHA1.html#a1645addce3a226f0281deef041b26ec3" title="SHA1::buffer_to_block" alt="" coords="1369,355,1519,381"/>
+<area shape="rect" id="node25" href="$d9/d84/classSHA1.html#a6e96e00e6bee105a4a1f8e5baf8a3b9c" title="SHA1::transform" alt="" coords="1385,405,1503,432"/>
+<area shape="rect" id="node26" href="$d9/d84/classSHA1.html#ab71aaf39ed956320054861a2fbfa454f" title="SHA1::reset" alt="" coords="1398,456,1490,483"/>
+<area shape="rect" id="node28" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title="Minisat::sort" alt="" coords="995,60,1087,87"/>
+<area shape="rect" id="node29" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title="Minisat::selectionSort" alt="" coords="1172,60,1319,87"/>
+<area shape="rect" id="node31" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="969,111,1114,137"/>
+</map>

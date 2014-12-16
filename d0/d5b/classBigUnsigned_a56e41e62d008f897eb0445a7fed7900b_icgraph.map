@@ -1,0 +1,8 @@
+<map id="BigUnsigned::multiply" name="BigUnsigned::multiply">
+<area shape="rect" id="node2" href="$d7/d68/classBigInteger.html#afebc1ad7629bc89399c4fefb4d1d66e3" title="BigInteger::multiply" alt="" coords="216,31,347,57"/>
+<area shape="rect" id="node5" href="$d0/d5b/classBigUnsigned.html#aa9e25df3e6c7907f968d2a6408e45f4f" title="BigUnsigned::operator*" alt="" coords="204,81,359,108"/>
+<area shape="rect" id="node6" href="$d0/d5b/classBigUnsigned.html#ad6fd7e20cd97dcb973f8b48568024db4" title="BigUnsigned::operator*=" alt="" coords="200,132,363,159"/>
+<area shape="rect" id="node7" href="$df/d2d/classBigUnsignedInABase.html#a99266d699a7ad6b34cf427a88ed8129b" title="BigUnsignedInABase\l::operator BigUnsigned" alt="" coords="205,183,357,225"/>
+<area shape="rect" id="node3" href="$d7/d68/classBigInteger.html#a0eae323da192a9f418246cb5b823dc5f" title="BigInteger::operator*" alt="" coords="415,5,553,32"/>
+<area shape="rect" id="node4" href="$d7/d68/classBigInteger.html#a590e6e9e5aa571e52bb7b0b47604945e" title="BigInteger::operator*=" alt="" coords="411,56,557,83"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="while" name="while">
+<area shape="rect" id="node2" href="$d0/d5b/classBigUnsigned.html#a39e6a0e2d960dee0e89acf4d2398d5f1" title="BigUnsigned::divideWithRemainder" alt="" coords="107,411,331,437"/>
+<area shape="rect" id="node3" href="$d7/d68/classBigInteger.html#a3071d9cc845c601673d2e370f1154ec1" title="BigInteger::divideWithRemainder" alt="" coords="379,157,589,184"/>
+<area shape="rect" id="node12" href="$d6/d4a/BigIntegerAlgorithms_8hh.html#aba717a40315797180bd945647705c5ce" title="gcd" alt="" coords="851,284,893,311"/>
+<area shape="rect" id="node13" href="$d0/d5b/classBigUnsigned.html#a68f54aedd64baf15bfe351ea2e1c2a76" title="BigUnsigned::operator/" alt="" coords="407,360,561,387"/>
+<area shape="rect" id="node14" href="$d0/d5b/classBigUnsigned.html#a96a9c9988ee1689016b7c49fb372ed54" title="BigUnsigned::operator%" alt="" coords="403,411,565,437"/>
+<area shape="rect" id="node15" href="$d0/d5b/classBigUnsigned.html#a0c6d9f748c062a64d93be71dd2cd7dbb" title="BigUnsigned::operator/=" alt="" coords="403,461,565,488"/>
+<area shape="rect" id="node16" href="$d0/d5b/classBigUnsigned.html#a4eee8343cdc1a9ee115f8d94a9d7c5eb" title="BigUnsigned::operator%=" alt="" coords="399,512,569,539"/>
+<area shape="rect" id="node17" href="$df/d2d/classBigUnsignedInABase.html#a84a2e31b86255617594b304456dbe829" title="BigUnsignedInABase\l::BigUnsignedInABase" alt="" coords="408,563,560,605"/>
+<area shape="rect" id="node4" href="$d7/d68/classBigInteger.html#a70642fdd2e55b21639777152a7dcfd81" title="BigInteger::operator/" alt="" coords="645,5,784,32"/>
+<area shape="rect" id="node5" href="$d7/d68/classBigInteger.html#a425c3fddb9afecbce82db68fc6b02e10" title="BigInteger::operator%" alt="" coords="641,56,788,83"/>
+<area shape="rect" id="node6" href="$d7/d68/classBigInteger.html#ae6f62780970d982acb14c063b95fe598" title="BigInteger::operator/=" alt="" coords="641,107,788,133"/>
+<area shape="rect" id="node7" href="$d7/d68/classBigInteger.html#a0f752a192f2244e7398418374f8aa98a" title="BigInteger::operator%=" alt="" coords="637,157,792,184"/>
+<area shape="rect" id="node8" href="$d6/d4a/BigIntegerAlgorithms_8hh.html#a6f0aaabafce8aa9474b9233fd15c8d8b" title="extendedEuclidean" alt="" coords="649,208,780,235"/>
+<area shape="rect" id="node11" href="$d7/d21/testsuite_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="689,259,740,285"/>
+<area shape="rect" id="node9" href="$d6/d4a/BigIntegerAlgorithms_8hh.html#a23cdcaeb10d40a6743381e3f16828135" title="modinv" alt="" coords="840,221,904,248"/>
+<area shape="rect" id="node10" href="$de/d83/sample_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="952,253,1003,280"/>
+</map>

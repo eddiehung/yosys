@@ -1,0 +1,4 @@
+<map id="check_signal" name="check_signal">
+<area shape="rect" id="node2" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9a085a75d9ede59180209a69cbff8abc" title="RTLIL::SigSpec::size" alt="" coords="153,5,295,32"/>
+<area shape="rect" id="node3" href="$d7/d6c/structRTLIL_1_1Module.html#a57b60c312397a5fb92741b2dd63e9a5d" title="RTLIL::Module::cells" alt="" coords="154,56,294,83"/>
+</map>

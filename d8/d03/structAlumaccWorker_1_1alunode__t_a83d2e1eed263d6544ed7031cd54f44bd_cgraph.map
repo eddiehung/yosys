@@ -1,0 +1,9 @@
+<map id="AlumaccWorker::alunode_t::get_lt" name="AlumaccWorker::alunode_t::get_lt">
+<area shape="rect" id="node2" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="466,103,534,130"/>
+<area shape="rect" id="node3" href="$d7/d6c/structRTLIL_1_1Module.html#a6578d1232377f91174bc6b8e3f656f69" title="RTLIL::Module::Xor" alt="" coords="433,11,567,38"/>
+<area shape="rect" id="node4" href="$d8/d03/structAlumaccWorker_1_1alunode__t.html#afa7466cc786630dfdc5fddefed4312b8" title="AlumaccWorker::alunode\l_t::get_of" alt="" coords="219,33,384,74"/>
+<area shape="rect" id="node6" href="$d8/d03/structAlumaccWorker_1_1alunode__t.html#ac5b1bd0d838c188fb5610a0724e87b15" title="AlumaccWorker::alunode\l_t::get_sf" alt="" coords="219,150,384,192"/>
+<area shape="rect" id="node7" href="$d8/d03/structAlumaccWorker_1_1alunode__t.html#af8c7df1d17bf9533d6ac4d7091c9f39a" title="AlumaccWorker::alunode\l_t::get_cf" alt="" coords="219,216,384,257"/>
+<area shape="rect" id="node5" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="433,158,567,184"/>
+<area shape="rect" id="node8" href="$d7/d6c/structRTLIL_1_1Module.html#af41afe572b76b9582c4c5ace2c08c3f0" title="RTLIL::Module::Not" alt="" coords="433,223,567,250"/>
+</map>

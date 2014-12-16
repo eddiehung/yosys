@@ -1,0 +1,13 @@
+<map id="input" name="input">
+<area shape="rect" id="node2" href="$d8/db3/ilang__lexer_8cc.html#a3b3b5f60f720da3f621223997266498c" title="yy_get_next_buffer" alt="" coords="105,87,234,113"/>
+<area shape="rect" id="node4" href="$d8/db3/ilang__lexer_8cc.html#a32380e2917d77e4d429508c657669777" title="rtlil_frontend_ilang\l_yyrestart" alt="" coords="283,130,410,171"/>
+<area shape="rect" id="node3" href="$d8/db3/ilang__lexer_8cc.html#a74fa686146dc38feb3329b464874b8fb" title="rtlil_frontend_ilang\l_yyrealloc" alt="" coords="667,6,794,47"/>
+<area shape="rect" id="node5" href="$d8/db3/ilang__lexer_8cc.html#ab62c13d30e7f7577bddb01b4831dc1cd" title="rtlil_frontend_ilang\l_yyensure_buffer_stack" alt="" coords="459,65,618,106"/>
+<area shape="rect" id="node8" href="$d8/db3/ilang__lexer_8cc.html#addd2eb9f0011fc0303bed43fd725b0d3" title="rtlil_frontend_ilang\l_yy_create_buffer" alt="" coords="475,130,602,171"/>
+<area shape="rect" id="node9" href="$d8/db3/ilang__lexer_8cc.html#a6950ba99cb20ae23ca7c045c798619d1" title="rtlil_frontend_ilang\l_yy_init_buffer" alt="" coords="667,158,794,199"/>
+<area shape="rect" id="node11" href="$d8/db3/ilang__lexer_8cc.html#a22a9abfb1839f13f787fe78958cfd14b" title="rtlil_frontend_ilang\l_yy_load_buffer_state" alt="" coords="1019,185,1165,226"/>
+<area shape="rect" id="node6" href="$d8/db3/ilang__lexer_8cc.html#a5c353e788742181eaae6ff3bd3e7ce00" title="rtlil_frontend_ilang\l_yyalloc" alt="" coords="667,71,794,113"/>
+<area shape="rect" id="node7" href="$dd/dd4/ilang__parser_8tab_8cc.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="877,79,937,105"/>
+<area shape="rect" id="node10" href="$d8/db3/ilang__lexer_8cc.html#af69682b4e2489b755d2ac03f7fe696e3" title="rtlil_frontend_ilang\l_yy_flush_buffer" alt="" coords="843,130,970,171"/>
+<area shape="rect" id="node12" href="$d8/db3/ilang__lexer_8cc.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="880,196,933,223"/>
+</map>

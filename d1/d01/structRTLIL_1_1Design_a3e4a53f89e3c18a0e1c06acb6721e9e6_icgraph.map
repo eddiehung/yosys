@@ -1,0 +1,9 @@
+<map id="RTLIL::Design::selected_modules" name="RTLIL::Design::selected_modules">
+<area shape="rect" id="node2" href="$db/dd7/structAlumaccPass.html#a1e33892262106adf4d98f4e86f6715ad" title="AlumaccPass::execute" alt="" coords="228,5,383,32"/>
+<area shape="rect" id="node3" href="$d1/d2a/structDff2dffePass.html#a20ecaddfa6d4cd68a7fdde3370211edf" title="Dff2dffePass::execute" alt="" coords="232,56,379,83"/>
+<area shape="rect" id="node4" href="$d5/de6/structMaccmapPass.html#a9d8e0990bd503b61bf441e85ff6f53c8" title="MaccmapPass::execute" alt="" coords="225,107,385,133"/>
+<area shape="rect" id="node5" href="$d0/d77/structMemoryDffPass.html#abf5c063e29a96bdd3fb2464249ed7cc0" title="MemoryDffPass::execute" alt="" coords="223,157,388,184"/>
+<area shape="rect" id="node6" href="$da/df4/structMemoryMapPass.html#a51728016b900e3e54a9b738a19501537" title="MemoryMapPass::execute" alt="" coords="218,208,393,235"/>
+<area shape="rect" id="node7" href="$d8/d96/structMemorySharePass.html#a2c855fea4bc78e5e5f5e4c88a4a97fc2" title="MemorySharePass::execute" alt="" coords="214,259,397,285"/>
+<area shape="rect" id="node8" href="$d7/d09/structWreducePass.html#a7bf0b412c44a14aa7fb6b21c4c376545" title="WreducePass::execute" alt="" coords="228,309,383,336"/>
+</map>

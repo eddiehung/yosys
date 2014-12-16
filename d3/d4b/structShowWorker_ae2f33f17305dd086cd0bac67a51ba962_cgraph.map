@@ -1,0 +1,12 @@
+<map id="ShowWorker::nextColor" name="ShowWorker::nextColor">
+<area shape="rect" id="node2" href="$dd/d74/structRTLIL_1_1SigSpec.html#a2cb755aa8d61546cf354c72766678992" title="RTLIL::SigSpec::sort\l_and_unify" alt="" coords="221,5,363,46"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#a89320bf61e66da75ed172a1e0ecf2be0" title="RTLIL::SigSpec::chunks" alt="" coords="211,71,373,97"/>
+<area shape="rect" id="node9" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="263,121,321,148"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#a23c5fe78b8654313b1a8ba6e0aea1b0b" title="RTLIL::SigSpec::pack" alt="" coords="422,71,570,97"/>
+<area shape="rect" id="node5" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="619,71,677,97"/>
+<area shape="rect" id="node6" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="730,20,913,47"/>
+<area shape="rect" id="node7" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="745,71,898,97"/>
+<area shape="rect" id="node8" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="725,121,917,148"/>
+<area shape="rect" id="node10" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="463,121,529,148"/>
+<area shape="rect" id="node11" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="626,121,670,148"/>
+</map>

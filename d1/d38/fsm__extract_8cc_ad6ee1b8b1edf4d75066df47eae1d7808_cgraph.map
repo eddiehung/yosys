@@ -1,0 +1,6 @@
+<map id="sig2const" name="sig2const">
+<area shape="rect" id="node2" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="343,5,411,32"/>
+<area shape="rect" id="node3" href="$d0/dbf/structSigMap.html#a738d7b0e076b09f842f1bde2275aaba1" title="SigMap::apply" alt="" coords="150,93,253,120"/>
+<area shape="rect" id="node5" href="$dd/d74/structRTLIL_1_1SigSpec.html#adbd069b267f2c5e7480549661933d7e9" title="RTLIL::SigSpec::as\l_const" alt="" coords="134,27,269,69"/>
+<area shape="rect" id="node4" href="$d0/dbf/structSigMap.html#a17c1e00474e24e1b6befdfa9570a96bd" title="SigMap::map_bit" alt="" coords="318,93,437,120"/>
+</map>

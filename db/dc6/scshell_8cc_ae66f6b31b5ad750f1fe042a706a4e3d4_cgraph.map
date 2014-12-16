@@ -1,0 +1,19 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$db/dc6/scshell_8cc.html#abd1430e0aeb61a7f79d73ec054df1d74" title="readLine" alt="" coords="176,5,248,32"/>
+<area shape="rect" id="node3" href="$d3/da9/classSubCircuit_1_1Graph.html#a995422279544a64d81e7c67a062caa13" title="SubCircuit::Graph::\lcreateNode" alt="" coords="147,57,277,98"/>
+<area shape="rect" id="node4" href="$d3/da9/classSubCircuit_1_1Graph.html#a1069ce3b026ee5fac0bae645c9a8a480" title="SubCircuit::Graph::\lcreatePort" alt="" coords="147,122,277,163"/>
+<area shape="rect" id="node5" href="$d3/da9/classSubCircuit_1_1Graph.html#af2cc315b24b29b093da14c7aac74a2c6" title="SubCircuit::Graph::\lcreateConnection" alt="" coords="147,187,277,229"/>
+<area shape="rect" id="node6" href="$d3/da9/classSubCircuit_1_1Graph.html#a8df4e77c1135f36376e17e8d1bc32441" title="SubCircuit::Graph::\lcreateConstant" alt="" coords="147,253,277,294"/>
+<area shape="rect" id="node7" href="$d3/da9/classSubCircuit_1_1Graph.html#a5b7d3ce97acf2cf9e066324020aabb8c" title="SubCircuit::Graph::\lmarkExtern" alt="" coords="147,318,277,359"/>
+<area shape="rect" id="node8" href="$d3/da9/classSubCircuit_1_1Graph.html#acf6617dc6827062b96ef9a0785260c2f" title="SubCircuit::Graph::\lmarkAllExtern" alt="" coords="147,383,277,425"/>
+<area shape="rect" id="node9" href="$d6/d82/classSubCircuit_1_1Solver.html#a495c3332c64ed6b626a48d523271a500" title="SubCircuit::Solver\l::addGraph" alt="" coords="149,449,275,490"/>
+<area shape="rect" id="node10" href="$d6/d82/classSubCircuit_1_1Solver.html#a5142c3f3c1ad3e0dbcca1c1c6340d5d2" title="SubCircuit::Solver\l::addCompatibleTypes" alt="" coords="137,514,287,555"/>
+<area shape="rect" id="node11" href="$d6/d82/classSubCircuit_1_1Solver.html#a537d87e72de37b64b73c3bdb1b1391ad" title="SubCircuit::Solver\l::addCompatibleConstants" alt="" coords="125,579,299,621"/>
+<area shape="rect" id="node12" href="$d6/d82/classSubCircuit_1_1Solver.html#a1721a8b84a2c9b0eb961661237c72bef" title="SubCircuit::Solver\l::addSwappablePorts" alt="" coords="140,645,284,686"/>
+<area shape="rect" id="node13" href="$d6/d82/classSubCircuit_1_1Solver.html#a1839e4029035658febfb6f9e64f6c1e1" title="SubCircuit::Solver\l::addSwappablePortsPermutation" alt="" coords="105,710,319,751"/>
+<area shape="rect" id="node14" href="$d6/d82/classSubCircuit_1_1Solver.html#a75568e5a3d4769291217832ed4c248dc" title="SubCircuit::Solver\l::solve" alt="" coords="149,775,275,817"/>
+<area shape="rect" id="node15" href="$d6/d82/classSubCircuit_1_1Solver.html#a5ee519beb52e628f3cac80efb8ee745f" title="SubCircuit::Solver\l::mine" alt="" coords="149,841,275,882"/>
+<area shape="rect" id="node16" href="$d6/d82/classSubCircuit_1_1Solver.html#a674c2996a70ae398bcba94d03006afe1" title="SubCircuit::Solver\l::clearOverlapHistory" alt="" coords="141,906,283,947"/>
+<area shape="rect" id="node17" href="$d6/d82/classSubCircuit_1_1Solver.html#a885eef5c6d6b78085abf28b7cf7595dc" title="SubCircuit::Solver\l::clearConfig" alt="" coords="149,971,275,1013"/>
+<area shape="rect" id="node18" href="$d6/d82/classSubCircuit_1_1Solver.html#a9f7355d6b8cc1dcfab7920788a693b04" title="SubCircuit::Solver\l::setVerbose" alt="" coords="149,1037,275,1078"/>
+</map>

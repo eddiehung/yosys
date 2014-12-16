@@ -1,0 +1,8 @@
+<map id="check_state_users" name="check_state_users">
+<area shape="rect" id="node2" href="$df/d6f/structSigPool.html#ad4eeb477296dc598eddd5ba115d8d1c2" title="SigPool::check_any" alt="" coords="201,5,335,32"/>
+<area shape="rect" id="node3" href="$d2/de4/structSigSet.html#a0854696d26b940fb3420cacfbfa51b7a" title="SigSet::find" alt="" coords="225,56,311,83"/>
+<area shape="rect" id="node4" href="$d6/db5/structRTLIL_1_1Cell.html#a8299134eefc9061770be24c29f3c7af0" title="RTLIL::Cell::hasPort" alt="" coords="199,107,337,133"/>
+<area shape="rect" id="node5" href="$d6/db5/structRTLIL_1_1Cell.html#a6eba6dfa5a38ad99056c945dcd794873" title="RTLIL::Cell::connections" alt="" coords="187,157,349,184"/>
+<area shape="rect" id="node6" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="201,208,335,235"/>
+<area shape="rect" id="node7" href="$dd/d74/structRTLIL_1_1SigSpec.html#affb6be514bcd0dd530279d57a2fe0207" title="RTLIL::SigSpec::is\l_fully_const" alt="" coords="203,259,333,301"/>
+</map>

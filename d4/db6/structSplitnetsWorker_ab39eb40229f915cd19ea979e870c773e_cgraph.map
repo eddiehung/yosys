@@ -1,0 +1,9 @@
+<map id="SplitnetsWorker::append_wire" name="SplitnetsWorker::append_wire">
+<area shape="rect" id="node2" href="$d8/df7/structRTLIL_1_1IdString.html#abe954d84d173aa85d6bf7820c1ee2040" title="RTLIL::IdString::str" alt="" coords="263,5,393,32"/>
+<area shape="rect" id="node3" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="299,56,357,83"/>
+<area shape="rect" id="node6" href="$d7/d6c/structRTLIL_1_1Module.html#a541a18ce30bd8847261b01e9c6cf884e" title="RTLIL::Module::addWire" alt="" coords="248,107,408,133"/>
+<area shape="rect" id="node7" href="$d7/d6c/structRTLIL_1_1Module.html#a859da90a98b363acf151029265ab8aa0" title="RTLIL::Module::uniquify" alt="" coords="249,157,407,184"/>
+<area shape="rect" id="node8" href="$dd/d74/structRTLIL_1_1SigSpec.html#aef4a2cb4b1b7a48a7775b046f7a7431c" title="RTLIL::SigSpec::to\l_sigbit_vector" alt="" coords="263,209,393,250"/>
+<area shape="rect" id="node4" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="457,56,522,83"/>
+<area shape="rect" id="node5" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="571,56,615,83"/>
+</map>

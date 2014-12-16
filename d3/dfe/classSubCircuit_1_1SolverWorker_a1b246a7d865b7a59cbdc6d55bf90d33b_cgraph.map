@@ -1,0 +1,31 @@
+<map id="SubCircuit::SolverWorker::mine" name="SubCircuit::SolverWorker::mine">
+<area shape="rect" id="node2" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#abcf97b85f4ae96d8f8e33f7a9fe81603" title="SubCircuit::SolverWorker\l::findNodePairs" alt="" coords="222,237,389,278"/>
+<area shape="rect" id="node29" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#aeb36b23b98abe9655cfa3d2196544428" title="SubCircuit::SolverWorker\l::findNextPool" alt="" coords="222,302,389,343"/>
+<area shape="rect" id="node3" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#aacd5e1fca8621c0ba00ed9b6c0141db9" title="SubCircuit::SolverWorker\l::testForMining" alt="" coords="438,237,605,278"/>
+<area shape="rect" id="node4" href="$d3/da9/classSubCircuit_1_1Graph.html#acf6617dc6827062b96ef9a0785260c2f" title="SubCircuit::Graph::\lmarkAllExtern" alt="" coords="673,302,802,343"/>
+<area shape="rect" id="node5" href="$dc/db4/structSubCircuit_1_1SolverWorker_1_1DiCache.html#adb161653e158b002810ce78194f96044" title="SubCircuit::SolverWorker\l::DiCache::add" alt="" coords="654,171,821,213"/>
+<area shape="rect" id="node8" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a9cb12f43e79b2b1a752453cbd63365d1" title="SubCircuit::SolverWorker\l::solveForMining" alt="" coords="654,237,821,278"/>
+<area shape="rect" id="node6" href="$d8/dc1/structSubCircuit_1_1SolverWorker_1_1DiEdge.html#a76276fa6bec9fbf9ce330f7f3656ea42" title="SubCircuit::SolverWorker\l::DiEdge::findEdgesInGraph" alt="" coords="874,106,1051,147"/>
+<area shape="rect" id="node7" href="$d6/d82/classSubCircuit_1_1Solver.html#ab9aa4e662eb860808dc1a3eff8b12e84" title="SubCircuit::Solver\l::userAnnotateEdge" alt="" coords="895,171,1030,213"/>
+<area shape="rect" id="node9" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a93806247f4ffb84a52436e8fd3f82518" title="SubCircuit::SolverWorker\l::generateEnumerationMatrix" alt="" coords="870,237,1055,278"/>
+<area shape="rect" id="node18" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a16d81107a70c996d693168158d0f685a" title="SubCircuit::SolverWorker\l::ullmannRecursion" alt="" coords="879,449,1046,490"/>
+<area shape="rect" id="node10" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#acd517d3a6cac3b3c21ae5fe2a3515a88" title="SubCircuit::SolverWorker\l::matchNodes" alt="" coords="1117,153,1283,194"/>
+<area shape="rect" id="node11" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#afbff69f8434a9f153396b8d628be67c6" title="SubCircuit::SolverWorker\l::matchNodePorts" alt="" coords="1587,278,1754,319"/>
+<area shape="rect" id="node12" href="$d6/d82/classSubCircuit_1_1Solver.html#a89abd64dc3f0934c94ff2051ce051d8d" title="SubCircuit::Solver\l::userCompareNodes" alt="" coords="1599,162,1742,203"/>
+<area shape="rect" id="node13" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a0d8cb4fde1e45cd29b67c64e16e03446" title="SubCircuit::SolverWorker\l::applyPermutation" alt="" coords="1358,239,1525,281"/>
+<area shape="rect" id="node14" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#ae3aa38d826628faa201d875530537870" title="SubCircuit::SolverWorker\l::numberOfPermutationsArray" alt="" coords="1345,6,1537,47"/>
+<area shape="rect" id="node16" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#ac1b79dbcb7b2039ab50019214cf52181" title="SubCircuit::SolverWorker\l::permutateVectorToMapArray" alt="" coords="1344,71,1539,113"/>
+<area shape="rect" id="node15" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#aa6f0235a870547c83bbe5578821089a3" title="SubCircuit::SolverWorker\l::numberOfPermutations" alt="" coords="1587,6,1754,47"/>
+<area shape="rect" id="node17" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a96c0181e494ef901bec10b32a2ded40d" title="SubCircuit::SolverWorker\l::permutateVectorToMap" alt="" coords="1587,71,1754,113"/>
+<area shape="rect" id="node19" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a25699e32cea7d14cc8be424a6d26e306" title="SubCircuit::SolverWorker\l::pruneEnumerationMatrix" alt="" coords="1117,602,1283,643"/>
+<area shape="rect" id="node23" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#ab37510c6fc28a1803012f817e060e4fc" title="SubCircuit::SolverWorker\l::generatePortmapCandidates" alt="" coords="1104,239,1296,281"/>
+<area shape="rect" id="node26" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a4bb9e170c8fa8b7181147dc62d22451a" title="SubCircuit::SolverWorker\l::prunePortmapCandidates" alt="" coords="1354,478,1529,519"/>
+<area shape="rect" id="node27" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#a25aaa1c5ab6afeb0c77d2396b3337da0" title="SubCircuit::SolverWorker\l::printEnumerationMatrix" alt="" coords="1117,419,1283,461"/>
+<area shape="rect" id="node28" href="$d6/d82/classSubCircuit_1_1Solver.html#a33fa6421368f0e9958e86ac7a7ac2ae0" title="SubCircuit::Solver\l::userCheckSolution" alt="" coords="1131,537,1269,578"/>
+<area shape="rect" id="node20" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#acc31f21b21ee82e65c19c577c9dab661" title="SubCircuit::SolverWorker\l::checkEnumerationMatrix" alt="" coords="1356,573,1527,614"/>
+<area shape="rect" id="node21" href="$dc/db4/structSubCircuit_1_1SolverWorker_1_1DiCache.html#a6aa1597b7360821690688b746a80d039" title="SubCircuit::SolverWorker\l::DiCache::compare" alt="" coords="1587,478,1754,519"/>
+<area shape="rect" id="node22" href="$d6/d82/classSubCircuit_1_1Solver.html#a3e62b847e96e9251f04e9e3d6eb70307" title="SubCircuit::Solver\l::userCompareEdge" alt="" coords="1603,573,1738,614"/>
+<area shape="rect" id="node24" href="$d3/dfe/classSubCircuit_1_1SolverWorker.html#ad05e803ca6afa11728595ce28fd7d647" title="SubCircuit::SolverWorker\l::checkPortmapCandidate" alt="" coords="1356,305,1527,346"/>
+<area shape="rect" id="node25" href="$d9/daf/test__autotb_8cc.html#a9d24ea8c7d45703213d440f5c7bc71c3" title="idx" alt="" coords="1651,371,1690,397"/>
+<area shape="rect" id="node30" href="$d2/da9/structSubCircuit_1_1SolverWorker_1_1NodeSet.html#a3bc595c509a57a3f6a57ad64132f94f6" title="SubCircuit::SolverWorker\l::NodeSet::extend" alt="" coords="438,302,605,343"/>
+</map>

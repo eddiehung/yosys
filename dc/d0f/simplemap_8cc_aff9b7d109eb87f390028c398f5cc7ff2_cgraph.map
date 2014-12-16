@@ -1,0 +1,7 @@
+<map id="simplemap_slice" name="simplemap_slice">
+<area shape="rect" id="node2" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="186,5,321,32"/>
+<area shape="rect" id="node3" href="$d7/d6c/structRTLIL_1_1Module.html#ab79bcacb14f3fe41c2350cfa6882956c" title="RTLIL::Module::connect" alt="" coords="174,56,333,83"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#aab47d4484bbd3b94c31f38e38ddec91a" title="RTLIL::SigSpec::extract" alt="" coords="174,107,333,133"/>
+<area shape="rect" id="node6" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9a085a75d9ede59180209a69cbff8abc" title="RTLIL::SigSpec::size" alt="" coords="182,157,325,184"/>
+<area shape="rect" id="node5" href="$dd/d74/structRTLIL_1_1SigSpec.html#a5dc7b683a05092e03e524ec50395b737" title="RTLIL::SigSpec::to\l_sigbit_set" alt="" coords="381,99,512,141"/>
+</map>

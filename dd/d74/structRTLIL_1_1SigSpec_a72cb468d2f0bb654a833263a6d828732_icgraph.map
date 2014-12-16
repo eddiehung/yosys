@@ -1,0 +1,12 @@
+<map id="RTLIL::SigSpec::remove_const" name="RTLIL::SigSpec::remove_const">
+<area shape="rect" id="node2" href="$d5/d3f/structFsmExpand.html#a318d209702f0885841d29b2b664aebff" title="FsmExpand::is_cell\l_merge_candidate" alt="" coords="236,5,369,46"/>
+<area shape="rect" id="node6" href="$d5/d3f/structFsmExpand.html#aed190aa8264bb89766d8fa2a8e137326" title="FsmExpand::merge_cell\l_into_fsm" alt="" coords="223,70,382,111"/>
+<area shape="rect" id="node7" href="$d5/d72/opt__const_8cc.html#a5b23a61a6440397718696410025d84e5" title="replace_const_cells" alt="" coords="234,136,371,163"/>
+<area shape="rect" id="node9" href="$df/d86/structTechmapWorker.html#ac363b4a444a0980f069c314721b73db8" title="TechmapWorker::techmap\l_module" alt="" coords="216,187,389,229"/>
+<area shape="rect" id="node3" href="$d5/d3f/structFsmExpand.html#ac341f53d8b25330cbe37ced7a8246db3" title="FsmExpand::create_current_set" alt="" coords="438,16,642,43"/>
+<area shape="rect" id="node4" href="$d5/d3f/structFsmExpand.html#a9a250621fe7efa0486d5f0fb0958bb75" title="FsmExpand::execute" alt="" coords="691,44,832,71"/>
+<area shape="rect" id="node5" href="$d0/da1/structFsmExpandPass.html#a223062d1576d3faada4be06c6915e102" title="FsmExpandPass::execute" alt="" coords="880,44,1051,71"/>
+<area shape="rect" id="node8" href="$d2/ddd/structOptConstPass.html#ad756853edb1fa42ea5ffe59ad727cdf1" title="OptConstPass::execute" alt="" coords="461,136,619,163"/>
+<area shape="rect" id="node10" href="$d5/d38/structTechmapPass.html#ac0d454775281967874fcd4af5dc24786" title="TechmapPass::execute" alt="" coords="461,191,619,217"/>
+<area shape="rect" id="node11" href="$d1/da5/structFlattenPass.html#a65b95abfb17e33e1ccee2af502194512" title="FlattenPass::execute" alt="" coords="469,241,611,268"/>
+</map>

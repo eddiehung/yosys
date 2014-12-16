@@ -1,0 +1,9 @@
+<map id="AlumaccWorker::maccnode_t" name="AlumaccWorker::maccnode_t">
+<area shape="rect" id="node2" href="$d0/d27/structMacc.html" title="Macc" alt="" coords="94,296,148,323"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html" title="RTLIL::SigSpec" alt="" coords="5,204,120,231"/>
+<area shape="rect" id="node4" href="$d6/db5/structRTLIL_1_1Cell.html" title="RTLIL::Cell" alt="" coords="173,296,259,323"/>
+<area shape="rect" id="node5" href="$d8/df7/structRTLIL_1_1IdString.html" title="RTLIL::IdString" alt="" coords="249,112,359,139"/>
+<area shape="rect" id="node7" href="$d7/d6c/structRTLIL_1_1Module.html" title="RTLIL::Module" alt="" coords="149,204,256,231"/>
+<area shape="rect" id="node6" href="$d0/d81/structRTLIL_1_1IdString_1_1destruct__guard__t.html" title="RTLIL::IdString::destruct\l_guard_t" alt="" coords="223,6,385,47"/>
+<area shape="rect" id="node8" href="$d1/d01/structRTLIL_1_1Design.html" title="RTLIL::Design" alt="" coords="119,112,224,139"/>
+</map>

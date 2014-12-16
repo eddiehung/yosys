@@ -1,0 +1,25 @@
+<map id="print_spice_module" name="print_spice_module">
+<area shape="rect" id="node2" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="964,64,1023,91"/>
+<area shape="rect" id="node5" href="$d4/dc1/log_8cc.html#a49512c1118dccb2dc45783b5a0d69dec" title="log_warning" alt="" coords="236,311,327,337"/>
+<area shape="rect" id="node12" href="$d3/dc3/namespaceRTLIL.html#a920874fc9edac59ebe44ac0775a517cd" title="RTLIL::id2cstr" alt="" coords="435,108,539,135"/>
+<area shape="rect" id="node15" href="$d6/db5/structRTLIL_1_1Cell.html#a6eba6dfa5a38ad99056c945dcd794873" title="RTLIL::Cell::connections" alt="" coords="200,159,363,185"/>
+<area shape="rect" id="node16" href="$d6/db5/structRTLIL_1_1Cell.html#a8299134eefc9061770be24c29f3c7af0" title="RTLIL::Cell::hasPort" alt="" coords="212,209,351,236"/>
+<area shape="rect" id="node17" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="214,260,349,287"/>
+<area shape="rect" id="node18" href="$dd/d74/structRTLIL_1_1SigSpec.html#a72a0f0def01be52891bdf5eedad46c33" title="RTLIL::SigSpec::extend" alt="" coords="202,412,361,439"/>
+<area shape="rect" id="node21" href="$dd/d74/structRTLIL_1_1SigSpec.html#aab47d4484bbd3b94c31f38e38ddec91a" title="RTLIL::SigSpec::extract" alt="" coords="202,361,361,388"/>
+<area shape="rect" id="node23" href="$db/d81/spice_8cc.html#a6b826c8c1bd862b2f068751fbad771b7" title="print_spice_net" alt="" coords="226,57,337,84"/>
+<area shape="rect" id="node24" href="$d7/d6c/structRTLIL_1_1Module.html#aa093cc84407f5e461655a356b1b0f6e9" title="RTLIL::Module::connections" alt="" coords="190,463,373,489"/>
+<area shape="rect" id="node3" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="1094,103,1159,129"/>
+<area shape="rect" id="node4" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1209,103,1253,129"/>
+<area shape="rect" id="node6" href="$d4/dc1/log_8cc.html#a8c4ac3fe8197c62792c0682fff3d0283" title="logv_warning" alt="" coords="437,235,536,261"/>
+<area shape="rect" id="node7" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="630,260,669,287"/>
+<area shape="rect" id="node8" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="797,209,843,236"/>
+<area shape="rect" id="node11" href="$d4/dc1/log_8cc.html#a4a5e317aa2251f3492aba63a872fc09b" title="log_flush" alt="" coords="613,159,686,185"/>
+<area shape="rect" id="node9" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="959,203,1027,229"/>
+<area shape="rect" id="node10" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="942,253,1045,280"/>
+<area shape="rect" id="node13" href="$d4/dc1/log_8cc.html#ae3fbeca33c15c48f406bbd5680014c68" title="log_id" alt="" coords="621,108,677,135"/>
+<area shape="rect" id="node14" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="747,108,893,135"/>
+<area shape="rect" id="node19" href="$d6/d0b/namespaceMinisat.html#ad45d20f93b53d687dc370b0b06fbdab4" title="Minisat::append" alt="" coords="431,416,543,443"/>
+<area shape="rect" id="node20" href="$d6/d0b/namespaceMinisat.html#ad8714c7d062a4cbf6f2e35a6c1f1d8b2" title="Minisat::copy" alt="" coords="601,416,698,443"/>
+<area shape="rect" id="node22" href="$dd/d74/structRTLIL_1_1SigSpec.html#a5dc7b683a05092e03e524ec50395b737" title="RTLIL::SigSpec::to\l_sigbit_set" alt="" coords="421,350,552,391"/>
+</map>

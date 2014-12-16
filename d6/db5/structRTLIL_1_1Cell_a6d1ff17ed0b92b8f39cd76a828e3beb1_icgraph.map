@@ -1,0 +1,12 @@
+<map id="RTLIL::Cell::fixup_parameters" name="RTLIL::Cell::fixup_parameters">
+<area shape="rect" id="node2" href="$db/ddd/structMaccmapWorker.html#a96f6de94dc010bfe4d7b2554b8cd93b8" title="MaccmapWorker::synth" alt="" coords="177,35,335,61"/>
+<area shape="rect" id="node8" href="$d3/df6/test__cell_8cc.html#a80927c3858202ef436706e3c7b653c5e" title="create_gold_module" alt="" coords="187,85,325,112"/>
+<area shape="rect" id="node10" href="$df/d0e/structWreduceWorker.html#aceb4891ac16107159ac8b2dfb0e99feb" title="WreduceWorker::run\l_cell_mux" alt="" coords="187,137,325,178"/>
+<area shape="rect" id="node11" href="$df/d0e/structWreduceWorker.html#a29e390d5d3660e6dc7976f18e0caefd3" title="WreduceWorker::run_cell" alt="" coords="173,203,339,229"/>
+<area shape="rect" id="node3" href="$db/d3b/techmap_8cc.html#a3ac5e759af6d46ce557310228a448dc7" title="maccmap" alt="" coords="423,35,502,61"/>
+<area shape="rect" id="node4" href="$d5/de6/structMaccmapPass.html#a9d8e0990bd503b61bf441e85ff6f53c8" title="MaccmapPass::execute" alt="" coords="593,5,753,32"/>
+<area shape="rect" id="node5" href="$df/d86/structTechmapWorker.html#ac363b4a444a0980f069c314721b73db8" title="TechmapWorker::techmap\l_module" alt="" coords="587,57,760,98"/>
+<area shape="rect" id="node6" href="$d5/d38/structTechmapPass.html#ac0d454775281967874fcd4af5dc24786" title="TechmapPass::execute" alt="" coords="808,39,965,65"/>
+<area shape="rect" id="node7" href="$d1/da5/structFlattenPass.html#a65b95abfb17e33e1ccee2af502194512" title="FlattenPass::execute" alt="" coords="815,89,958,116"/>
+<area shape="rect" id="node9" href="$d4/d8a/structTestCellPass.html#ac862ec029865cd32ebc4b9977f66b1a9" title="TestCellPass::execute" alt="" coords="387,85,538,112"/>
+</map>

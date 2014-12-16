@@ -1,0 +1,20 @@
+<map id="BigInteger::subtract" name="BigInteger::subtract">
+<area shape="rect" id="node2" href="$d7/d68/classBigInteger.html#affcbb8c78dde021b8dc86f85043f3874" title="BigInteger::operator=" alt="" coords="202,9,345,36"/>
+<area shape="rect" id="node3" href="$d0/d5b/classBigUnsigned.html#a80d5626becdf776cdcf71581d88c1305" title="BigUnsigned::add" alt="" coords="212,111,335,137"/>
+<area shape="rect" id="node17" href="$d0/d5b/classBigUnsigned.html#a894cafe7e23ecef48deee90ca5822b10" title="BigUnsigned::compareTo" alt="" coords="190,161,357,188"/>
+<area shape="rect" id="node18" href="$d0/d5b/classBigUnsigned.html#aeb9c7c804c94a6c6b5245835e90f3d46" title="BigUnsigned::subtract" alt="" coords="199,60,348,87"/>
+<area shape="rect" id="node4" href="$d0/d5b/classBigUnsigned.html#ad15dcde2b172d86167647e5c8daefe7b" title="BigUnsigned::operator=" alt="" coords="428,56,585,83"/>
+<area shape="rect" id="node6" href="$d8/de3/classNumberlikeArray.html#af679905e09b95d7b0ae4174d473b25f8" title="NumberlikeArray\&lt; unsigned\l long \&gt;::allocate" alt="" coords="416,107,597,149"/>
+<area shape="rect" id="node7" href="$d8/db3/ilang__lexer_8cc.html#ad4a65b873df5c05570846b5413b41dfd" title="if" alt="" coords="487,176,526,203"/>
+<area shape="rect" id="node5" href="$d8/de3/classNumberlikeArray.html#a0c68894dfe11e7786b4768c7258bf4c6" title="NumberlikeArray::operator=" alt="" coords="656,53,835,80"/>
+<area shape="rect" id="node8" href="$d8/db3/ilang__lexer_8cc.html#ab62c13d30e7f7577bddb01b4831dc1cd" title="rtlil_frontend_ilang\l_yyensure_buffer_stack" alt="" coords="666,170,825,211"/>
+<area shape="rect" id="node12" href="$d8/db3/ilang__lexer_8cc.html#addd2eb9f0011fc0303bed43fd725b0d3" title="rtlil_frontend_ilang\l_yy_create_buffer" alt="" coords="682,105,809,146"/>
+<area shape="rect" id="node15" href="$d8/db3/ilang__lexer_8cc.html#a22a9abfb1839f13f787fe78958cfd14b" title="rtlil_frontend_ilang\l_yy_load_buffer_state" alt="" coords="1235,151,1381,193"/>
+<area shape="rect" id="node9" href="$d8/db3/ilang__lexer_8cc.html#a5c353e788742181eaae6ff3bd3e7ce00" title="rtlil_frontend_ilang\l_yyalloc" alt="" coords="883,105,1010,146"/>
+<area shape="rect" id="node11" href="$d8/db3/ilang__lexer_8cc.html#a74fa686146dc38feb3329b464874b8fb" title="rtlil_frontend_ilang\l_yyrealloc" alt="" coords="883,170,1010,211"/>
+<area shape="rect" id="node10" href="$dd/dd4/ilang__parser_8tab_8cc.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1093,139,1153,165"/>
+<area shape="rect" id="node13" href="$d8/db3/ilang__lexer_8cc.html#a6950ba99cb20ae23ca7c045c798619d1" title="rtlil_frontend_ilang\l_yy_init_buffer" alt="" coords="883,39,1010,81"/>
+<area shape="rect" id="node14" href="$d8/db3/ilang__lexer_8cc.html#af69682b4e2489b755d2ac03f7fe696e3" title="rtlil_frontend_ilang\l_yy_flush_buffer" alt="" coords="1059,73,1186,114"/>
+<area shape="rect" id="node16" href="$d8/db3/ilang__lexer_8cc.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="1096,21,1149,48"/>
+<area shape="rect" id="node19" href="$d0/d5b/classBigUnsigned.html#a4bc40738d0b403db5799bd71438435ae" title="BigUnsigned::zapLeadingZeros" alt="" coords="406,5,607,32"/>
+</map>

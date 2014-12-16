@@ -1,0 +1,9 @@
+<map id="count_nontrivial_wire_attrs" name="count_nontrivial_wire_attrs">
+<area shape="rect" id="node2" href="$d3/da8/opt__clean_8cc.html#a52e0ba657b1799ba05d65bfa2a3a7319" title="compare_signals" alt="" coords="207,31,327,57"/>
+<area shape="rect" id="node7" href="$df/d0e/structWreduceWorker.html#ae39422d483c0e6b57a4c8e39dc87263c" title="WreduceWorker::run" alt="" coords="197,81,336,108"/>
+<area shape="rect" id="node3" href="$d3/da8/opt__clean_8cc.html#a28e72d2423abd0781566a7f8540f0841" title="rmunused_module_signals" alt="" coords="384,31,560,57"/>
+<area shape="rect" id="node4" href="$d3/da8/opt__clean_8cc.html#a47a892a9e9b07ea7c9e3c367ad4b4d1b" title="rmunused_module" alt="" coords="608,31,736,57"/>
+<area shape="rect" id="node5" href="$d2/d99/structOptCleanPass.html#abd9883c261b9a2720ec003cb2979d55c" title="OptCleanPass::execute" alt="" coords="784,5,941,32"/>
+<area shape="rect" id="node6" href="$d2/dec/structCleanPass.html#a3b346dca2322d3b8e0078074dce02c9a" title="CleanPass::execute" alt="" coords="795,56,931,83"/>
+<area shape="rect" id="node8" href="$d7/d09/structWreducePass.html#a7bf0b412c44a14aa7fb6b21c4c376545" title="WreducePass::execute" alt="" coords="395,81,549,108"/>
+</map>

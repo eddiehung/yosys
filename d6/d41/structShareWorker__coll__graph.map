@@ -1,0 +1,12 @@
+<map id="ShareWorker" name="ShareWorker">
+<area shape="rect" id="node2" href="$dd/d16/structShareWorkerConfig.html" title="ShareWorkerConfig" alt="" coords="5,295,139,321"/>
+<area shape="rect" id="node3" href="$d1/d01/structRTLIL_1_1Design.html" title="RTLIL::Design" alt="" coords="505,112,609,139"/>
+<area shape="rect" id="node7" href="$d7/d6c/structRTLIL_1_1Module.html" title="RTLIL::Module" alt="" coords="395,203,501,229"/>
+<area shape="rect" id="node10" href="$d7/d1e/structModWalker.html" title="ModWalker" alt="" coords="518,295,604,321"/>
+<area shape="rect" id="node4" href="$d9/d74/structModIndex.html" title="ModIndex" alt="" coords="289,295,367,321"/>
+<area shape="rect" id="node5" href="$d7/d93/structRTLIL_1_1Monitor.html" title="RTLIL::Monitor" alt="" coords="82,203,189,229"/>
+<area shape="rect" id="node6" href="$d0/dbf/structSigMap.html" title="SigMap" alt="" coords="215,203,281,229"/>
+<area shape="rect" id="node8" href="$d8/df7/structRTLIL_1_1IdString.html" title="RTLIL::IdString" alt="" coords="370,112,480,139"/>
+<area shape="rect" id="node9" href="$d0/d81/structRTLIL_1_1IdString_1_1destruct__guard__t.html" title="RTLIL::IdString::destruct\l_guard_t" alt="" coords="344,6,507,47"/>
+<area shape="rect" id="node11" href="$d0/d4d/structCellTypes.html" title="CellTypes" alt="" coords="623,203,701,229"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="RTLIL::Module::selected_cells" name="RTLIL::Module::selected_cells">
+<area shape="rect" id="node2" href="$dc/db8/structAlumaccWorker.html#a745e6be690e40b374e8053696baabb31" title="AlumaccWorker::extract_macc" alt="" coords="222,5,421,32"/>
+<area shape="rect" id="node5" href="$dc/db8/structAlumaccWorker.html#a6e6bd2c0549191eb10a45ee00a2c7194" title="AlumaccWorker::extract\l_cmp_alu" alt="" coords="242,57,401,98"/>
+<area shape="rect" id="node6" href="$d9/d92/memory__dff_8cc.html#a23dc741cd99335da6c6bb4ec482f7f17" title="handle_module" alt="" coords="267,123,376,149"/>
+<area shape="rect" id="node8" href="$d8/d73/structMemoryMapWorker.html#a9e8d8d6b08f743ed90d2c85b7a8024f4" title="MemoryMapWorker::MemoryMap\lWorker" alt="" coords="216,174,427,215"/>
+<area shape="rect" id="node9" href="$df/d0e/structWreduceWorker.html#ae39422d483c0e6b57a4c8e39dc87263c" title="WreduceWorker::run" alt="" coords="252,240,391,267"/>
+<area shape="rect" id="node3" href="$dc/db8/structAlumaccWorker.html#a5375d1f3072e76cebee7cf9ce19738e0" title="AlumaccWorker::run" alt="" coords="488,35,627,61"/>
+<area shape="rect" id="node4" href="$db/dd7/structAlumaccPass.html#a1e33892262106adf4d98f4e86f6715ad" title="AlumaccPass::execute" alt="" coords="688,35,843,61"/>
+<area shape="rect" id="node7" href="$d0/d77/structMemoryDffPass.html#abf5c063e29a96bdd3fb2464249ed7cc0" title="MemoryDffPass::execute" alt="" coords="475,123,640,149"/>
+<area shape="rect" id="node10" href="$d7/d09/structWreducePass.html#a7bf0b412c44a14aa7fb6b21c4c376545" title="WreducePass::execute" alt="" coords="480,240,635,267"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="frontend_verilog_yy_load_buffer_state" name="frontend_verilog_yy_load_buffer_state">
+<area shape="rect" id="node2" href="$df/d7e/verilog__lexer_8cc.html#ad4a65b873df5c05570846b5413b41dfd" title="if" alt="" coords="863,21,902,47"/>
+<area shape="rect" id="node3" href="$df/d7e/verilog__lexer_8cc.html#a70b7f670e073d23641b9d338f787a8fe" title="frontend_verilog_yyrestart" alt="" coords="797,135,968,162"/>
+<area shape="rect" id="node8" href="$df/d7e/verilog__lexer_8cc.html#a72aa826426dddf0ec971ef60cc57402e" title="frontend_verilog_yy\l_switch_to_buffer" alt="" coords="201,261,335,303"/>
+<area shape="rect" id="node12" href="$df/d7e/verilog__lexer_8cc.html#a7e117a2fa68741dacafd0dee0fc792ed" title="frontend_verilog_yy\l_flush_buffer" alt="" coords="201,93,335,135"/>
+<area shape="rect" id="node15" href="$df/d7e/verilog__lexer_8cc.html#aabf83e7dbc93b5d5af964fd3be7e61ec" title="frontend_verilog_yypush\l_buffer_state" alt="" coords="187,327,349,368"/>
+<area shape="rect" id="node16" href="$df/d7e/verilog__lexer_8cc.html#a752f7a062bbc520a5f9c517f7323e940" title="frontend_verilog_yypop\l_buffer_state" alt="" coords="397,211,552,252"/>
+<area shape="rect" id="node4" href="$d0/da7/structVerilogFrontend.html#a8100a46f13a4a29f658524f59a1c9fd0" title="VerilogFrontend::execute" alt="" coords="1017,203,1181,230"/>
+<area shape="rect" id="node5" href="$df/d7e/verilog__lexer_8cc.html#a3b3b5f60f720da3f621223997266498c" title="yy_get_next_buffer" alt="" coords="1034,98,1163,125"/>
+<area shape="rect" id="node7" href="$df/d7e/verilog__lexer_8cc.html#a171692544b8e065853e387755849a433" title="input" alt="" coords="1231,149,1281,175"/>
+<area shape="rect" id="node6" href="$df/d7e/verilog__lexer_8cc.html#a8fdafe3be7e00ce3d4f0cb50a9a5eb39" title="while" alt="" coords="1230,98,1282,125"/>
+<area shape="rect" id="node9" href="$df/d7e/verilog__lexer_8cc.html#afe30908ccddb1424cc84e35722968ee3" title="frontend_verilog_yy\l_scan_buffer" alt="" coords="408,276,541,317"/>
+<area shape="rect" id="node10" href="$df/d7e/verilog__lexer_8cc.html#acbdb36689b3d1c7b457f4ed0852103fe" title="frontend_verilog_yy\l_scan_bytes" alt="" coords="608,276,741,317"/>
+<area shape="rect" id="node11" href="$df/d7e/verilog__lexer_8cc.html#a76b58c4e88b9d823fb03876cd9463b11" title="frontend_verilog_yy\l_scan_string" alt="" coords="816,276,949,317"/>
+<area shape="rect" id="node13" href="$df/d7e/verilog__lexer_8cc.html#afa0f530b1c6f6fb3cf2c2bbd0cc368b6" title="frontend_verilog_yy\l_init_buffer" alt="" coords="408,93,541,135"/>
+<area shape="rect" id="node14" href="$df/d7e/verilog__lexer_8cc.html#a98341e3fd7e00a5cf45f1be766c63d1e" title="frontend_verilog_yy\l_create_buffer" alt="" coords="608,43,741,84"/>
+<area shape="rect" id="node17" href="$df/d7e/verilog__lexer_8cc.html#aee4c60106ff06ca96cd302e15a7dc685" title="frontend_verilog_yylex\l_destroy" alt="" coords="600,211,749,252"/>
+</map>

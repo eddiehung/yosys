@@ -1,0 +1,11 @@
+<map id="Minisat::Solver::cancelUntil" name="Minisat::Solver::cancelUntil">
+<area shape="rect" id="node2" href="$d5/daf/classMinisat_1_1Solver.html#ae22dd81dd09b66008e745b6a05a619ed" title="Minisat::Solver::decision\lLevel" alt="" coords="234,5,395,46"/>
+<area shape="rect" id="node3" href="$de/dcd/classMinisat_1_1vec.html#ade443c22492088bfe0aca571e3ad4b52" title="Minisat::vec::size" alt="" coords="445,41,565,68"/>
+<area shape="rect" id="node4" href="$d5/daf/classMinisat_1_1Solver.html#a374f1ef11cdbda58fc7b8e9920cd3c68" title="Minisat::Solver::level" alt="" coords="245,121,385,148"/>
+<area shape="rect" id="node5" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title="Minisat::var" alt="" coords="271,172,359,199"/>
+<area shape="rect" id="node6" href="$d6/d0b/namespaceMinisat.html#a9407f56302e35de6f444d9877deb26df" title="Minisat::l_Undef" alt="" coords="257,223,372,249"/>
+<area shape="rect" id="node7" href="$de/dcd/classMinisat_1_1vec.html#ab8eafbbf2b2ee882f921ad601d31b393" title="Minisat::vec::last" alt="" coords="255,273,374,300"/>
+<area shape="rect" id="node8" href="$d6/d0b/namespaceMinisat.html#ad12020b5bf6befcbd2ed73d63cbc26ee" title="Minisat::sign" alt="" coords="267,324,362,351"/>
+<area shape="rect" id="node9" href="$d5/daf/classMinisat_1_1Solver.html#a9afd89441d48f0d4a06bcc1ef0884e2d" title="Minisat::Solver::insertVar\lOrder" alt="" coords="232,375,397,417"/>
+<area shape="rect" id="node10" href="$de/dcd/classMinisat_1_1vec.html#a643b727e9641edf0851c1f2965502acb" title="Minisat::vec::shrink" alt="" coords="249,441,381,468"/>
+</map>

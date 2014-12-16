@@ -1,0 +1,31 @@
+<map id="RTLIL::IdString::substr" name="RTLIL::IdString::substr">
+<area shape="rect" id="node2" href="$d0/dde/abc_8cc.html#a58bbfd49340303c99afdaa194752deb3" title="remap_name" alt="" coords="270,5,367,32"/>
+<area shape="rect" id="node3" href="$d0/dde/abc_8cc.html#a62382e93d1259f618c0dd4e6bd178766" title="abc_module" alt="" coords="535,31,627,57"/>
+<area shape="rect" id="node5" href="$d4/d9f/expose_8cc.html#a5400013a54f2bb70750e0659757f0de1" title="create_dff_dq_map" alt="" coords="253,107,385,133"/>
+<area shape="rect" id="node7" href="$d2/d28/classSubCircuitSolver.html#adc475cd28256d877d211260c434f387f" title="SubCircuitSolver::unified\l_param" alt="" coords="237,158,400,199"/>
+<area shape="rect" id="node9" href="$db/d68/structAST_1_1AstNode.html#ae85721dbe9edcee0920aa7268522b6f0" title="AST::AstNode::genRTLIL" alt="" coords="234,224,403,251"/>
+<area shape="rect" id="node14" href="$d2/d2a/hierarchy_8cc.html#aaa63457893d075a10ba54f8f64b6f3e2" title="generate" alt="" coords="283,275,355,301"/>
+<area shape="rect" id="node16" href="$d2/d2a/hierarchy_8cc.html#a1e1ec6f667e9307c37504211d6c44a66" title="expand_module" alt="" coords="263,325,375,352"/>
+<area shape="rect" id="node17" href="$d3/d02/opt__rmdff_8cc.html#a5a54138e791d48f49db114a07d510f98" title="handle_dff" alt="" coords="278,376,359,403"/>
+<area shape="rect" id="node19" href="$de/d01/structOptShareWorker.html#a18ef13aca78aa99402f92e9c002afdbb" title="OptShareWorker::compare\l_cell_parameters_and_connections" alt="" coords="205,427,432,469"/>
+<area shape="rect" id="node22" href="$df/d86/structTechmapWorker.html#a16c426df603a5d603903463358fb916b" title="TechmapWorker::techmap\l_module_worker" alt="" coords="232,493,405,534"/>
+<area shape="rect" id="node26" href="$d7/d1b/verilog__backend_8cc.html#acb0db6978caac6cd12da1ae045c1b8ab" title="dump_cell_expr" alt="" coords="263,559,375,585"/>
+<area shape="rect" id="node30" href="$d6/d81/yosys_8h.html#a7df77c16219f05b4ff1a31414b728e81" title="new_id" alt="" coords="287,609,350,636"/>
+<area shape="rect" id="node4" href="$d0/ddf/structAbcPass.html#a45a7a2de4fea1a7b6a5847d1f13d69b0" title="AbcPass::execute" alt="" coords="770,31,897,57"/>
+<area shape="rect" id="node6" href="$d6/d10/structExposePass.html#ab4ab9827a8f8892ddbbff3c8c2972526" title="ExposePass::execute" alt="" coords="509,107,654,133"/>
+<area shape="rect" id="node8" href="$d2/d28/classSubCircuitSolver.html#a6299b5b48968affd0f31b3aad65abf4f" title="SubCircuitSolver::userCompare\lNodes" alt="" coords="480,158,683,199"/>
+<area shape="rect" id="node10" href="$d7/de1/ast_8cc.html#a9a16ac38401c86ce78f91716430e13d6" title="process_module" alt="" coords="523,224,640,251"/>
+<area shape="rect" id="node11" href="$d4/dd1/namespaceAST.html#a00d03a3b449399745cee766910ff8fe4" title="AST::process" alt="" coords="783,199,883,225"/>
+<area shape="rect" id="node13" href="$db/d8e/structAST_1_1AstModule.html#a0c7a0b6f77ca9128e0a939a852ae34bd" title="AST::AstModule::derive" alt="" coords="755,249,912,276"/>
+<area shape="rect" id="node12" href="$d0/da7/structVerilogFrontend.html#a8100a46f13a4a29f658524f59a1c9fd0" title="VerilogFrontend::execute" alt="" coords="985,199,1149,225"/>
+<area shape="rect" id="node15" href="$d7/d1b/structHierarchyPass.html#a8aec90959b007cbe981c3c79254f37df" title="HierarchyPass::execute" alt="" coords="502,300,661,327"/>
+<area shape="rect" id="node18" href="$d9/d1d/structOptRmdffPass.html#a01e1e54699bd141b12a289eadd565d43" title="OptRmdffPass::execute" alt="" coords="502,376,661,403"/>
+<area shape="rect" id="node20" href="$de/d01/structOptShareWorker.html#af41b430f4805e58ee199c35b82d4c35d" title="OptShareWorker::compare\l_cells" alt="" coords="494,427,669,469"/>
+<area shape="rect" id="node21" href="$d0/d0a/structOptShareWorker_1_1CompareCells.html#ab947be43ee16fecdff360f2c213bf4e7" title="OptShareWorker::CompareCells\l::operator()" alt="" coords="731,418,936,459"/>
+<area shape="rect" id="node23" href="$df/d86/structTechmapWorker.html#ac363b4a444a0980f069c314721b73db8" title="TechmapWorker::techmap\l_module" alt="" coords="495,493,668,534"/>
+<area shape="rect" id="node24" href="$d5/d38/structTechmapPass.html#ac0d454775281967874fcd4af5dc24786" title="TechmapPass::execute" alt="" coords="755,484,912,511"/>
+<area shape="rect" id="node25" href="$d1/da5/structFlattenPass.html#a65b95abfb17e33e1ccee2af502194512" title="FlattenPass::execute" alt="" coords="762,535,905,561"/>
+<area shape="rect" id="node27" href="$d7/d1b/verilog__backend_8cc.html#adf87d608950921ea0126a91c8024f29b" title="dump_cell" alt="" coords="541,568,622,595"/>
+<area shape="rect" id="node28" href="$d7/d1b/verilog__backend_8cc.html#ac8af84e39e8b00ea459e861ee745116e" title="dump_module" alt="" coords="782,585,885,612"/>
+<area shape="rect" id="node29" href="$d0/dff/structVerilogBackend.html#a78bdd93e64b8adce95c19eec4b0205d2" title="VerilogBackend::execute" alt="" coords="985,585,1149,612"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="AlumaccWorker::alunode_t::get_gt" name="AlumaccWorker::alunode_t::get_gt">
+<area shape="rect" id="node2" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="702,236,770,263"/>
+<area shape="rect" id="node3" href="$d7/d6c/structRTLIL_1_1Module.html#af41afe572b76b9582c4c5ace2c08c3f0" title="RTLIL::Module::Not" alt="" coords="669,8,803,35"/>
+<area shape="rect" id="node4" href="$d7/d6c/structRTLIL_1_1Module.html#ab6fe8e13a356bfafba7b9d9a4ad0f21b" title="RTLIL::Module::Or" alt="" coords="238,220,365,247"/>
+<area shape="rect" id="node5" href="$d8/d03/structAlumaccWorker_1_1alunode__t.html#a83d2e1eed263d6544ed7031cd54f44bd" title="AlumaccWorker::alunode\l_t::get_lt" alt="" coords="219,137,384,178"/>
+<area shape="rect" id="node11" href="$d8/d03/structAlumaccWorker_1_1alunode__t.html#ac358593c75782350f14f14de3abfdc92" title="AlumaccWorker::alunode\l_t::get_eq" alt="" coords="432,354,597,396"/>
+<area shape="rect" id="node6" href="$d7/d6c/structRTLIL_1_1Module.html#a6578d1232377f91174bc6b8e3f656f69" title="RTLIL::Module::Xor" alt="" coords="669,94,803,120"/>
+<area shape="rect" id="node7" href="$d8/d03/structAlumaccWorker_1_1alunode__t.html#afa7466cc786630dfdc5fddefed4312b8" title="AlumaccWorker::alunode\l_t::get_of" alt="" coords="432,121,597,162"/>
+<area shape="rect" id="node9" href="$d8/d03/structAlumaccWorker_1_1alunode__t.html#ac5b1bd0d838c188fb5610a0724e87b15" title="AlumaccWorker::alunode\l_t::get_sf" alt="" coords="432,186,597,228"/>
+<area shape="rect" id="node10" href="$d8/d03/structAlumaccWorker_1_1alunode__t.html#af8c7df1d17bf9533d6ac4d7091c9f39a" title="AlumaccWorker::alunode\l_t::get_cf" alt="" coords="432,56,597,97"/>
+<area shape="rect" id="node8" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="669,170,803,196"/>
+<area shape="rect" id="node12" href="$d7/d6c/structRTLIL_1_1Module.html#a6a36d82fa80e2ea2e44dcd60f1d344c1" title="RTLIL::Module::ReduceAnd" alt="" coords="646,362,826,388"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="Minisat::SimpSolver::removeClause" name="Minisat::SimpSolver::removeClause">
+<area shape="rect" id="node2" href="$db/d9e/classMinisat_1_1SimpSolver.html#a6ee3b033b5fb4b3b88cc926d4e9cf7fb" title="Minisat::SimpSolver\l::updateElimHeap" alt="" coords="222,89,359,130"/>
+<area shape="rect" id="node6" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title="Minisat::var" alt="" coords="725,273,813,300"/>
+<area shape="rect" id="node7" href="$d5/daf/classMinisat_1_1Solver.html#a516caed20aee5d2378b0117e39d36569" title="Minisat::Solver::removeClause" alt="" coords="193,248,389,275"/>
+<area shape="rect" id="node3" href="$db/d9e/classMinisat_1_1SimpSolver.html#a6ef594cf0bfde3377021bd9dba85cb9a" title="Minisat::SimpSolver\l::isEliminated" alt="" coords="465,5,602,46"/>
+<area shape="rect" id="node4" href="$d5/daf/classMinisat_1_1Solver.html#a85afff5e1fece21d117c5432f7a3ede4" title="Minisat::Solver::value" alt="" coords="697,71,841,97"/>
+<area shape="rect" id="node5" href="$d6/d0b/namespaceMinisat.html#a9407f56302e35de6f444d9877deb26df" title="Minisat::l_Undef" alt="" coords="476,121,591,148"/>
+<area shape="rect" id="node8" href="$d5/daf/classMinisat_1_1Solver.html#a67da67107cbd7cf4de860879133b7945" title="Minisat::Solver::detachClause" alt="" coords="437,273,629,300"/>
+<area shape="rect" id="node9" href="$d5/daf/classMinisat_1_1Solver.html#ac99fb1c9adc112310cd7b84f96365473" title="Minisat::Solver::locked" alt="" coords="458,172,609,199"/>
+<area shape="rect" id="node14" href="$d4/dd0/classMinisat_1_1ClauseAllocator.html#a914e91a15b2402d04c70857f77556322" title="Minisat::ClauseAllocator\l::free" alt="" coords="453,383,614,425"/>
+<area shape="rect" id="node10" href="$d6/d0b/namespaceMinisat.html#ac03d9b1ea6725f4992547a77900d0ac8" title="Minisat::l_True" alt="" coords="716,172,823,199"/>
+<area shape="rect" id="node11" href="$d5/daf/classMinisat_1_1Solver.html#a4a9d7528f103715980b4b0cff3ac4e97" title="Minisat::Solver::reason" alt="" coords="693,223,845,249"/>
+<area shape="rect" id="node12" href="$d4/dd0/classMinisat_1_1ClauseAllocator.html#a24fda1d0de2043fbbe329ff8d037b8fa" title="Minisat::ClauseAllocator::lea" alt="" coords="677,121,861,148"/>
+<area shape="rect" id="node13" href="$da/d2d/classMinisat_1_1RegionAllocator.html#a1d0ead0de921fcdf40c6fde7ffccdc92" title="Minisat::RegionAllocator::lea" alt="" coords="909,121,1093,148"/>
+<area shape="rect" id="node15" href="$d4/dd0/classMinisat_1_1ClauseAllocator.html#a3886346dcdaaeab59d1fb411a84c6d81" title="Minisat::ClauseAllocator\l::operator[]" alt="" coords="689,325,850,366"/>
+<area shape="rect" id="node16" href="$da/d2d/classMinisat_1_1RegionAllocator.html#aec12fd9151357bbf29b9a6c81ab5a165" title="Minisat::RegionAllocator\l::free" alt="" coords="689,390,850,431"/>
+<area shape="rect" id="node17" href="$d4/dd0/classMinisat_1_1ClauseAllocator.html#a4d36af5fd5cca1a8a4b32a126d924f1b" title="Minisat::ClauseAllocator\l::clauseWord32Size" alt="" coords="689,455,850,497"/>
+</map>

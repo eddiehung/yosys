@@ -1,0 +1,5 @@
+<map id="extract_core_signal" name="extract_core_signal">
+<area shape="rect" id="node2" href="$dd/d74/structRTLIL_1_1SigSpec.html#aab47d4484bbd3b94c31f38e38ddec91a" title="RTLIL::SigSpec::extract" alt="" coords="190,12,349,39"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9a085a75d9ede59180209a69cbff8abc" title="RTLIL::SigSpec::size" alt="" coords="198,63,341,89"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#a5dc7b683a05092e03e524ec50395b737" title="RTLIL::SigSpec::to\l_sigbit_set" alt="" coords="397,5,528,46"/>
+</map>

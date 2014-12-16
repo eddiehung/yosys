@@ -1,0 +1,8 @@
+<map id="WireInfo" name="WireInfo">
+<area shape="rect" id="node2" href="$d8/df7/structRTLIL_1_1IdString.html" title="RTLIL::IdString" alt="" coords="31,112,141,139"/>
+<area shape="rect" id="node5" href="$de/d93/structRTLIL_1_1Wire.html" title="RTLIL::Wire" alt="" coords="121,293,212,320"/>
+<area shape="rect" id="node6" href="$d7/d6c/structRTLIL_1_1Module.html" title="RTLIL::Module" alt="" coords="156,203,263,229"/>
+<area shape="rect" id="node3" href="$d0/d81/structRTLIL_1_1IdString_1_1destruct__guard__t.html" title="RTLIL::IdString::destruct\l_guard_t" alt="" coords="5,6,168,47"/>
+<area shape="rect" id="node4" href="$d3/d6d/structRTLIL_1_1SigChunk.html" title="RTLIL::SigChunk" alt="" coords="81,384,201,411"/>
+<area shape="rect" id="node7" href="$d1/d01/structRTLIL_1_1Design.html" title="RTLIL::Design" alt="" coords="166,112,271,139"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="WreducePass::execute" name="WreducePass::execute">
+<area shape="rect" id="node2" href="$d4/dc1/log_8cc.html#a4a4c59ccc32dd43c3d0f481af23dcf52" title="log_header" alt="" coords="245,106,331,133"/>
+<area shape="rect" id="node13" href="$d1/d01/structRTLIL_1_1Design.html#a3e4a53f89e3c18a0e1c06acb6721e9e6" title="RTLIL::Design::selected\l_modules" alt="" coords="208,453,368,495"/>
+<area shape="rect" id="node14" href="$d7/d6c/structRTLIL_1_1Module.html#af52cec7cc50576b283fbdef0cfdddabe" title="RTLIL::Module::has\l_processes_warn" alt="" coords="221,191,355,232"/>
+<area shape="rect" id="node19" href="$df/d0e/structWreduceWorker.html#ae39422d483c0e6b57a4c8e39dc87263c" title="WreduceWorker::run" alt="" coords="219,402,357,429"/>
+<area shape="rect" id="node3" href="$d4/dc1/log_8cc.html#acab879647fe94feabb05c97d1ca4ec5f" title="logv_header" alt="" coords="451,71,543,98"/>
+<area shape="rect" id="node4" href="$d4/dc1/log_8cc.html#a56889fadb925801a3ba25be960dfe0bd" title="log_spacer" alt="" coords="664,71,749,98"/>
+<area shape="rect" id="node5" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="853,122,891,149"/>
+<area shape="rect" id="node6" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="958,122,1005,149"/>
+<area shape="rect" id="node12" href="$d4/dc1/log_8cc.html#a4a5e317aa2251f3492aba63a872fc09b" title="log_flush" alt="" coords="835,46,909,73"/>
+<area shape="rect" id="node7" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="1206,122,1271,149"/>
+<area shape="rect" id="node9" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="1071,417,1139,443"/>
+<area shape="rect" id="node10" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="1054,122,1157,149"/>
+<area shape="rect" id="node11" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="1076,71,1135,98"/>
+<area shape="rect" id="node8" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1321,122,1365,149"/>
+<area shape="rect" id="node15" href="$d4/dc1/log_8cc.html#a49512c1118dccb2dc45783b5a0d69dec" title="log_warning" alt="" coords="452,147,543,174"/>
+<area shape="rect" id="node17" href="$d4/dc1/log_8cc.html#ae3fbeca33c15c48f406bbd5680014c68" title="log_id" alt="" coords="469,198,525,225"/>
+<area shape="rect" id="node16" href="$d4/dc1/log_8cc.html#a8c4ac3fe8197c62792c0682fff3d0283" title="logv_warning" alt="" coords="657,173,756,199"/>
+<area shape="rect" id="node18" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="634,223,779,250"/>
+<area shape="rect" id="node20" href="$d7/d6c/structRTLIL_1_1Module.html#a7d20a1ce90d981def4395359a06e420c" title="RTLIL::Module::selected\l_cells" alt="" coords="416,700,579,741"/>
+<area shape="rect" id="node21" href="$d7/d6c/structRTLIL_1_1Module.html#a8461fde1c587f512ab06737df38f7cdc" title="RTLIL::Module::selected" alt="" coords="416,249,579,275"/>
+<area shape="rect" id="node23" href="$d7/d6c/structRTLIL_1_1Module.html#a810971ea2d91e19421112fe121014a8c" title="RTLIL::Module::selected\l_wires" alt="" coords="416,300,579,341"/>
+<area shape="rect" id="node24" href="$d3/da8/opt__clean_8cc.html#a9e6f0b1d1f51737ab3b28659adc482f7" title="count_nontrivial_wire\l_attrs" alt="" coords="425,365,569,407"/>
+<area shape="rect" id="node25" href="$d7/d6c/structRTLIL_1_1Module.html#a541a18ce30bd8847261b01e9c6cf884e" title="RTLIL::Module::addWire" alt="" coords="417,431,577,458"/>
+<area shape="rect" id="node26" href="$d7/d6c/structRTLIL_1_1Module.html#ab79bcacb14f3fe41c2350cfa6882956c" title="RTLIL::Module::connect" alt="" coords="418,482,577,509"/>
+<area shape="rect" id="node27" href="$d7/d6c/structRTLIL_1_1Module.html#a9b7d7367ce2a36a7d96a3b3180282796" title="RTLIL::Module::swap\l_names" alt="" coords="425,635,569,676"/>
+<area shape="rect" id="node22" href="$d1/d01/structRTLIL_1_1Design.html#ac050fb831e3b9cdce879149994241831" title="RTLIL::Design::selected\l_member" alt="" coords="627,275,787,316"/>
+</map>

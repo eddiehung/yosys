@@ -1,0 +1,18 @@
+<map id="normalize_sig" name="normalize_sig">
+<area shape="rect" id="node2" href="$d7/d6c/structRTLIL_1_1Module.html#aa093cc84407f5e461655a356b1b0f6e9" title="RTLIL::Module::connections" alt="" coords="155,208,338,235"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#a3fb735f158100bae38e6359f80ca09cd" title="RTLIL::SigSpec::replace" alt="" coords="165,259,328,285"/>
+<area shape="rect" id="node4" href="$de/d45/extract_8cc.html#a666706867bca9d4aa5ae683251070a33" title="replace" alt="" coords="387,259,451,285"/>
+<area shape="rect" id="node5" href="$d7/d6c/structRTLIL_1_1Module.html#a1a7e895aac049d13e973eada539ee676" title="RTLIL::Module::addCell" alt="" coords="502,5,658,32"/>
+<area shape="rect" id="node6" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="551,56,609,83"/>
+<area shape="rect" id="node9" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="507,107,653,133"/>
+<area shape="rect" id="node10" href="$d2/de4/structSigSet.html#a37742bc83f86e1e529e02e1552d353e1" title="SigSet::insert" alt="" coords="531,157,629,184"/>
+<area shape="rect" id="node11" href="$d6/db5/structRTLIL_1_1Cell.html#a60083493b42191874643112a848ffe2e" title="RTLIL::Cell::setPort" alt="" coords="513,208,647,235"/>
+<area shape="rect" id="node12" href="$d6/db5/structRTLIL_1_1Cell.html#a6eba6dfa5a38ad99056c945dcd794873" title="RTLIL::Cell::connections" alt="" coords="499,259,661,285"/>
+<area shape="rect" id="node13" href="$d2/de4/structSigSet.html#adb50a29124e6edb3f54e0e3b0fec2a4b" title="SigSet::has" alt="" coords="536,309,624,336"/>
+<area shape="rect" id="node14" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9a085a75d9ede59180209a69cbff8abc" title="RTLIL::SigSpec::size" alt="" coords="509,360,651,387"/>
+<area shape="rect" id="node15" href="$d2/de4/structSigSet.html#a0854696d26b940fb3420cacfbfa51b7a" title="SigSet::find" alt="" coords="537,411,623,437"/>
+<area shape="rect" id="node16" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="513,461,647,488"/>
+<area shape="rect" id="node17" href="$d7/d6c/structRTLIL_1_1Module.html#a6aa6e393124a0d917c4f1d1a432e4438" title="RTLIL::Module::remove" alt="" coords="502,512,658,539"/>
+<area shape="rect" id="node7" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="710,56,775,83"/>
+<area shape="rect" id="node8" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="825,56,869,83"/>
+</map>

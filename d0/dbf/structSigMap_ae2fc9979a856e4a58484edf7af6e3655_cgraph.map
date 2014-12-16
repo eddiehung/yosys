@@ -1,0 +1,10 @@
+<map id="SigMap::SigMap" name="SigMap::SigMap">
+<area shape="rect" id="node2" href="$d0/dbf/structSigMap.html#a15d5d710a95c544c953d17e13d8918b8" title="SigMap::set" alt="" coords="171,56,261,83"/>
+<area shape="rect" id="node3" href="$d0/dbf/structSigMap.html#abda94ddd85df7ed34870c155ca4097f7" title="SigMap::clear" alt="" coords="351,5,451,32"/>
+<area shape="rect" id="node4" href="$d7/d6c/structRTLIL_1_1Module.html#aa093cc84407f5e461655a356b1b0f6e9" title="RTLIL::Module::connections" alt="" coords="310,56,493,83"/>
+<area shape="rect" id="node5" href="$d0/dbf/structSigMap.html#a6ed3611c9fddcbbd9013b7e012368118" title="SigMap::add" alt="" coords="355,107,448,133"/>
+<area shape="rect" id="node6" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="575,31,643,57"/>
+<area shape="rect" id="node7" href="$d0/dbf/structSigMap.html#a9ece31598206f65aa071a1830a0ded54" title="SigMap::register_bit" alt="" coords="541,81,677,108"/>
+<area shape="rect" id="node8" href="$d0/dbf/structSigMap.html#a39e73745516fad540c4d6d125e012e72" title="SigMap::merge_bit" alt="" coords="545,132,674,159"/>
+<area shape="rect" id="node9" href="$d0/dbf/structSigMap.html#a17dd8c78694a26df35398565146e3bca" title="SigMap::set_bit" alt="" coords="554,183,665,209"/>
+</map>

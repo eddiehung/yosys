@@ -1,0 +1,22 @@
+<map id="expand_module" name="expand_module">
+<area shape="rect" id="node2" href="$d8/df7/structRTLIL_1_1IdString.html#a027939234ae831a0135748917d1ca1d4" title="RTLIL::IdString::substr" alt="" coords="363,56,515,83"/>
+<area shape="rect" id="node3" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="691,56,837,83"/>
+<area shape="rect" id="node4" href="$d8/df7/structRTLIL_1_1IdString.html#abe954d84d173aa85d6bf7820c1ee2040" title="RTLIL::IdString::str" alt="" coords="175,309,305,336"/>
+<area shape="rect" id="node5" href="$d9/daf/test__autotb_8cc.html#a9d24ea8c7d45703213d440f5c7bc71c3" title="idx" alt="" coords="221,360,259,387"/>
+<area shape="rect" id="node6" href="$d3/dc3/namespaceRTLIL.html#a5caa40a54737cffe9b5856eb9deaef4b" title="RTLIL::unescape_id" alt="" coords="171,411,309,437"/>
+<area shape="rect" id="node7" href="$da/daf/yosys_8cc.html#ab12a9fa0be959b8cb9b277cd0fb4c0d5" title="check_file_exists" alt="" coords="179,461,301,488"/>
+<area shape="rect" id="node8" href="$d4/df0/structFrontend.html#a022e0646b70cef341c201fda6ab74075" title="Frontend::frontend_call" alt="" coords="886,259,1039,285"/>
+<area shape="rect" id="node10" href="$d4/dc1/log_8cc.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="403,157,475,184"/>
+<area shape="rect" id="node19" href="$d7/d6c/structRTLIL_1_1Module.html#abd2b73cc756a65b5af1174ca0c54ffa2" title="RTLIL::Module::derive" alt="" coords="166,157,314,184"/>
+<area shape="rect" id="node20" href="$d3/dc3/namespaceRTLIL.html#a920874fc9edac59ebe44ac0775a517cd" title="RTLIL::id2cstr" alt="" coords="387,107,491,133"/>
+<area shape="rect" id="node9" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1355,208,1399,235"/>
+<area shape="rect" id="node11" href="$d4/dc1/log_8cc.html#a25b6c81d25f95461e4d756a6785c9798" title="logv_error" alt="" coords="563,157,642,184"/>
+<area shape="rect" id="node12" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="745,107,783,133"/>
+<area shape="rect" id="node13" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="939,107,986,133"/>
+<area shape="rect" id="node18" href="$d4/dc1/log_8cc.html#a4a5e317aa2251f3492aba63a872fc09b" title="log_flush" alt="" coords="727,157,801,184"/>
+<area shape="rect" id="node14" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="1241,157,1306,184"/>
+<area shape="rect" id="node15" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="1106,208,1174,235"/>
+<area shape="rect" id="node16" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="1089,56,1191,83"/>
+<area shape="rect" id="node17" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="1111,157,1169,184"/>
+<area shape="rect" id="node21" href="$d4/dc1/log_8cc.html#ae3fbeca33c15c48f406bbd5680014c68" title="log_id" alt="" coords="575,107,631,133"/>
+</map>

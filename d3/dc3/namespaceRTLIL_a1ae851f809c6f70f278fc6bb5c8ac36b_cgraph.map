@@ -1,0 +1,5 @@
+<map id="RTLIL::const_shiftx" name="RTLIL::const_shiftx">
+<area shape="rect" id="node2" href="$d0/d30/calc_8cc.html#ad68b6178082001a48996299a549ef4f3" title="const_shift_shiftx" alt="" coords="190,31,314,57"/>
+<area shape="rect" id="node3" href="$d0/d30/calc_8cc.html#af547062839d6e235d6ede4d49ac9b298" title="const2big" alt="" coords="381,5,459,32"/>
+<area shape="rect" id="node4" href="$d7/d68/classBigInteger.html#a3aca292e83fc7d9dc09ddd027d6533fe" title="BigInteger::toInt" alt="" coords="363,56,477,83"/>
+</map>

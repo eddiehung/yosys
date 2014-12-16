@@ -1,0 +1,35 @@
+<map id="FsmOpt::opt_unused_outputs" name="FsmOpt::opt_unused_outputs">
+<area shape="rect" id="node2" href="$d6/db5/structRTLIL_1_1Cell.html#ab7eb467bc49c31774c512f090a372fea" title="RTLIL::Cell::getPort" alt="" coords="218,203,353,229"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#aab47d4484bbd3b94c31f38e38ddec91a" title="RTLIL::SigSpec::extract" alt="" coords="206,253,365,280"/>
+<area shape="rect" id="node5" href="$d8/d65/structFsmOpt.html#ae13127d2bda7c18defd12d5122652cb2" title="FsmOpt::signal_is_unused" alt="" coords="198,304,373,331"/>
+<area shape="rect" id="node8" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="1561,557,1599,584"/>
+<area shape="rect" id="node14" href="$d4/dc1/log_8cc.html#a750cfed6c58b0dae503c2a6762c92a86" title="log_signal" alt="" coords="245,559,325,585"/>
+<area shape="rect" id="node32" href="$dd/d74/structRTLIL_1_1SigSpec.html#a7197cc36be68abb4c3491bebde97290d" title="RTLIL::SigSpec::remove" alt="" coords="204,827,367,853"/>
+<area shape="rect" id="node33" href="$d6/db5/structRTLIL_1_1Cell.html#a60083493b42191874643112a848ffe2e" title="RTLIL::Cell::setPort" alt="" coords="218,877,353,904"/>
+<area shape="rect" id="node34" href="$dd/d74/structRTLIL_1_1SigSpec.html#adbd069b267f2c5e7480549661933d7e9" title="RTLIL::SigSpec::as\l_const" alt="" coords="1513,714,1647,755"/>
+<area shape="rect" id="node4" href="$dd/d74/structRTLIL_1_1SigSpec.html#a5dc7b683a05092e03e524ec50395b737" title="RTLIL::SigSpec::to\l_sigbit_set" alt="" coords="441,5,572,46"/>
+<area shape="rect" id="node6" href="$dd/d74/structRTLIL_1_1SigSpec.html#ae34c127004981694c044e055e8f7c506" title="RTLIL::SigSpec::to\l_single_sigbit" alt="" coords="441,70,572,111"/>
+<area shape="rect" id="node7" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="2142,245,2186,272"/>
+<area shape="rect" id="node9" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="1738,528,1785,555"/>
+<area shape="rect" id="node10" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="2027,355,2093,381"/>
+<area shape="rect" id="node11" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="1893,608,1961,635"/>
+<area shape="rect" id="node12" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="1875,528,1978,555"/>
+<area shape="rect" id="node13" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="1897,355,1956,381"/>
+<area shape="rect" id="node15" href="$d5/d25/namespaceILANG__BACKEND.html#ae3133a9ab2619ff10a74ebff9d1b4d36" title="ILANG_BACKEND::dump\l_sigspec" alt="" coords="421,486,592,527"/>
+<area shape="rect" id="node16" href="$dd/d74/structRTLIL_1_1SigSpec.html#a766321f59e1006e522e788d42dd1d18a" title="RTLIL::SigSpec::is\l_chunk" alt="" coords="1696,601,1827,642"/>
+<area shape="rect" id="node17" href="$d5/d25/namespaceILANG__BACKEND.html#a42e2480bb26bd97dc7bd9b0503af8195" title="ILANG_BACKEND::dump\l_sigchunk" alt="" coords="640,297,811,338"/>
+<area shape="rect" id="node25" href="$dd/d74/structRTLIL_1_1SigSpec.html#aaff2c3edb53b99750d743e33c0f39619" title="RTLIL::SigSpec::as\l_chunk" alt="" coords="658,457,793,498"/>
+<area shape="rect" id="node26" href="$dd/d74/structRTLIL_1_1SigSpec.html#a89320bf61e66da75ed172a1e0ecf2be0" title="RTLIL::SigSpec::chunks" alt="" coords="644,573,807,600"/>
+<area shape="rect" id="node18" href="$d5/d25/namespaceILANG__BACKEND.html#a39658b7a471ec22caabf6717ccfe0e1b" title="ILANG_BACKEND::dump\l_const" alt="" coords="859,238,1029,279"/>
+<area shape="rect" id="node20" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="871,355,1017,381"/>
+<area shape="rect" id="node21" href="$d7/d1b/verilog__backend_8cc.html#af452d6e9cc16066cd127cb31353fcd4f" title="dump_const" alt="" coords="897,304,991,331"/>
+<area shape="rect" id="node19" href="$d8/db7/structRTLIL_1_1Const.html#a763d87b6140dd3da83e670d1391bd9cf" title="RTLIL::Const::decode\l_string" alt="" coords="1077,289,1224,330"/>
+<area shape="rect" id="node22" href="$d4/dc1/log_8cc.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="1115,464,1187,491"/>
+<area shape="rect" id="node23" href="$d4/dc1/log_8cc.html#a25b6c81d25f95461e4d756a6785c9798" title="logv_error" alt="" coords="1329,468,1407,495"/>
+<area shape="rect" id="node24" href="$d4/dc1/log_8cc.html#a4a5e317aa2251f3492aba63a872fc09b" title="log_flush" alt="" coords="1543,456,1617,483"/>
+<area shape="rect" id="node27" href="$dd/d74/structRTLIL_1_1SigSpec.html#a23c5fe78b8654313b1a8ba6e0aea1b0b" title="RTLIL::SigSpec::pack" alt="" coords="870,599,1018,625"/>
+<area shape="rect" id="node28" href="$d7/d21/testsuite_8cc.html#a1276410a0ea6543cba9a2848dafcfa9a" title="check" alt="" coords="1122,612,1179,639"/>
+<area shape="rect" id="node29" href="$d8/de3/classNumberlikeArray.html#ac9062a286e21919bad0f38cf4c51ed48" title="NumberlikeArray::getLength" alt="" coords="1277,624,1459,651"/>
+<area shape="rect" id="node30" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="1291,675,1445,701"/>
+<area shape="rect" id="node31" href="$d8/de3/classNumberlikeArray.html#a24fb58448da208f44b5364cb0ec67b01" title="NumberlikeArray::getCapacity" alt="" coords="1272,573,1464,600"/>
+</map>

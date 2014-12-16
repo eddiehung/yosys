@@ -1,0 +1,36 @@
+<map id="RTLIL::Cell::hasPort" name="RTLIL::Cell::hasPort">
+<area shape="rect" id="node2" href="$d8/d46/structConstEval.html#a508b0a94019cd9da76742ad99a684589" title="ConstEval::eval" alt="" coords="219,199,330,225"/>
+<area shape="rect" id="node15" href="$d6/d10/structExposePass.html#ab4ab9827a8f8892ddbbff3c8c2972526" title="ExposePass::execute" alt="" coords="202,313,347,340"/>
+<area shape="rect" id="node16" href="$d9/d39/fsm__detect_8cc.html#a8318d40bc7e5df27dc0ac784c7593c2e" title="check_state_users" alt="" coords="209,364,341,391"/>
+<area shape="rect" id="node19" href="$d5/d3f/structFsmExpand.html#a318d209702f0885841d29b2b664aebff" title="FsmExpand::is_cell\l_merge_candidate" alt="" coords="208,415,341,457"/>
+<area shape="rect" id="node23" href="$d5/d3f/structFsmExpand.html#aed190aa8264bb89766d8fa2a8e137326" title="FsmExpand::merge_cell\l_into_fsm" alt="" coords="195,481,354,522"/>
+<area shape="rect" id="node24" href="$dd/dd4/ilang__parser_8tab_8cc.html#a847a2de5c1c28c9d7055a2b89ed7dad7" title="yyparse" alt="" coords="241,547,308,573"/>
+<area shape="rect" id="node25" href="$d5/d72/opt__const_8cc.html#a83e62052fedc4a9afb5bd71dabd91436" title="group_cell_inputs" alt="" coords="213,597,336,624"/>
+<area shape="rect" id="node28" href="$db/d81/spice_8cc.html#a4140d14d034d2e46e0db7adeab7f03ba" title="print_spice_module" alt="" coords="207,648,342,675"/>
+<area shape="rect" id="node30" href="$d7/d1b/verilog__backend_8cc.html#a4547204fd4e6bd7eae408bdc8c7fc0d0" title="cellname" alt="" coords="237,699,312,725"/>
+<area shape="rect" id="node33" href="$d7/d1b/verilog__backend_8cc.html#ac8af84e39e8b00ea459e861ee745116e" title="dump_module" alt="" coords="914,749,1017,776"/>
+<area shape="rect" id="node35" href="$df/d0e/structWreduceWorker.html#a29e390d5d3660e6dc7976f18e0caefd3" title="WreduceWorker::run_cell" alt="" coords="192,825,357,852"/>
+<area shape="rect" id="node3" href="$d8/d46/structConstEval.html#afb59bb188497c321f6ea7fe1c49fbef5" title="ConstEval::eval" alt="" coords="453,5,563,32"/>
+<area shape="rect" id="node4" href="$d7/d1a/structBruteForceEquivChecker.html#a0fe042ec53517b0ca5af77a9a7cede17" title="BruteForceEquivChecker\l::run_checker" alt="" coords="425,57,591,98"/>
+<area shape="rect" id="node6" href="$d5/d3c/structVlogHammerReporter.html#aec06b6aef3e25ab1b70871a74166da2a" title="VlogHammerReporter::run" alt="" coords="423,123,593,149"/>
+<area shape="rect" id="node7" href="$d6/d7b/structEvalPass.html#a4a4bdf892f4516e74c80316b7398c899" title="EvalPass::execute" alt="" coords="681,148,809,175"/>
+<area shape="rect" id="node8" href="$d1/d38/fsm__extract_8cc.html#a51d25ca2e14c2cee1fa77c854b523ca7" title="find_transitions" alt="" coords="453,224,563,251"/>
+<area shape="rect" id="node11" href="$d7/d3f/proc__dff_8cc.html#adc9dd28a87bbda04ca83b557c7cbf34a" title="proc_dff" alt="" coords="474,275,542,301"/>
+<area shape="rect" id="node13" href="$d3/df6/test__cell_8cc.html#adbe94f6d1e35a3d35c247c90bd54092d" title="run_eval_test" alt="" coords="458,325,558,352"/>
+<area shape="rect" id="node5" href="$d7/d1a/structBruteForceEquivChecker.html#a068b4d2f9bf5abcc423ce703ec54144e" title="BruteForceEquivChecker\l::BruteForceEquivChecker" alt="" coords="659,57,831,98"/>
+<area shape="rect" id="node9" href="$d1/d38/fsm__extract_8cc.html#a0f894d9dedeb3f6537902f9d6326a4ca" title="extract_fsm" alt="" coords="700,224,791,251"/>
+<area shape="rect" id="node10" href="$d5/d0c/structFsmExtractPass.html#a38c14c9c9ff47606020a053800ba997b" title="FsmExtractPass::execute" alt="" coords="881,224,1050,251"/>
+<area shape="rect" id="node12" href="$d3/d28/structProcDffPass.html#a08d6802cd3be4abacea94953a04b9ce9" title="ProcDffPass::execute" alt="" coords="672,275,819,301"/>
+<area shape="rect" id="node14" href="$d4/d8a/structTestCellPass.html#ac862ec029865cd32ebc4b9977f66b1a9" title="TestCellPass::execute" alt="" coords="670,325,821,352"/>
+<area shape="rect" id="node17" href="$d9/d39/fsm__detect_8cc.html#afd55bbfcb9a6db341edaeb119f756573" title="detect_fsm" alt="" coords="465,376,551,403"/>
+<area shape="rect" id="node18" href="$d0/de1/structFsmDetectPass.html#a208f14081dbaf34e23ca30fab80b69d3" title="FsmDetectPass::execute" alt="" coords="662,376,829,403"/>
+<area shape="rect" id="node20" href="$d5/d3f/structFsmExpand.html#ac341f53d8b25330cbe37ced7a8246db3" title="FsmExpand::create_current_set" alt="" coords="406,427,610,453"/>
+<area shape="rect" id="node21" href="$d5/d3f/structFsmExpand.html#a9a250621fe7efa0486d5f0fb0958bb75" title="FsmExpand::execute" alt="" coords="675,455,816,481"/>
+<area shape="rect" id="node22" href="$d0/da1/structFsmExpandPass.html#a223062d1576d3faada4be06c6915e102" title="FsmExpandPass::execute" alt="" coords="880,455,1051,481"/>
+<area shape="rect" id="node26" href="$d5/d72/opt__const_8cc.html#a5b23a61a6440397718696410025d84e5" title="replace_const_cells" alt="" coords="439,572,577,599"/>
+<area shape="rect" id="node27" href="$d2/ddd/structOptConstPass.html#ad756853edb1fa42ea5ffe59ad727cdf1" title="OptConstPass::execute" alt="" coords="666,572,825,599"/>
+<area shape="rect" id="node29" href="$de/dce/structSpiceBackend.html#af39a1c3f457ccdde49cf8b7514d95043" title="SpiceBackend::execute" alt="" coords="429,623,587,649"/>
+<area shape="rect" id="node31" href="$d7/d1b/verilog__backend_8cc.html#acb0db6978caac6cd12da1ae045c1b8ab" title="dump_cell_expr" alt="" coords="452,673,564,700"/>
+<area shape="rect" id="node32" href="$d7/d1b/verilog__backend_8cc.html#adf87d608950921ea0126a91c8024f29b" title="dump_cell" alt="" coords="705,724,786,751"/>
+<area shape="rect" id="node34" href="$d0/dff/structVerilogBackend.html#a78bdd93e64b8adce95c19eec4b0205d2" title="VerilogBackend::execute" alt="" coords="1099,749,1263,776"/>
+</map>

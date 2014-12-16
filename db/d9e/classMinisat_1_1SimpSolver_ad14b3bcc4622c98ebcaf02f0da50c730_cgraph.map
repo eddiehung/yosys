@@ -1,0 +1,6 @@
+<map id="Minisat::SimpSolver::gatherTouchedClauses" name="Minisat::SimpSolver::gatherTouchedClauses">
+<area shape="rect" id="node2" href="$d9/d10/classMinisat_1_1Queue.html#abbb1d66d9a2ba1740b14c4537ad2051c" title="Minisat::Queue::size" alt="" coords="221,5,358,32"/>
+<area shape="rect" id="node3" href="$d5/daf/classMinisat_1_1Solver.html#a50ea48c6fc2e408803efd990a7338b99" title="Minisat::Solver::nVars" alt="" coords="216,56,363,83"/>
+<area shape="rect" id="node4" href="$de/dcd/classMinisat_1_1vec.html#ade443c22492088bfe0aca571e3ad4b52" title="Minisat::vec::size" alt="" coords="229,107,349,133"/>
+<area shape="rect" id="node5" href="$d9/d10/classMinisat_1_1Queue.html#a7165c8b696f631685a8d001e2a31ef51" title="Minisat::Queue::insert" alt="" coords="216,157,363,184"/>
+</map>

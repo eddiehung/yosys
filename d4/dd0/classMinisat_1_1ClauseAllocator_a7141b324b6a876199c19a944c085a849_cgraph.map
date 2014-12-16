@@ -1,0 +1,14 @@
+<map id="Minisat::ClauseAllocator::reloc" name="Minisat::ClauseAllocator::reloc">
+<area shape="rect" id="node2" href="$d4/dd0/classMinisat_1_1ClauseAllocator.html#a3886346dcdaaeab59d1fb411a84c6d81" title="Minisat::ClauseAllocator\l::operator[]" alt="" coords="222,14,383,55"/>
+<area shape="rect" id="node3" href="$db/d09/classMinisat_1_1Clause.html#a9e02739ddd99d8708f7018489ba278de" title="Minisat::Clause::relocation" alt="" coords="217,80,389,107"/>
+<area shape="rect" id="node4" href="$d4/dd0/classMinisat_1_1ClauseAllocator.html#a6fc419d29c00c74eee79a3d38f51f6a0" title="Minisat::ClauseAllocator\l::alloc" alt="" coords="222,131,383,173"/>
+<area shape="rect" id="node13" href="$db/d09/classMinisat_1_1Clause.html#a25e958a88b74a4ac445a22c7c13a5670" title="Minisat::Clause::relocate" alt="" coords="221,197,384,224"/>
+<area shape="rect" id="node5" href="$da/d2d/classMinisat_1_1RegionAllocator.html#aa019b41526011f3d18b23f7c00ae2ffa" title="Minisat::RegionAllocator\l::alloc" alt="" coords="449,37,610,78"/>
+<area shape="rect" id="node9" href="$d4/dd0/classMinisat_1_1ClauseAllocator.html#a4d36af5fd5cca1a8a4b32a126d924f1b" title="Minisat::ClauseAllocator\l::clauseWord32Size" alt="" coords="449,102,610,143"/>
+<area shape="rect" id="node10" href="$de/dcd/classMinisat_1_1vec.html#ade443c22492088bfe0aca571e3ad4b52" title="Minisat::vec::size" alt="" coords="469,168,589,195"/>
+<area shape="rect" id="node11" href="$d4/dd0/classMinisat_1_1ClauseAllocator.html#a24fda1d0de2043fbbe329ff8d037b8fa" title="Minisat::ClauseAllocator::lea" alt="" coords="437,219,621,245"/>
+<area shape="rect" id="node6" href="$da/d2d/classMinisat_1_1RegionAllocator.html#a168e654d3099319f8e102b894e0aa0fa" title="Minisat::RegionAllocator\l::capacity" alt="" coords="681,5,842,46"/>
+<area shape="rect" id="node8" href="$da/d2d/classMinisat_1_1RegionAllocator.html#afc14e704d338163cef6b15b187ff8b2c" title="Minisat::RegionAllocator\l::size" alt="" coords="681,70,842,111"/>
+<area shape="rect" id="node7" href="$d6/d0b/namespaceMinisat.html#a31cf43ec6b29b5bd2e93fa4ef48b0944" title="Minisat::xrealloc" alt="" coords="901,12,1016,39"/>
+<area shape="rect" id="node12" href="$da/d2d/classMinisat_1_1RegionAllocator.html#a1d0ead0de921fcdf40c6fde7ffccdc92" title="Minisat::RegionAllocator::lea" alt="" coords="669,219,853,245"/>
+</map>

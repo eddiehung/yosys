@@ -1,0 +1,11 @@
+<map id="TraceMonitor::notify_module_add" name="TraceMonitor::notify_module_add">
+<area shape="rect" id="node2" href="$d4/dc1/log_8cc.html#a5ed8e2adc6340d877478a62cc1d448c9" title="log" alt="" coords="198,51,237,78"/>
+<area shape="rect" id="node9" href="$d4/dc1/log_8cc.html#ae3fbeca33c15c48f406bbd5680014c68" title="log_id" alt="" coords="189,102,245,128"/>
+<area shape="rect" id="node3" href="$d4/dc1/log_8cc.html#abf46ede721abf1f05ae40747367cf29d" title="logv" alt="" coords="343,51,390,78"/>
+<area shape="rect" id="node4" href="$da/daf/yosys_8cc.html#a687c8064bd85bf7488be2e8c83f073e7" title="vstringf" alt="" coords="641,51,706,78"/>
+<area shape="rect" id="node6" href="$da/daf/yosys_8cc.html#a5b55d619b7ad65835292ad444c784eb8" title="GetSize" alt="" coords="506,26,574,52"/>
+<area shape="rect" id="node7" href="$d9/d84/classSHA1.html#aec3a46058baf8b4169389c89e3a0a2f4" title="SHA1::update" alt="" coords="489,76,591,103"/>
+<area shape="rect" id="node8" href="$da/daf/yosys_8cc.html#aceb8a688942094270607ba575ade4bca" title="stringf" alt="" coords="511,127,569,154"/>
+<area shape="rect" id="node5" href="$dd/dd4/ilang__parser_8tab_8cc.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="755,51,799,78"/>
+<area shape="rect" id="node10" href="$d8/df7/structRTLIL_1_1IdString.html#a7bfe582986df40d056142ceb673240fa" title="RTLIL::IdString::c_str" alt="" coords="294,102,439,128"/>
+</map>

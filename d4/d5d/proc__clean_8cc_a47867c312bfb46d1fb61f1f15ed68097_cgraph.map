@@ -1,0 +1,5 @@
+<map id="proc_clean_switch" name="proc_clean_switch">
+<area shape="rect" id="node2" href="$dd/d74/structRTLIL_1_1SigSpec.html#a9a085a75d9ede59180209a69cbff8abc" title="RTLIL::SigSpec::size" alt="" coords="185,5,327,32"/>
+<area shape="rect" id="node3" href="$dd/d74/structRTLIL_1_1SigSpec.html#affb6be514bcd0dd530279d57a2fe0207" title="RTLIL::SigSpec::is\l_fully_const" alt="" coords="191,57,321,98"/>
+<area shape="rect" id="node4" href="$d4/d5d/proc__clean_8cc.html#a2a5daed2a451283f7397ff4a52f6f146" title="proc_clean_case" alt="" coords="196,123,316,149"/>
+</map>

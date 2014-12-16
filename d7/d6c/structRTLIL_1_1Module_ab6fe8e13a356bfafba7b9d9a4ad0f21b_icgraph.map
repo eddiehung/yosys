@@ -1,0 +1,6 @@
+<map id="RTLIL::Module::Or" name="RTLIL::Module::Or">
+<area shape="rect" id="node2" href="$d8/d03/structAlumaccWorker_1_1alunode__t.html#ac58dfa7a3ddeea5e62e8e471258d137a" title="AlumaccWorker::alunode\l_t::get_gt" alt="" coords="181,5,347,46"/>
+<area shape="rect" id="node3" href="$d2/db8/structMemoryShareWorker.html#abaaa2c6b8385589f79f3b9671266a631" title="MemoryShareWorker::\lmerge_en_data" alt="" coords="189,70,339,111"/>
+<area shape="rect" id="node4" href="$d2/db8/structMemoryShareWorker.html#a2d7ba3c62cfc9c4bc044edb6fcd3f8f2" title="MemoryShareWorker::\lconsolidate_wr_by_addr" alt="" coords="395,70,557,111"/>
+<area shape="rect" id="node5" href="$d2/db8/structMemoryShareWorker.html#a5717b648835e9b27ba3a3ee9c4401307" title="MemoryShareWorker::\lMemoryShareWorker" alt="" coords="605,70,755,111"/>
+</map>

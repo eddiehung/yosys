@@ -1,0 +1,8 @@
+<map id="FsmOpt" name="FsmOpt">
+<area shape="rect" id="node2" href="$dd/d2c/structFsmData.html" title="FsmData" alt="" coords="5,296,79,323"/>
+<area shape="rect" id="node3" href="$d6/db5/structRTLIL_1_1Cell.html" title="RTLIL::Cell" alt="" coords="198,296,284,323"/>
+<area shape="rect" id="node4" href="$d8/df7/structRTLIL_1_1IdString.html" title="RTLIL::IdString" alt="" coords="186,112,296,139"/>
+<area shape="rect" id="node6" href="$d7/d6c/structRTLIL_1_1Module.html" title="RTLIL::Module" alt="" coords="80,204,187,231"/>
+<area shape="rect" id="node5" href="$d0/d81/structRTLIL_1_1IdString_1_1destruct__guard__t.html" title="RTLIL::IdString::destruct\l_guard_t" alt="" coords="160,6,323,47"/>
+<area shape="rect" id="node7" href="$d1/d01/structRTLIL_1_1Design.html" title="RTLIL::Design" alt="" coords="57,112,161,139"/>
+</map>

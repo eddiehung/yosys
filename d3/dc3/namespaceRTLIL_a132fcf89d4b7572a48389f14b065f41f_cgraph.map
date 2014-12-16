@@ -1,0 +1,11 @@
+<map id="RTLIL::const_mod" name="RTLIL::const_mod">
+<area shape="rect" id="node2" href="$d0/d30/calc_8cc.html#af547062839d6e235d6ede4d49ac9b298" title="const2big" alt="" coords="206,5,285,32"/>
+<area shape="rect" id="node3" href="$d7/d68/classBigInteger.html#a9541bf84b98e82292e45de278db26338" title="BigInteger::isZero" alt="" coords="184,56,307,83"/>
+<area shape="rect" id="node4" href="$d7/d68/classBigInteger.html#a865c91acaa0e07890b31f358e6735306" title="BigInteger::getSign" alt="" coords="372,107,503,133"/>
+<area shape="rect" id="node5" href="$d0/d30/calc_8cc.html#a4cfbfc9e58283c008fed2ec92699ee39" title="big2const" alt="" coords="206,157,285,184"/>
+<area shape="rect" id="node6" href="$d7/d68/classBigInteger.html#a1b744c7157e9e2ac76748f8796b77f7c" title="BigInteger::getMagnitude" alt="" coords="355,157,520,184"/>
+<area shape="rect" id="node7" href="$d0/d5b/classBigUnsigned.html#a90704d2d4a5333f75b7300ad69b378fb" title="BigUnsigned::isZero" alt="" coords="368,208,507,235"/>
+<area shape="rect" id="node9" href="$d0/d5b/classBigUnsigned.html#a3baa66f996f9af5b1fcc62ce6a44b7a2" title="BigUnsigned::getBit" alt="" coords="369,259,505,285"/>
+<area shape="rect" id="node8" href="$d8/de3/classNumberlikeArray.html#ae963c6b412259cd29bf3a4e0b5ade183" title="NumberlikeArray::isEmpty" alt="" coords="568,208,739,235"/>
+<area shape="rect" id="node10" href="$d0/d5b/classBigUnsigned.html#ac503821d701650e4f1a951b151c6f6e6" title="BigUnsigned::getBlock" alt="" coords="577,259,730,285"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="RTLIL::Module::ReduceOr" name="RTLIL::Module::ReduceOr">
+<area shape="rect" id="node2" href="$dc/db8/structAlumaccWorker.html#ab123e81080460ec9e6a452f2b469cf6c" title="AlumaccWorker::replace_alu" alt="" coords="224,5,411,32"/>
+<area shape="rect" id="node5" href="$d7/dd7/structDff2dffeWorker.html#a5044fffc4ad591fd7499fb06c7e84916" title="Dff2dffeWorker::make\l_patterns_logic" alt="" coords="245,57,390,98"/>
+<area shape="rect" id="node9" href="$d2/db8/structMemoryShareWorker.html#aa86f937bf1924175b5bbdeeae0b7491d" title="MemoryShareWorker::\lconsolidate_wr_using_sat" alt="" coords="231,122,403,163"/>
+<area shape="rect" id="node3" href="$dc/db8/structAlumaccWorker.html#a5375d1f3072e76cebee7cf9ce19738e0" title="AlumaccWorker::run" alt="" coords="465,5,604,32"/>
+<area shape="rect" id="node4" href="$db/dd7/structAlumaccPass.html#a1e33892262106adf4d98f4e86f6715ad" title="AlumaccPass::execute" alt="" coords="659,5,813,32"/>
+<area shape="rect" id="node6" href="$d7/dd7/structDff2dffeWorker.html#a4fbb8e200932a617e2769a8b6c29ecfd" title="Dff2dffeWorker::handle\l_dff_cell" alt="" coords="459,57,610,98"/>
+<area shape="rect" id="node7" href="$d7/dd7/structDff2dffeWorker.html#a12c34f6f12de518a1e463d36922bcbef" title="Dff2dffeWorker::run" alt="" coords="671,64,801,91"/>
+<area shape="rect" id="node8" href="$d1/d2a/structDff2dffePass.html#a20ecaddfa6d4cd68a7fdde3370211edf" title="Dff2dffePass::execute" alt="" coords="861,64,1008,91"/>
+<area shape="rect" id="node10" href="$d2/db8/structMemoryShareWorker.html#a5717b648835e9b27ba3a3ee9c4401307" title="MemoryShareWorker::\lMemoryShareWorker" alt="" coords="460,122,609,163"/>
+</map>

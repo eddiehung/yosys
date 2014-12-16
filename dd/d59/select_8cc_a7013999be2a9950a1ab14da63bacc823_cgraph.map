@@ -1,0 +1,8 @@
+<map id="select_op_expand" name="select_op_expand">
+<area shape="rect" id="node2" href="$d2/dd8/structRTLIL_1_1Selection.html#a2fe6720a7b0186170e6701be3469da8b" title="RTLIL::Selection::selected\l_whole_module" alt="" coords="186,5,361,46"/>
+<area shape="rect" id="node3" href="$d2/dd8/structRTLIL_1_1Selection.html#a35b3c0262d33804a8fafc18336f84339" title="RTLIL::Selection::selected\l_module" alt="" coords="186,70,361,111"/>
+<area shape="rect" id="node4" href="$d2/dd8/structRTLIL_1_1Selection.html#ac3016eef32dcb2ab081864618af2597b" title="RTLIL::Selection::selected\l_member" alt="" coords="186,135,361,177"/>
+<area shape="rect" id="node5" href="$d7/d6c/structRTLIL_1_1Module.html#aa093cc84407f5e461655a356b1b0f6e9" title="RTLIL::Module::connections" alt="" coords="182,201,365,228"/>
+<area shape="rect" id="node6" href="$d0/d4d/structCellTypes.html#ac9f27bc21d222fe95271c25b5295b6c3" title="CellTypes::cell_input" alt="" coords="203,252,343,279"/>
+<area shape="rect" id="node7" href="$d0/d4d/structCellTypes.html#a9d3f029f5b32cfcfe9826f90d99dc7ef" title="CellTypes::cell_output" alt="" coords="199,303,347,329"/>
+</map>
